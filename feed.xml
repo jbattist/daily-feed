@@ -4,10 +4,10 @@
   <title>Joe's Daily Curated Feed</title>
   <link>http://localhost:8484/feed.xml</link>
   <description>Daily news curated by Giselle, Oz, Shinola &amp; Deangelo</description>
-  <lastBuildDate>Thu, 19 Feb 2026 16:00:32 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 19 Feb 2026 16:04:17 GMT</lastBuildDate>
   <atom:link href="http://localhost:8484/feed.xml" rel="self" type="application/rss+xml"/>
   <item>
-    <title>Step 3.5 Flash — Open-Source 196B MoE Foundation Model with Deep Reasoning</title>
+    <title>[Shinola] Step 3.5 Flash — Open-Source 196B MoE Foundation Model with Deep Reasoning</title>
     <link>https://static.stepfun.com/blog/step-3.5-flash/</link>
     <description>StepFun released Step 3.5 Flash, a 196B-parameter open-source MoE model that activates only 11B params per token. It rivals Claude Opus 4.5 and Gemini 3.0 Pro on benchmarks, hits 74.4% on SWE-bench Verified, and generates 100-300 tok/s — with an AMA happening today on r/LocalLLaMA.</description>
     <category>Shinola</category>
@@ -15,7 +15,7 @@
     <guid isPermaLink="true">https://static.stepfun.com/blog/step-3.5-flash/</guid>
   </item>
   <item>
-    <title>15 Years of FP64 Segmentation, and Why the Blackwell Ultra Breaks the Pattern</title>
+    <title>[Shinola] 15 Years of FP64 Segmentation, and Why the Blackwell Ultra Breaks the Pattern</title>
     <link>https://nicolasdickenmann.com/blog/the-great-fp64-divide.html</link>
     <description>Deep dive into how NVIDIA deliberately widened the FP64:FP32 gap on consumer GPUs from 1:8 (Fermi, 2010) to 1:64 (Ampere, 2020) for market segmentation — and how the AI boom is now disrupting that 15-year strategy with Blackwell Ultra.</description>
     <category>Shinola</category>
@@ -23,7 +23,7 @@
     <guid isPermaLink="true">https://nicolasdickenmann.com/blog/the-great-fp64-divide.html</guid>
   </item>
   <item>
-    <title>Don't Trust the Salt: AI Summarization, Multilingual Safety, and LLM Guardrails</title>
+    <title>[Shinola] Don't Trust the Salt: AI Summarization, Multilingual Safety, and LLM Guardrails</title>
     <link>https://royapakzad.substack.com/p/multilingual-llm-evaluation-to-guardrails</link>
     <description>A thorough examination of how LLM guardrails and safety evaluations fall apart in non-English languages. Explores the gap between multilingual claims and actual safety coverage, with implications for anyone deploying LLMs globally.</description>
     <category>Shinola</category>
@@ -31,7 +31,7 @@
     <guid isPermaLink="true">https://royapakzad.substack.com/p/multilingual-llm-evaluation-to-guardrails</guid>
   </item>
   <item>
-    <title>n8n — Fair-Code Workflow Automation with Native AI Capabilities</title>
+    <title>[Shinola] n8n — Fair-Code Workflow Automation with Native AI Capabilities</title>
     <link>https://github.com/n8n-io/n8n</link>
     <description>n8n is trending on GitHub again — a self-hostable workflow automation platform with 400+ integrations and native AI agent capabilities. Think Zapier meets LangChain, but you own the infra. Great for building agentic workflows without vendor lock-in.</description>
     <category>Shinola</category>
@@ -39,7 +39,7 @@
     <guid isPermaLink="true">https://github.com/n8n-io/n8n</guid>
   </item>
   <item>
-    <title>Mini-Diarium — Encrypted, Local, Cross-Platform Journaling App</title>
+    <title>[Shinola] Mini-Diarium — Encrypted, Local, Cross-Platform Journaling App</title>
     <link>https://github.com/fjrevoredo/mini-diarium</link>
     <description>A Show HN hit: a spiritual successor to Mini Diary, rebuilt from scratch with Tauri 2, SolidJS, and Rust. AES-256-GCM encryption, fully offline, never phones home. A nice example of modern desktop app architecture.</description>
     <category>Shinola</category>
@@ -47,7 +47,7 @@
     <guid isPermaLink="true">https://github.com/fjrevoredo/mini-diarium</guid>
   </item>
   <item>
-    <title>Cosmologically Unique IDs</title>
+    <title>[Shinola] Cosmologically Unique IDs</title>
     <link>https://jasonfantl.com/posts/Universal-Unique-IDs/</link>
     <description>A fun and surprisingly deep exploration of what it would take to generate IDs that are unique not just across your database, but across the entire observable universe. 435+ points on HN with great discussion on entropy and collision probability.</description>
     <category>Shinola</category>
@@ -55,7 +55,7 @@
     <guid isPermaLink="true">https://jasonfantl.com/posts/Universal-Unique-IDs/</guid>
   </item>
   <item>
-    <title>LLMs for Mortals: A Practical Guide for Analysts with Python</title>
+    <title>[Shinola] LLMs for Mortals: A Practical Guide for Analysts with Python</title>
     <link>https://crimede-coder.com/blogposts/2026/LLMsForMortals</link>
     <description>A practical, no-hype guide to using large language models for data analysis work in Python. Aimed at analysts who aren't ML engineers but want to integrate LLMs into their workflows effectively.</description>
     <category>Shinola</category>
@@ -63,7 +63,7 @@
     <guid isPermaLink="true">https://crimede-coder.com/blogposts/2026/LLMsForMortals</guid>
   </item>
   <item>
-    <title>Tailscale Peer Relays is Now Generally Available</title>
+    <title>[Ozmataz] Tailscale Peer Relays is Now Generally Available</title>
     <link>https://tailscale.com/blog/peer-relays-ga</link>
     <description>Tailscale's customer-deployed Peer Relays hit GA with major throughput improvements, better lock contention handling, and multi-socket UDP support. Deploy your own high-performance relay on any Tailscale node when direct P2P connections get blocked by firewalls or hard NATs.</description>
     <category>Ozmataz</category>
@@ -71,7 +71,7 @@
     <guid isPermaLink="true">https://tailscale.com/blog/peer-relays-ga</guid>
   </item>
   <item>
-    <title>Seerr: Overseerr and Jellyseerr Merge Into One Project</title>
+    <title>[Ozmataz] Seerr: Overseerr and Jellyseerr Merge Into One Project</title>
     <link>https://www.reddit.com/r/selfhosted/comments/1r3uvet/</link>
     <description>The Overseerr and Jellyseerr teams have merged into Seerr — a single unified media request manager supporting Plex, Jellyfin, and Emby. New features include PostgreSQL support, blocklists, override rules, TVDB metadata, and DNS caching friendly to Pi-hole/AdGuard setups.</description>
     <category>Ozmataz</category>
@@ -79,7 +79,7 @@
     <guid isPermaLink="true">https://www.reddit.com/r/selfhosted/comments/1r3uvet/</guid>
   </item>
   <item>
-    <title>Let's Encrypt Announces DNS-PERSIST-01 Challenge Type</title>
+    <title>[Ozmataz] Let's Encrypt Announces DNS-PERSIST-01 Challenge Type</title>
     <link>https://letsencrypt.org/2026/02/18/dns-persist-01.html</link>
     <description>Let's Encrypt is implementing DNS-PERSIST-01, a new ACME challenge that replaces repeated DNS token updates with a persistent authorization record. Huge win for homelab wildcard cert renewals — no more DNS API credentials in your issuance pipeline or waiting on propagation delays.</description>
     <category>Ozmataz</category>
@@ -87,7 +87,7 @@
     <guid isPermaLink="true">https://letsencrypt.org/2026/02/18/dns-persist-01.html</guid>
   </item>
   <item>
-    <title>Asahi Linux Progress Report: Linux 6.19</title>
+    <title>[Ozmataz] Asahi Linux Progress Report: Linux 6.19</title>
     <link>https://asahilinux.org/2026/02/progress-report-6-19/</link>
     <description>The Asahi Linux team drops a detailed progress report on their Linux 6.19 kernel work for Apple Silicon. Continues to be the gold standard for reverse-engineering proprietary hardware into a fully open-source Linux experience on M-series Macs.</description>
     <category>Ozmataz</category>
@@ -95,7 +95,7 @@
     <guid isPermaLink="true">https://asahilinux.org/2026/02/progress-report-6-19/</guid>
   </item>
   <item>
-    <title>Weston 15.0 Wayland Compositor Released with Vulkan Renderer</title>
+    <title>[Ozmataz] Weston 15.0 Wayland Compositor Released with Vulkan Renderer</title>
     <link>https://www.phoronix.com/news/Weston-15.0-Released</link>
     <description>The reference Wayland compositor ships version 15.0 with an experimental Vulkan renderer and new protocol support. A significant milestone for the Wayland ecosystem that signals continued maturation of the display server stack.</description>
     <category>Ozmataz</category>
@@ -103,7 +103,7 @@
     <guid isPermaLink="true">https://www.phoronix.com/news/Weston-15.0-Released</guid>
   </item>
   <item>
-    <title>PipeWire 1.6 Released with Many New Features</title>
+    <title>[Ozmataz] PipeWire 1.6 Released with Many New Features</title>
     <link>https://www.phoronix.com/news/PipeWire-1.6</link>
     <description>PipeWire 1.6 lands with a fresh batch of features for Linux audio/video stream management. If you're running any Linux desktop or media server in your homelab, this is the plumbing that makes it all work smoothly with Flatpak sandboxing and more.</description>
     <category>Ozmataz</category>
@@ -111,7 +111,7 @@
     <guid isPermaLink="true">https://www.phoronix.com/news/PipeWire-1.6</guid>
   </item>
   <item>
-    <title>Terminals Should Generate the 256-Color Palette</title>
+    <title>[Ozmataz] Terminals Should Generate the 256-Color Palette</title>
     <link>https://gist.github.com/jake-stewart/0a8ea46159a7da2c808e5be2177e1783</link>
     <description>A well-argued proposal (481 points on HN) that terminal emulators should algorithmically generate their 256-color palettes from the base 16 colors rather than using hardcoded values. Would make terminal theming dramatically more consistent across tools and colorschemes.</description>
     <category>Ozmataz</category>
@@ -119,7 +119,7 @@
     <guid isPermaLink="true">https://gist.github.com/jake-stewart/0a8ea46159a7da2c808e5be2177e1783</guid>
   </item>
   <item>
-    <title>Chorographia 0.3.0: Obsidian Plugin Turns Your Vault into a Semantic World Map</title>
+    <title>[Giselle] Chorographia 0.3.0: Obsidian Plugin Turns Your Vault into a Semantic World Map</title>
     <link>https://www.reddit.com/r/ObsidianMD/comments/1r92f0a/chorographia_update_030_beta_release/</link>
     <description>Major update to Chorographia, the Obsidian plugin that embeds your notes semantically and projects them into a 2D map. New 'World Map' mode renders your knowledge as non-overlapping countries with fractal coastlines, plus OpenRouter support and a map lock feature that keeps layouts stable as your vault grows.</description>
     <category>Giselle</category>
@@ -127,7 +127,7 @@
     <guid isPermaLink="true">https://www.reddit.com/r/ObsidianMD/comments/1r92f0a/chorographia_update_030_beta_release/</guid>
   </item>
   <item>
-    <title>Obsidian 1.11.7 Mobile: New Customization Options for the Redesigned Interface</title>
+    <title>[Giselle] Obsidian 1.11.7 Mobile: New Customization Options for the Redesigned Interface</title>
     <link>https://obsidian.md/changelog/2026-02-05-mobile-v1.11.7/</link>
     <description>Obsidian's latest mobile release adds toggles for full-screen mode, floating vs. anchored navigation, and sliding sidebar behavior — addressing community feedback on the 1.11 redesign. Also includes new app actions (quick vault switching, daily note from home screen) and restricted mode for debugging plugin issues.</description>
     <category>Giselle</category>
@@ -135,7 +135,7 @@
     <guid isPermaLink="true">https://obsidian.md/changelog/2026-02-05-mobile-v1.11.7/</guid>
   </item>
   <item>
-    <title>Mini-Diarium: An Encrypted, Local, Cross-Platform Journaling App (Show HN)</title>
+    <title>[Giselle] Mini-Diarium: An Encrypted, Local, Cross-Platform Journaling App (Show HN)</title>
     <link>https://github.com/fjrevoredo/mini-diarium</link>
     <description>A new open-source journaling app built with Tauri, SolidJS, and Rust — spiritual successor to the beloved Mini Diary. Every entry is AES-256-GCM encrypted, the app never touches the internet, and it supports key file authentication like SSH keys for your journal. Hit the HN front page with 68+ points.</description>
     <category>Giselle</category>
@@ -143,7 +143,7 @@
     <guid isPermaLink="true">https://github.com/fjrevoredo/mini-diarium</guid>
   </item>
   <item>
-    <title>Discussion: Why Is Everybody Building Tools Instead of Teaching How to Build Your Own PKM System?</title>
+    <title>[Giselle] Discussion: Why Is Everybody Building Tools Instead of Teaching How to Build Your Own PKM System?</title>
     <link>https://www.reddit.com/r/PKMS/comments/1r92aya/why_is_everybody_building_tools_or_new_systems/</link>
     <description>A thoughtful r/PKMS discussion pushing back on the constant stream of new tools and 'holy grail' systems. The author argues we need more authentic advice on building personal knowledge management from scratch, since everyone's needs are different — tools should follow methodology, not replace it.</description>
     <category>Giselle</category>
@@ -151,7 +151,7 @@
     <guid isPermaLink="true">https://www.reddit.com/r/PKMS/comments/1r92aya/why_is_everybody_building_tools_or_new_systems/</guid>
   </item>
   <item>
-    <title>Should Mini Essays Live Outside Your Main Zettelkasten Notes?</title>
+    <title>[Giselle] Should Mini Essays Live Outside Your Main Zettelkasten Notes?</title>
     <link>https://www.reddit.com/r/Zettelkasten/comments/1r32ybs/should_mini_essays_be_kept_outside_of_the_main/</link>
     <description>A practical Zettelkasten discussion on where longer-form 'mini essays' fit when atomic notes are supposed to be short and focused. The community weighs in with strategies for integrating exploratory writing without breaking the one-idea-per-note principle — a common tension for anyone doing serious PKM.</description>
     <category>Giselle</category>
@@ -159,7 +159,7 @@
     <guid isPermaLink="true">https://www.reddit.com/r/Zettelkasten/comments/1r32ybs/should_mini_essays_be_kept_outside_of_the_main/</guid>
   </item>
   <item>
-    <title>Active Recall &amp; Spaced Repetition Tools with Knowledge Graph Insights</title>
+    <title>[Giselle] Active Recall &amp; Spaced Repetition Tools with Knowledge Graph Insights</title>
     <link>https://www.reddit.com/r/PKMS/comments/1r90gzy/how_to_remember_what_you_learn_active_recall/</link>
     <description>A video walkthrough exploring how to combine active recall and spaced repetition with knowledge graph visualization for better retention. Relevant for anyone trying to bridge the gap between capturing knowledge and actually remembering it — the perennial PKM weak spot.</description>
     <category>Giselle</category>
@@ -167,7 +167,7 @@
     <guid isPermaLink="true">https://www.reddit.com/r/PKMS/comments/1r90gzy/how_to_remember_what_you_learn_active_recall/</guid>
   </item>
   <item>
-    <title>Anthropic Launches Claude Sonnet 4.6 with Major Computer Use and Coding Improvements</title>
+    <title>[Deangelo] Anthropic Launches Claude Sonnet 4.6 with Major Computer Use and Coding Improvements</title>
     <link>https://www.anthropic.com/news/claude-sonnet-4-6</link>
     <description>Anthropic's new Sonnet 4.6 approaches Opus-level intelligence at Sonnet pricing ($3/$15 per million tokens), with dramatically improved computer use, coding, and 1M token context window. For enterprise AI buyers, this narrows the gap between mid-tier and premium models — significant for cost-conscious deployments.</description>
     <category>Deangelo</category>
@@ -175,7 +175,7 @@
     <guid isPermaLink="true">https://www.anthropic.com/news/claude-sonnet-4-6</guid>
   </item>
   <item>
-    <title>OpenAI Introduces Lockdown Mode to Protect Enterprise Users from Prompt Injection Attacks</title>
+    <title>[Deangelo] OpenAI Introduces Lockdown Mode to Protect Enterprise Users from Prompt Injection Attacks</title>
     <link>https://openai.com/index/introducing-lockdown-mode-and-elevated-risk-labels-in-chatgpt/</link>
     <description>OpenAI launched an optional Lockdown Mode for ChatGPT Enterprise and Edu that deterministically blocks external data exfiltration via prompt injection — disabling live web browsing and constraining tool interactions. A clear signal that enterprise AI security is becoming table stakes for vendor selection.</description>
     <category>Deangelo</category>
@@ -183,7 +183,7 @@
     <guid isPermaLink="true">https://openai.com/index/introducing-lockdown-mode-and-elevated-risk-labels-in-chatgpt/</guid>
   </item>
   <item>
-    <title>Department of Defense May Designate Anthropic as a 'Supply Chain Risk'</title>
+    <title>[Deangelo] Department of Defense May Designate Anthropic as a 'Supply Chain Risk'</title>
     <link>https://www.axios.com/2026/02/16/anthropic-defense-department-relationship-hegseth</link>
     <description>The DoD is considering labeling Anthropic a supply chain risk, which would force any military contractor to cut ties with the company. This has massive implications for the federal AI vendor landscape and could reshape which foundation model providers win government and defense-adjacent consulting work.</description>
     <category>Deangelo</category>
@@ -191,7 +191,7 @@
     <guid isPermaLink="true">https://www.axios.com/2026/02/16/anthropic-defense-department-relationship-hegseth</guid>
   </item>
   <item>
-    <title>Meta Begins $65 Million Election Push to Advance AI Agenda at State Level</title>
+    <title>[Deangelo] Meta Begins $65 Million Election Push to Advance AI Agenda at State Level</title>
     <link>https://www.nytimes.com/2026/02/18/technology/meta-65-million-election-ai.html</link>
     <description>Meta is deploying $65M across bipartisan super PACs to back state politicians friendly to AI and block restrictive legislation, starting in Texas and Illinois. This is the most aggressive political spending by a tech company specifically to shape AI regulation — worth watching for anyone advising clients on AI governance and compliance.</description>
     <category>Deangelo</category>
@@ -199,7 +199,7 @@
     <guid isPermaLink="true">https://www.nytimes.com/2026/02/18/technology/meta-65-million-election-ai.html</guid>
   </item>
   <item>
-    <title>Netflix Threatens ByteDance with 'Immediate Litigation' Over Seedance AI Copyright Infringement</title>
+    <title>[Deangelo] Netflix Threatens ByteDance with 'Immediate Litigation' Over Seedance AI Copyright Infringement</title>
     <link>https://variety.com/2026/tv/news/netflix-bytedance-immediate-litigation-seedance-ai-1236666084/</link>
     <description>Netflix joins Disney, Paramount, and Warner Bros. in accusing ByteDance's Seedance 2.0 video AI of mass IP infringement, calling it a 'high-speed piracy engine.' The escalating legal battle over generative AI and intellectual property is setting precedents that will shape enterprise AI content policies for years.</description>
     <category>Deangelo</category>
@@ -207,7 +207,7 @@
     <guid isPermaLink="true">https://variety.com/2026/tv/news/netflix-bytedance-immediate-litigation-seedance-ai-1236666084/</guid>
   </item>
   <item>
-    <title>OpenAI Hires Instagram's VP of Global Partnerships as First VP of Creative Partnerships</title>
+    <title>[Deangelo] OpenAI Hires Instagram's VP of Global Partnerships as First VP of Creative Partnerships</title>
     <link>https://www.theverge.com/ai-artificial-intelligence</link>
     <description>Charles Porch, who orchestrated Instagram's biggest creator partnerships including Beyoncé's album launch, joins OpenAI to build relationships with creative communities worldwide. This signals OpenAI's strategic pivot toward enterprise content partnerships — a market professional services firms should be positioning around.</description>
     <category>Deangelo</category>
@@ -215,7 +215,7 @@
     <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence</guid>
   </item>
   <item>
-    <title>Unity Plans AI-Driven Game Authoring: 'Prompt Full Casual Games Into Existence'</title>
+    <title>[Deangelo] Unity Plans AI-Driven Game Authoring: 'Prompt Full Casual Games Into Existence'</title>
     <link>https://www.gamedeveloper.com/programming/unity-says-its-ai-tech-will-soon-be-able-to-prompt-full-casual-games-into-existence-</link>
     <description>Unity CEO announced AI-driven authoring as a major 2026 focus, aiming to let developers generate entire casual games from prompts — despite growing developer skepticism of generative AI. A bellwether for how platform companies are betting on AI to transform creative workflows, with implications for any industry where 'AI as co-creator' is the pitch.</description>
     <category>Deangelo</category>
