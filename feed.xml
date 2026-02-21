@@ -4,8 +4,200 @@
   <title>Joe's Daily Curated Feed</title>
   <link>http://localhost:8484/feed.xml</link>
   <description>Daily news curated by Giselle, Oz, Shinola &amp; Deangelo</description>
-  <lastBuildDate>Fri, 20 Feb 2026 12:45:04 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 21 Feb 2026 12:45:03 GMT</lastBuildDate>
   <atom:link href="http://localhost:8484/feed.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>[Shinola] Ollama v0.17.0-rc1 released</title>
+    <link>https://github.com/ollama/ollama/releases/tag/v0.17.0-rc1</link>
+    <description>Ollama pushed a new release candidate on Feb 21, signaling fresh local-model runtime updates worth testing before stable rollout. If you run self-hosted inference stacks, this is the one to watch this weekend.</description>
+    <category>Shinola</category>
+    <pubDate>Sat, 21 Feb 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://github.com/ollama/ollama/releases/tag/v0.17.0-rc1</guid>
+  </item>
+  <item>
+    <title>[Shinola] LocalAI v3.12.0 is out</title>
+    <link>https://github.com/mudler/LocalAI/releases/tag/v3.12.0</link>
+    <description>LocalAI shipped v3.12.0 on Feb 20, continuing rapid iteration for OpenAI-compatible local inference deployments. Strong pick for teams running air-gapped or cost-sensitive AI workloads.</description>
+    <category>Shinola</category>
+    <pubDate>Sat, 21 Feb 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://github.com/mudler/LocalAI/releases/tag/v3.12.0</guid>
+  </item>
+  <item>
+    <title>[Shinola] OpenClaw 2026.2.19 release published</title>
+    <link>https://github.com/openclaw/openclaw/releases/tag/v2026.2.19</link>
+    <description>OpenClaw’s Feb 19 release landed with major platform and reliability upgrades, plus a large security hardening wave across gateway, browser relay, cron/webhooks, and plugin surfaces. Big release if you’re operating agent infrastructure in production.</description>
+    <category>Shinola</category>
+    <pubDate>Sat, 21 Feb 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://github.com/openclaw/openclaw/releases/tag/v2026.2.19</guid>
+  </item>
+  <item>
+    <title>[Shinola] llama.cpp b8121 released</title>
+    <link>https://github.com/ggml-org/llama.cpp/releases/tag/b8121</link>
+    <description>A fresh llama.cpp build dropped on Feb 21, keeping the pace high for local GGUF inference and quantized model experimentation. This is a key signal for anyone benchmarking edge/local model performance.</description>
+    <category>Shinola</category>
+    <pubDate>Sat, 21 Feb 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://github.com/ggml-org/llama.cpp/releases/tag/b8121</guid>
+  </item>
+  <item>
+    <title>[Shinola] Anthropic Claude Code v2.1.50 released</title>
+    <link>https://github.com/anthropics/claude-code/releases/tag/v2.1.50</link>
+    <description>Claude Code shipped v2.1.50 on Feb 20, making it one of the fastest-moving agentic dev tooling tracks right now. Worth monitoring if your team is standardizing AI-assisted coding workflows.</description>
+    <category>Shinola</category>
+    <pubDate>Sat, 21 Feb 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://github.com/anthropics/claude-code/releases/tag/v2.1.50</guid>
+  </item>
+  <item>
+    <title>[Shinola] YouTube: Claude Code + Trigger.dev: I’m Never Building Agents the Same Way</title>
+    <link>https://www.youtube.com/watch?v=UGIZnh6HNLc</link>
+    <description>Published ~22 hours ago, this video is a timely walkthrough of practical agent orchestration patterns using Claude Code and Trigger.dev. Good watch for real-world automation architecture ideas beyond toy demos.</description>
+    <category>Shinola</category>
+    <pubDate>Sat, 21 Feb 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://www.youtube.com/watch?v=UGIZnh6HNLc</guid>
+  </item>
+  <item>
+    <title>[Ozmataz] Seven stable Linux kernels released (6.19.3, 6.18.13, 6.12.74, 6.6.127, 6.1.164, 5.15.201, 5.10.251)</title>
+    <link>https://lwn.net/Articles/1059538/</link>
+    <description>Greg KH pushed seven stable kernel updates in one batch, each carrying important fixes across current and LTS branches. For homelab and self-hosted operators, this is a strong signal to plan patch windows quickly.</description>
+    <category>Ozmataz</category>
+    <pubDate>Sat, 21 Feb 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://lwn.net/Articles/1059538/</guid>
+  </item>
+  <item>
+    <title>[Ozmataz] Ubuntu 26.04 enters Feature Freeze</title>
+    <link>https://www.phoronix.com/news/Ubuntu-26.04-Feature-Freeze</link>
+    <description>Ubuntu 26.04 'Resolute Raccoon' has moved into feature freeze, marking the transition from new features to stabilization and bug fixing. This is the point where distro package and infrastructure planning gets much more predictable.</description>
+    <category>Ozmataz</category>
+    <pubDate>Sat, 21 Feb 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://www.phoronix.com/news/Ubuntu-26.04-Feature-Freeze</guid>
+  </item>
+  <item>
+    <title>[Ozmataz] Tailscale Peer Relays reaches GA</title>
+    <link>https://tailscale.com/changelog</link>
+    <description>Tailscale announced general availability for Peer Relays, enabling self-hosted high-throughput relay nodes when direct peer connectivity is not possible. It's a practical upgrade for constrained networks and advanced homelab topologies.</description>
+    <category>Ozmataz</category>
+    <pubDate>Sat, 21 Feb 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://tailscale.com/changelog</guid>
+  </item>
+  <item>
+    <title>[Ozmataz] Docker publishes State of Agentic AI report findings</title>
+    <link>https://www.docker.com/blog/state-of-agentic-ai-key-findings/</link>
+    <description>Docker's new report highlights that most organizations are already running agentic workloads and are standardizing around container-first workflows. The big blockers remain security and orchestration complexity, both highly relevant to self-hosted platform teams.</description>
+    <category>Ozmataz</category>
+    <pubDate>Sat, 21 Feb 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://www.docker.com/blog/state-of-agentic-ai-key-findings/</guid>
+  </item>
+  <item>
+    <title>[Ozmataz] Raspberry Pi: turn a Pi into an AI agent with OpenClaw</title>
+    <link>https://www.raspberrypi.com/news/turn-your-raspberry-pi-into-an-ai-agent-with-openclaw/</link>
+    <description>Raspberry Pi published a walkthrough showing OpenClaw deployments on Pi 5/4 and even lightweight setups on Zero-class hardware. It is a notable SBC-edge automation story for privacy-conscious, always-on home infrastructure.</description>
+    <category>Ozmataz</category>
+    <pubDate>Sat, 21 Feb 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://www.raspberrypi.com/news/turn-your-raspberry-pi-into-an-ai-agent-with-openclaw/</guid>
+  </item>
+  <item>
+    <title>[Ozmataz] Ghostty terminal adding scrollbar support</title>
+    <link>https://www.omgubuntu.co.uk/2026/02/ghostty-linux-scrollbars-coming</link>
+    <description>Ghostty is finally landing native scrollbar support, one of the most requested usability features. Small on paper, but meaningful for power users spending all day in terminal-heavy workflows.</description>
+    <category>Ozmataz</category>
+    <pubDate>Sat, 21 Feb 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://www.omgubuntu.co.uk/2026/02/ghostty-linux-scrollbars-coming</guid>
+  </item>
+  <item>
+    <title>[Giselle] Little-known iPhone shortcut adds time saving button to your lock screen</title>
+    <link>https://news.google.com/rss/articles/CBMirAFBVV95cUxQajJpNmhiOHBFNVN3XzdCRFZMdWdCWmRtbDRUQjM3YUdLVmNJdEFLOUVOUGQ5UXhnby0tdzIyNXl0d0dVbFU5UkVuclFwVlBLU1QyRUV0Tmx5M0FJYmU3RWF6TXZIR3dVMHczaXRLcWd3ZXRvMFI5UnNRTVJBNEVUR1M2aXY4RXROTW5VWTlQQUN4LVd0MHVyUXZleExRNjVNRmNOZ2lkQVlPV0dL?oc=5</link>
+    <description>A practical iOS automation walkthrough showing how to add a one-tap shortcut action directly from the lock screen. Useful for reducing friction in daily capture and routine actions.</description>
+    <category>Giselle</category>
+    <pubDate>Sat, 21 Feb 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://news.google.com/rss/articles/CBMirAFBVV95cUxQajJpNmhiOHBFNVN3XzdCRFZMdWdCWmRtbDRUQjM3YUdLVmNJdEFLOUVOUGQ5UXhnby0tdzIyNXl0d0dVbFU5UkVuclFwVlBLU1QyRUV0Tmx5M0FJYmU3RWF6TXZIR3dVMHczaXRLcWd3ZXRvMFI5UnNRTVJBNEVUR1M2aXY4RXROTW5VWTlQQUN4LVd0MHVyUXZleExRNjVNRmNOZ2lkQVlPV0dL?oc=5</guid>
+  </item>
+  <item>
+    <title>[Giselle] iPhone Shortcuts You Didn’t Know You Needed</title>
+    <link>https://news.google.com/rss/articles/CBMifkFVX3lxTE9PYm9VSGx4RnJkODVwellZanJOUjJSS1Q5Tm5JYlJwNmdZT0NCUG85NnFwRjd6ZkZKdU9DSFdNTV9yZW1jcUtmZGo0dUJqX0p2LXc1N285d0d1a2tIelBibXJRYmhyRWtPNFZ1ZktDSkp2ZnRKbTJpaUdFU0M2QQ?oc=5</link>
+    <description>A fresh roundup of underused Apple Shortcuts patterns that can eliminate repetitive taps and context switching. Good inspiration for personal productivity stack upgrades.</description>
+    <category>Giselle</category>
+    <pubDate>Sat, 21 Feb 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://news.google.com/rss/articles/CBMifkFVX3lxTE9PYm9VSGx4RnJkODVwellZanJOUjJSS1Q5Tm5JYlJwNmdZT0NCUG85NnFwRjd6ZkZKdU9DSFdNTV9yZW1jcUtmZGo0dUJqX0p2LXc1N285d0d1a2tIelBibXJRYmhyRWtPNFZ1ZktDSkp2ZnRKbTJpaUdFU0M2QQ?oc=5</guid>
+  </item>
+  <item>
+    <title>[Giselle] Best No-Code AI Agent Builders 2026: Launch Automations Without Coding</title>
+    <link>https://news.google.com/rss/articles/CBMib0FVX3lxTFBxMVpMTjg4SnUzMThGMHh5bFNOMDUtWmVmb2tjRDVWbXNyZjBsOFo3ZFNDNHhyNkZDbEtGRWk1aFMtQjNOX183allxNFMxUF9zZjRISGFGa09ndEJvUzVIYmxSWHNVUDRQalk2eDd5TQ?oc=5</link>
+    <description>Compares current no-code automation platforms in the AI-agent workflow space, including options relevant to n8n/Make-style builders. Helpful for deciding where to build lightweight automations fastest.</description>
+    <category>Giselle</category>
+    <pubDate>Sat, 21 Feb 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://news.google.com/rss/articles/CBMib0FVX3lxTFBxMVpMTjg4SnUzMThGMHh5bFNOMDUtWmVmb2tjRDVWbXNyZjBsOFo3ZFNDNHhyNkZDbEtGRWk1aFMtQjNOX183allxNFMxUF9zZjRISGFGa09ndEJvUzVIYmxSWHNVUDRQalk2eDd5TQ?oc=5</guid>
+  </item>
+  <item>
+    <title>[Giselle] I switched from Notion to AFFiNE, here's how it's going</title>
+    <link>https://news.google.com/rss/articles/CBMib0FVX3lxTE92dTJCR0xRODVLaEQ5d2VGR3V5YWlQb3Q0aC1Ja1VucVVTTlBidDlxQTgyZFI4Q2oxTXJISndrd0V3T2xPX0FEQk56dFBtcnB3dE9IcmFRNmRTYl9EWFoxVDdpcU5iazAxVXpVSWFUYw?oc=5</link>
+    <description>A first-hand migration report comparing Notion and AFFiNE for knowledge management and everyday planning. Especially relevant for second-brain users evaluating portability and workflow flexibility.</description>
+    <category>Giselle</category>
+    <pubDate>Sat, 21 Feb 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://news.google.com/rss/articles/CBMib0FVX3lxTE92dTJCR0xRODVLaEQ5d2VGR3V5YWlQb3Q0aC1Ja1VucVVTTlBidDlxQTgyZFI4Q2oxTXJISndrd0V3T2xPX0FEQk56dFBtcnB3dE9IcmFRNmRTYl9EWFoxVDdpcU5iazAxVXpVSWFUYw?oc=5</guid>
+  </item>
+  <item>
+    <title>[Giselle] Audio Journaling Apps</title>
+    <link>https://news.google.com/rss/articles/CBMiaEFVX3lxTFByd2R2OUs0M1dsUXZfNk8ycEtMQWlPU3NEZEt6cG5YaGd4TWVjQnM4TGt5YWVvOVB5c3pUN0ZhblFhcVFDUEc5a2xGbDhDS29Fc1g0ZTBxMF95cHM2UERyaTdsb0xRaWg30gFoQVVfeXFMUHJ3ZHY5SzQzV2xRdl82TzJwS0xBaU9Tc0RkS3pwblhoZ3hNZWNCczhMa3lhZW85UHlzelQ3RmFuUWFxUUNQRzlrbEZsOENLb0VzWDRlMHEwX3lwczZQRHJpN2xvTFFpaDc?oc=5</link>
+    <description>Highlights the emerging wave of voice-first journaling tools, reflecting a shift toward lower-friction reflection habits. A useful trend signal for habit tracking and daily review systems.</description>
+    <category>Giselle</category>
+    <pubDate>Sat, 21 Feb 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiaEFVX3lxTFByd2R2OUs0M1dsUXZfNk8ycEtMQWlPU3NEZEt6cG5YaGd4TWVjQnM4TGt5YWVvOVB5c3pUN0ZhblFhcVFDUEc5a2xGbDhDS29Fc1g0ZTBxMF95cHM2UERyaTdsb0xRaWg30gFoQVVfeXFMUHJ3ZHY5SzQzV2xRdl82TzJwS0xBaU9Tc0RkS3pwblhoZ3hNZWNCczhMa3lhZW85UHlzelQ3RmFuUWFxUUNQRzlrbEZsOENLb0VzWDRlMHEwX3lwczZQRHJpN2xvTFFpaDc?oc=5</guid>
+  </item>
+  <item>
+    <title>[Giselle] A Powerful To-Do App for Android That Collects Absolutely None of Your Data</title>
+    <link>https://news.google.com/rss/articles/CBMiYEFVX3lxTFBiNFFXN1FlaENLU3Y1aU0wN2hIRGZ5N2JIcm5iUlRPdXRXcFVhYTBHTmdITk1GZi1aTTBTYWhYSk5CcE9oYU15NTkzcU9ZdXhoUTROYVJnbHFPY0h1dHJhMw?oc=5</link>
+    <description>Covers a privacy-first task manager alternative, relevant to users balancing productivity with data ownership concerns. Worth noting for PKM setups that prioritize local-first or minimal tracking.</description>
+    <category>Giselle</category>
+    <pubDate>Sat, 21 Feb 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiYEFVX3lxTFBiNFFXN1FlaENLU3Y1aU0wN2hIRGZ5N2JIcm5iUlRPdXRXcFVhYTBHTmdITk1GZi1aTTBTYWhYSk5CcE9oYU15NTkzcU9ZdXhoUTROYVJnbHFPY0h1dHJhMw?oc=5</guid>
+  </item>
+  <item>
+    <title>[Deangelo] xAI models now available in Microsoft Copilot Studio | Microsoft Copilot Blog</title>
+    <link>https://news.google.com/rss/articles/CBMi8AFBVV95cUxPNzBjdGZUVGpZYjFQTEZQakpNTThscG05dDdDUS01REpkandQdlRMQVJiWEl0MjdxcHVRUFdLM2Jxc1Y4cUh4ME1mcnhlWjRITnItOEItcGNpU3BPdm02TDBzMFJPOGFYZm5McXJMN3BDVkVsYXY0cXJWemtESjl2dzROaDhqeWJrY2VaT29sX1ZoQnBmZFNGeWNfeHhua2dMWFVhaFBWQzJDbVQwd0FqLWl2YmxkMHNxaXpLSDRzY2ttdjFncy0zRkU1WjBHei1XN1NuSUZ5TWV1MnhiTHhRNURveDVxTy1aR0hNWjdPbWE?oc=5</link>
+    <description>Microsoft added xAI model support in Copilot Studio, signaling continued expansion of multi-model options for enterprise copilots. For buyers, this is a practical move toward model choice, resiliency, and vendor leverage in AI platform strategy.</description>
+    <category>Deangelo</category>
+    <pubDate>Sat, 21 Feb 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://news.google.com/rss/articles/CBMi8AFBVV95cUxPNzBjdGZUVGpZYjFQTEZQakpNTThscG05dDdDUS01REpkandQdlRMQVJiWEl0MjdxcHVRUFdLM2Jxc1Y4cUh4ME1mcnhlWjRITnItOEItcGNpU3BPdm02TDBzMFJPOGFYZm5McXJMN3BDVkVsYXY0cXJWemtESjl2dzROaDhqeWJrY2VaT29sX1ZoQnBmZFNGeWNfeHhua2dMWFVhaFBWQzJDbVQwd0FqLWl2YmxkMHNxaXpLSDRzY2ttdjFncy0zRkU1WjBHei1XN1NuSUZ5TWV1MnhiTHhRNURveDVxTy1aR0hNWjdPbWE?oc=5</guid>
+  </item>
+  <item>
+    <title>[Deangelo] Microsoft Copilot ignored sensitivity labels twice in eight months — and no DLP stack caught either one - VentureBeat</title>
+    <link>https://news.google.com/rss/articles/CBMirwFBVV95cUxPV0xSMVNYQ0hTM2d1QlhFc0ZONld3YklkYlhzLU41Z3NPcjhCQ1M0MEFsY05TSVJpeWVwbGc1U2ltN3hld0xGckhLOXI1SkVZQURlWGpBbERiYTlFSVNjUXliVzZ4amI5bWxEQVhlZmMzMFNjRXk0YmtSUWUyMjhWcUs1OUNEaTFRZzVEajNFelNwQkxFMGJEUjFDenQ1ejBIeFNhemNfblZCbVVESjdF?oc=5</link>
+    <description>A new report highlights potential data-governance gaps in Copilot behavior around sensitivity labels. This is highly relevant for enterprise AI adoption because security controls and compliance trust directly influence rollout speed and scope.</description>
+    <category>Deangelo</category>
+    <pubDate>Sat, 21 Feb 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://news.google.com/rss/articles/CBMirwFBVV95cUxPV0xSMVNYQ0hTM2d1QlhFc0ZONld3YklkYlhzLU41Z3NPcjhCQ1M0MEFsY05TSVJpeWVwbGc1U2ltN3hld0xGckhLOXI1SkVZQURlWGpBbERiYTlFSVNjUXliVzZ4amI5bWxEQVhlZmMzMFNjRXk0YmtSUWUyMjhWcUs1OUNEaTFRZzVEajNFelNwQkxFMGJEUjFDenQ1ejBIeFNhemNfblZCbVVESjdF?oc=5</guid>
+  </item>
+  <item>
+    <title>[Deangelo] OpenAI developing AI devices including smart speaker, The Information reports - Reuters</title>
+    <link>https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUFBYQ2w3Qm9UTWEycDRQSnV4bDZpOU5KQWgwZkNSY2wzT0VTNzZnR0ZQTXQ3bU8wd2FySG1wUnloaXFDWUcwMVhOdnJBYVlNMUhCc0kyYTdWV0poU2FXUlhTWks5bGVEX2RzV2xxTDNlbS0yYW5DWjBVR0ZTaFFPbVJON2RGcXNiMldVZUJfTEh0OTFlT2VyWmh4c0wtNklFb0VzTHNYbEFHR2JmTEs5enBSdTVURWx6?oc=5</link>
+    <description>Reuters reports OpenAI is developing AI hardware, including a smart-speaker-style device. The strategic signal: frontier model providers are moving beyond software and toward integrated product ecosystems that can reshape distribution and user engagement.</description>
+    <category>Deangelo</category>
+    <pubDate>Sat, 21 Feb 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUFBYQ2w3Qm9UTWEycDRQSnV4bDZpOU5KQWgwZkNSY2wzT0VTNzZnR0ZQTXQ3bU8wd2FySG1wUnloaXFDWUcwMVhOdnJBYVlNMUhCc0kyYTdWV0poU2FXUlhTWks5bGVEX2RzV2xxTDNlbS0yYW5DWjBVR0ZTaFFPbVJON2RGcXNiMldVZUJfTEh0OTFlT2VyWmh4c0wtNklFb0VzTHNYbEFHR2JmTEs5enBSdTVURWx6?oc=5</guid>
+  </item>
+  <item>
+    <title>[Deangelo] Making frontier cybersecurity capabilities available to defenders - Anthropic</title>
+    <link>https://news.google.com/rss/articles/CBMiYEFVX3lxTFBvaU1YUDA5TzFVT0tfOGtOcUM4ZnZtRkR1WFZFVWlMcjVCUTFOUDZqRzVuTkh1QTRFcTRZQkkyM3JldkxzcjFEdkZPNW16TndPY2JEVW9BSUJpR2o3TFJLaA?oc=5</link>
+    <description>Anthropic announced new cybersecurity-focused capabilities aimed at helping defenders identify and respond to threats faster. This reflects a broader enterprise trend where AI value is increasingly measured in operational risk reduction, not just productivity gains.</description>
+    <category>Deangelo</category>
+    <pubDate>Sat, 21 Feb 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiYEFVX3lxTFBvaU1YUDA5TzFVT0tfOGtOcUM4ZnZtRkR1WFZFVWlMcjVCUTFOUDZqRzVuTkh1QTRFcTRZQkkyM3JldkxzcjFEdkZPNW16TndPY2JEVW9BSUJpR2o3TFJLaA?oc=5</guid>
+  </item>
+  <item>
+    <title>[Deangelo] Google Cloud Integrates Ab Initio Tools to Connect Distributed Data for AI Agents - HPCwire</title>
+    <link>https://news.google.com/rss/articles/CBMiywFBVV95cUxNMGpDUlBIbm5VbmFnVzlja3laZGZkVlptbUZKb01BNW5RS0dFcVUtTFBqSmV6Z3owZ0NzWDZNNEFJWWFtV0YzRDl2aGwzLTlYZEdYRmlPVlpLNDB1RGtZeGpzdUJDZ3hRdTl1MERRMWxISGdCQ0pObmdBYjJuYkhES0ZobWMzRWRzWHhOUG0zRWhYOWgzTjNFcWZNS0UzbGtYWVE4MEFXbU5Fc18xbXRXMDRSRndEWjhockxfVkRUODJxQm8zd1JjSEN6MA?oc=5</link>
+    <description>Google Cloud’s integration with Ab Initio targets a core enterprise bottleneck: fragmented data pipelines that limit AI agent performance. Better data interoperability is a key enabler for scaling agentic AI in regulated and legacy-heavy environments.</description>
+    <category>Deangelo</category>
+    <pubDate>Sat, 21 Feb 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiywFBVV95cUxNMGpDUlBIbm5VbmFnVzlja3laZGZkVlptbUZKb01BNW5RS0dFcVUtTFBqSmV6Z3owZ0NzWDZNNEFJWWFtV0YzRDl2aGwzLTlYZEdYRmlPVlpLNDB1RGtZeGpzdUJDZ3hRdTl1MERRMWxISGdCQ0pObmdBYjJuYkhES0ZobWMzRWRzWHhOUG0zRWhYOWgzTjNFcWZNS0UzbGtYWVE4MEFXbU5Fc18xbXRXMDRSRndEWjhockxfVkRUODJxQm8zd1JjSEN6MA?oc=5</guid>
+  </item>
+  <item>
+    <title>[Deangelo] Accenture’s new rule links promotions for senior staff to AI tool adoption - Storyboard18</title>
+    <link>https://news.google.com/rss/articles/CBMixwFBVV95cUxQaHgwQVVSTGd3LW5NVVNWZV9zbUp4NG1jTWNiZHo0dEN1TG83bUozMi1pcEF4N3dtbkdSMVloNmVwZV9RRnY1RHZPMlZpTmJBV0JiRHRfZ0U5MlpaVUFwNVhTUkdZME5LVzdYUWJCZmd5cGpXNUF4bl9DNGZkbk9iTkRwRXBSbXhLMDBfVVI0ZVhwWk4wQ0YzdHd3WUpwX1VDSlVwRGljMXBxVUdEN2dnQzRGOER4UDBsMXVXUF8tU2tsa2Nva0Nv0gHMAUFVX3lxTE5fWjJwNGFEcXpCN0tsUUx4NFBCWkJ6a1d3SkUwWXgtOFFnZW43aWxnUDRiMERrb011ZjMzeDdrSFBaTlR2ZHBWOGRPazRmZnZtUnFNTVFNdDhxalNsTG5CSU5RQ1FEaXlNZXRGNTBpSFBIc01Sb2hzbEhlNDhYOF9ZdWttY19UdExtLVRaY3BrUno3cllwbnZ1NDlEM25EVDZrdG9MRC1WdlU3RlpENEFyUnYzQzhNb3BFWWFxODVDMkkwV1diZzZKUExtbw?oc=5</link>
+    <description>Accenture reportedly tied senior promotion criteria to AI tool usage, a notable org-design signal from professional services. It shows firms are shifting AI from optional experimentation to an explicit leadership competency and performance expectation.</description>
+    <category>Deangelo</category>
+    <pubDate>Sat, 21 Feb 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://news.google.com/rss/articles/CBMixwFBVV95cUxQaHgwQVVSTGd3LW5NVVNWZV9zbUp4NG1jTWNiZHo0dEN1TG83bUozMi1pcEF4N3dtbkdSMVloNmVwZV9RRnY1RHZPMlZpTmJBV0JiRHRfZ0U5MlpaVUFwNVhTUkdZME5LVzdYUWJCZmd5cGpXNUF4bl9DNGZkbk9iTkRwRXBSbXhLMDBfVVI0ZVhwWk4wQ0YzdHd3WUpwX1VDSlVwRGljMXBxVUdEN2dnQzRGOER4UDBsMXVXUF8tU2tsa2Nva0Nv0gHMAUFVX3lxTE5fWjJwNGFEcXpCN0tsUUx4NFBCWkJ6a1d3SkUwWXgtOFFnZW43aWxnUDRiMERrb011ZjMzeDdrSFBaTlR2ZHBWOGRPazRmZnZtUnFNTVFNdDhxalNsTG5CSU5RQ1FEaXlNZXRGNTBpSFBIc01Sb2hzbEhlNDhYOF9ZdWttY19UdExtLVRaY3BrUno3cllwbnZ1NDlEM25EVDZrdG9MRC1WdlU3RlpENEFyUnYzQzhNb3BFWWFxODVDMkkwV1diZzZKUExtbw?oc=5</guid>
+  </item>
   <item>
     <title>[Shinola] Step 3.5 Flash — Open-Source 196B MoE Foundation Model with Deep Reasoning</title>
     <link>https://static.stepfun.com/blog/step-3.5-flash/</link>
