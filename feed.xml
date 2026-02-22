@@ -4,8 +4,248 @@
   <title>Joe's Daily Curated Feed</title>
   <link>http://localhost:8484/feed.xml</link>
   <description>Daily news curated by Giselle, Oz, Shinola &amp; Deangelo</description>
-  <lastBuildDate>Sat, 21 Feb 2026 12:45:03 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 22 Feb 2026 12:45:03 GMT</lastBuildDate>
   <atom:link href="http://localhost:8484/feed.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>[Shinola] NTransformer: Run Llama 70B on a Single RTX 3090 via NVMe-to-GPU Bypass</title>
+    <link>https://github.com/xaskasdf/ntransformer</link>
+    <description>A new C++/CUDA inference engine streams model layers through GPU memory via PCIe with optional NVMe direct I/O, achieving 83x speedup over mmap for 70B models on consumer hardware. Zero external dependencies beyond CUDA Toolkit.</description>
+    <category>Shinola</category>
+    <pubDate>Sun, 22 Feb 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://github.com/xaskasdf/ntransformer</guid>
+  </item>
+  <item>
+    <title>[Shinola] How Taalas &quot;Prints&quot; an LLM onto a Chip — 17,000 Tokens/Second</title>
+    <link>https://www.anuragk.com/blog/posts/Taalas.html</link>
+    <description>Taalas released a fixed-function ASIC that hardwires Llama 3.1 8B weights directly onto silicon, achieving 17K tok/s — 10x faster, 10x cheaper, and 10x more power-efficient than GPU inference. Great explainer of the memory bandwidth bottleneck ASICs solve.</description>
+    <category>Shinola</category>
+    <pubDate>Sun, 22 Feb 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://www.anuragk.com/blog/posts/Taalas.html</guid>
+  </item>
+  <item>
+    <title>[Shinola] How I Use Claude Code: Separation of Planning and Execution</title>
+    <link>https://boristane.com/blog/how-i-use-claude-code/</link>
+    <description>A detailed workflow for AI-assisted coding that enforces research → plan → annotate → implement phases, preventing the most expensive failure mode: implementations that work in isolation but break surrounding systems. Hit #1 on HN with 600+ points.</description>
+    <category>Shinola</category>
+    <pubDate>Sun, 22 Feb 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://boristane.com/blog/how-i-use-claude-code/</guid>
+  </item>
+  <item>
+    <title>[Shinola] StepFun AI AMA — Step 3.5 Flash &amp; Step-3-VL-10B</title>
+    <link>https://www.reddit.com/r/LocalLLaMA/</link>
+    <description>StepFun hosted an AMA on r/LocalLLaMA featuring their CEO, CTO, and Chief Scientist discussing the Step 3.5 Flash and Step-3-VL-10B vision-language models. Interesting insights into Chinese AI lab training approaches and open model releases.</description>
+    <category>Shinola</category>
+    <pubDate>Sun, 22 Feb 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/</guid>
+  </item>
+  <item>
+    <title>[Shinola] Elecxzy: A Lightweight, Lisp-Free Emacs-Like Editor in Electron</title>
+    <link>https://github.com/kurouna/elecxzy</link>
+    <description>Show HN project reimagining Emacs without Lisp, built on Electron. Polarizing but interesting take on whether you can capture Emacs's extensibility with a modern JS runtime instead of Elisp.</description>
+    <category>Shinola</category>
+    <pubDate>Sun, 22 Feb 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://github.com/kurouna/elecxzy</guid>
+  </item>
+  <item>
+    <title>[Shinola] Two Bits Are Better Than One: Making Bloom Filters 2x More Accurate</title>
+    <link>https://floedb.ai/blog/two-bits-are-better-than-one-making-bloom-filters-2x-more-accurate</link>
+    <description>FloeDB introduces a simple modification to standard Bloom filters using two bits per slot instead of one, halving false positive rates with minimal overhead. Elegant data structure improvement with broad applicability.</description>
+    <category>Shinola</category>
+    <pubDate>Sun, 22 Feb 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://floedb.ai/blog/two-bits-are-better-than-one-making-bloom-filters-2x-more-accurate</guid>
+  </item>
+  <item>
+    <title>[Ozmataz] What's Up Docker 8.2 Enables Digest Watching by Default</title>
+    <link>https://linuxiac.com/whats-up-docker-8-2-enables-digest-watching-by-default/</link>
+    <description>WUD 8.2 now enables digest-based container image watching by default and adds support for TrueForge and Codeberg registries. Great for homelabbers who want automatic update notifications for their Docker stack.</description>
+    <category>Ozmataz</category>
+    <pubDate>Sun, 22 Feb 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://linuxiac.com/whats-up-docker-8-2-enables-digest-watching-by-default/</guid>
+  </item>
+  <item>
+    <title>[Ozmataz] Open-Source Community Launches MinIO Fork</title>
+    <link>https://linuxiac.com/open-source-community-launches-minio-fork/</link>
+    <description>After MinIO's repository went dark, the open-source community has launched a fork to keep the S3-compatible object storage project alive. Major implications for self-hosters relying on MinIO for local S3 storage.</description>
+    <category>Ozmataz</category>
+    <pubDate>Sun, 22 Feb 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://linuxiac.com/open-source-community-launches-minio-fork/</guid>
+  </item>
+  <item>
+    <title>[Ozmataz] Olla v0.0.24 — Anthropic API Pass-through for Local LLM Backends</title>
+    <link>https://github.com/thushan/olla</link>
+    <description>Olla, a lightweight Go proxy/load balancer for local LLM infrastructure, now supports Anthropic Messages API pass-through. Route Claude-compatible tools to Ollama, vLLM, llama.cpp, LM Studio, and more from a single ~50MB binary.</description>
+    <category>Ozmataz</category>
+    <pubDate>Sun, 22 Feb 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://github.com/thushan/olla</guid>
+  </item>
+  <item>
+    <title>[Ozmataz] r/selfhosted Introduces 'Vibe Code Friday' to Curb AI-Generated Project Spam</title>
+    <link>https://www.reddit.com/r/selfhosted/comments/1qfp2t0/mod_announcement_introducing_vibe_code_friday/</link>
+    <description>The r/selfhosted mod team is restricting AI-assisted and vibe-coded project posts to Fridays only, aiming to restore focus on mature self-hosted services and reduce the flood of weekend AI projects.</description>
+    <category>Ozmataz</category>
+    <pubDate>Sun, 22 Feb 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://www.reddit.com/r/selfhosted/comments/1qfp2t0/mod_announcement_introducing_vibe_code_friday/</guid>
+  </item>
+  <item>
+    <title>[Ozmataz] Self-Host Weekly Newsletter (Feb 20, 2026)</title>
+    <link>https://selfh.st/weekly/2026-02-20/</link>
+    <description>Latest selfh.st roundup covers Peek-aboo, the debate around AGENTS.md usefulness, and Windows Phone finally getting some self-hosted love. Solid curated alternative to doomscrolling Reddit.</description>
+    <category>Ozmataz</category>
+    <pubDate>Sun, 22 Feb 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://selfh.st/weekly/2026-02-20/</guid>
+  </item>
+  <item>
+    <title>[Ozmataz] I Verified My LinkedIn Identity — Here's What I Handed Over</title>
+    <link>https://thelocalstack.eu/posts/linkedin-identity-verification-privacy/</link>
+    <description>A deep dive into the surprising amount of personal data LinkedIn's identity verification collects. Hit #1 on HN with 1300+ points — relevant reminder for anyone thinking about privacy and self-hosting their own identity.</description>
+    <category>Ozmataz</category>
+    <pubDate>Sun, 22 Feb 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://thelocalstack.eu/posts/linkedin-identity-verification-privacy/</guid>
+  </item>
+  <item>
+    <title>[Giselle] Obsidian 1.12.2: CLI Overhaul, Bases Drag-and-Drop, and Native iOS Share Sheet</title>
+    <link>https://obsidian.md/changelog/</link>
+    <description>Obsidian's latest desktop and mobile releases bring a major CLI revamp (rename command, daily note path lookup, silent defaults), drag-and-drop file import into Bases, native iOS share sheet support, and a new Shortcuts action for bookmarking URLs.</description>
+    <category>Giselle</category>
+    <pubDate>Sun, 22 Feb 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://obsidian.md/changelog/</guid>
+  </item>
+  <item>
+    <title>[Giselle] Obsidian 1.11.7 Mobile: Full Customization Controls for the New Interface</title>
+    <link>https://obsidian.md/changelog/2026-02-05-mobile-v1.11.7/</link>
+    <description>After community pushback on the 1.11 mobile redesign, Obsidian shipped toggles for full-screen mode, floating vs anchored navigation, and sliding vs floating sidebars — restoring user choice while keeping accessibility gains.</description>
+    <category>Giselle</category>
+    <pubDate>Sun, 22 Feb 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://obsidian.md/changelog/2026-02-05-mobile-v1.11.7/</guid>
+  </item>
+  <item>
+    <title>[Giselle] Are We Over-Optimizing Organization and Under-Optimizing Capture?</title>
+    <link>https://www.reddit.com/r/PKMS/comments/1rbjsq0/are_we_overoptimizing_organization_and/</link>
+    <description>A thought-provoking r/PKMS discussion argues that the PKM community obsesses over structure, linking, and tagging while neglecting frictionless capture — proposing that organization should always happen later, not at the moment of intake.</description>
+    <category>Giselle</category>
+    <pubDate>Sun, 22 Feb 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://www.reddit.com/r/PKMS/comments/1rbjsq0/are_we_overoptimizing_organization_and/</guid>
+  </item>
+  <item>
+    <title>[Giselle] How I Use Claude Code: Separation of Planning and Execution</title>
+    <link>https://boristane.com/blog/how-i-use-claude-code/</link>
+    <description>A viral Hacker News post (600+ points) details a productivity workflow separating AI-assisted planning from execution phases — relevant to anyone using LLM coding agents as part of their personal productivity stack.</description>
+    <category>Giselle</category>
+    <pubDate>Sun, 22 Feb 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://boristane.com/blog/how-i-use-claude-code/</guid>
+  </item>
+  <item>
+    <title>[Giselle] Elecxzy: A Lightweight Emacs-Like Editor Built on Electron</title>
+    <link>https://github.com/kurouna/elecxzy</link>
+    <description>Show HN project offering a Lisp-free, Emacs-inspired text editor built on Electron — interesting for note-takers who want modal editing and extensibility without the Emacs learning cliff.</description>
+    <category>Giselle</category>
+    <pubDate>Sun, 22 Feb 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://github.com/kurouna/elecxzy</guid>
+  </item>
+  <item>
+    <title>[Giselle] r/productivity Mods Sound Alarm on AI-Generated Slop Flooding the Sub</title>
+    <link>https://www.reddit.com/r/productivity/comments/1r4r2bm/rproductivity_is_being_hit_hard_by_ai_generated/</link>
+    <description>The r/productivity mod team is asking users to actively report AI-generated content and advertising spam that's drowning out genuine productivity discussions — a sign of the growing signal-to-noise problem in productivity communities.</description>
+    <category>Giselle</category>
+    <pubDate>Sun, 22 Feb 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://www.reddit.com/r/productivity/comments/1r4r2bm/rproductivity_is_being_hit_hard_by_ai_generated/</guid>
+  </item>
+  <item>
+    <title>[Deangelo] Google Launches Gemini 3.1 Pro with Advanced Reasoning</title>
+    <link>https://blog.google/technology/google-deepmind/gemini-model-3-1-pro/</link>
+    <description>Google released Gemini 3.1 Pro, rolling out in the Gemini app and NotebookLM, touting a major step forward in core reasoning for complex tasks like data synthesis and creative projects.</description>
+    <category>Deangelo</category>
+    <pubDate>Sun, 22 Feb 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://blog.google/technology/google-deepmind/gemini-model-3-1-pro/</guid>
+  </item>
+  <item>
+    <title>[Deangelo] xAI Models Now Available in Microsoft Copilot</title>
+    <link>https://www.theverge.com/ai-artificial-intelligence</link>
+    <description>Microsoft is integrating xAI's models into its Copilot platform, expanding the range of AI engines available to enterprise users and signaling a more open, multi-model strategy.</description>
+    <category>Deangelo</category>
+    <pubDate>Sun, 22 Feb 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence</guid>
+  </item>
+  <item>
+    <title>[Deangelo] First Ads Appear in ChatGPT — Best Buy, Expedia, Qualcomm Among Early Brands</title>
+    <link>https://www.adweek.com/media/first-ads-on-chat-gpt-best-buy-expedia-qualcomm/</link>
+    <description>OpenAI has begun running ads inside ChatGPT responses from brands including Best Buy, Expedia, and Qualcomm, with a $200K minimum buy — a pivotal moment for AI monetization and the future of search advertising.</description>
+    <category>Deangelo</category>
+    <pubDate>Sun, 22 Feb 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://www.adweek.com/media/first-ads-on-chat-gpt-best-buy-expedia-qualcomm/</guid>
+  </item>
+  <item>
+    <title>[Deangelo] AI Is Moving Faster Than Agency Contracts</title>
+    <link>https://www.adweek.com/agencies/ai-is-moving-faster-than-agency-contracts/</link>
+    <description>Nearly two-thirds of ad agency professionals say AI significantly impacts their daily work, yet 39% of agency contracts don't address AI usage at all — a growing gap between workflow adoption and business model evolution.</description>
+    <category>Deangelo</category>
+    <pubDate>Sun, 22 Feb 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://www.adweek.com/agencies/ai-is-moving-faster-than-agency-contracts/</guid>
+  </item>
+  <item>
+    <title>[Deangelo] Microsoft Gaming Gets New AI-Experienced CEO as Phil Spencer Retires</title>
+    <link>https://www.theverge.com/games/882326/read-microsoft-gaming-ceo-asha-sharma-first-memo</link>
+    <description>Asha Sharma, formerly head of Microsoft's AI enterprise teams and ex-COO of Instacart, replaces Phil Spencer as CEO of Microsoft Gaming, pledging to reject 'soulless AI slop' while leveraging AI and expanding Xbox across PC, mobile, and cloud.</description>
+    <category>Deangelo</category>
+    <pubDate>Sun, 22 Feb 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://www.theverge.com/games/882326/read-microsoft-gaming-ceo-asha-sharma-first-memo</guid>
+  </item>
+  <item>
+    <title>[Deangelo] Nvidia and OpenAI Nearing Major New Investment Deal</title>
+    <link>https://www.theverge.com/ai-artificial-intelligence</link>
+    <description>Reports indicate Nvidia and OpenAI are close to finalizing a significant new investment partnership, further deepening the hardware-software alliance at the center of the AI infrastructure buildout.</description>
+    <category>Deangelo</category>
+    <pubDate>Sun, 22 Feb 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence</guid>
+  </item>
+  <item>
+    <title>[Bianca] A$AP Rocky Debuts AWGE Fall 2026 Collection at New York Fashion Week</title>
+    <link>https://www.gq.com/story/asap-rocky-awge-fall-2026</link>
+    <description>Rocky brought his AWGE passion project to NYFW Friday night, calling the process 'like putting out an album.' The show signals his continued evolution from rapper-who-wears-clothes to legitimate design voice.</description>
+    <category>Bianca</category>
+    <pubDate>Sun, 22 Feb 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://www.gq.com/story/asap-rocky-awge-fall-2026</guid>
+  </item>
+  <item>
+    <title>[Bianca] eBay Acquires Depop from Etsy for $1.2 Billion</title>
+    <link>https://hypebeast.com/2026/2/ebay-depop-sale-1-billion-acquisition-resale-secondhand-apparel-market-info</link>
+    <description>eBay's mega-acquisition of Depop — nearly matching what Prada paid for Versace — confirms resale is no longer alternative shopping. The secondhand market is consolidating fast under megaplatforms.</description>
+    <category>Bianca</category>
+    <pubDate>Sun, 22 Feb 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://hypebeast.com/2026/2/ebay-depop-sale-1-billion-acquisition-resale-secondhand-apparel-market-info</guid>
+  </item>
+  <item>
+    <title>[Bianca] Berlinale 2026 Winners Dominated by Political Acceptance Speeches</title>
+    <link>https://www.indiewire.com/news/festivals/berlinale-tried-to-avoid-politics-winners-made-impossible-1235180866/</link>
+    <description>Berlin Film Festival tried to sidestep politics this year, but winners made that impossible with speeches condemning Israel and supporting Palestine. The cultural moment the festival couldn't contain.</description>
+    <category>Bianca</category>
+    <pubDate>Sun, 22 Feb 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://www.indiewire.com/news/festivals/berlinale-tried-to-avoid-politics-winners-made-impossible-1235180866/</guid>
+  </item>
+  <item>
+    <title>[Bianca] 'Normal' Trailer: Bob Odenkirk in Ben Wheatley's Neo-Western</title>
+    <link>https://www.indiewire.com/news/trailers/normal-trailer-bob-odenkirk-1235180496/</link>
+    <description>Ben Wheatley directs Odenkirk as a small-town interim sheriff drawn into chaos in this kinetic neo-Western. Post-'Nobody' Odenkirk in a Wheatley film is exactly the prestige-action crossover worth tracking.</description>
+    <category>Bianca</category>
+    <pubDate>Sun, 22 Feb 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://www.indiewire.com/news/trailers/normal-trailer-bob-odenkirk-1235180496/</guid>
+  </item>
+  <item>
+    <title>[Bianca] BEAMS x NEEDLES SS26 Tracksuit in Cobalt-Brown</title>
+    <link>https://hypebeast.com/2026/2/beams-needles-ss26-tracksuit-collaboration-release-info</link>
+    <description>The signature NEEDLES tracksuit gets a BEAMS refresh with a new polo-collar pullover and cobalt-brown colorway. The collab keeps elevating loungewear into intentional streetwear territory.</description>
+    <category>Bianca</category>
+    <pubDate>Sun, 22 Feb 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://hypebeast.com/2026/2/beams-needles-ss26-tracksuit-collaboration-release-info</guid>
+  </item>
+  <item>
+    <title>[Bianca] 'Fantasy Life' Trailer: Matthew Shear's NYC Indie Directorial Debut</title>
+    <link>https://www.indiewire.com/news/trailers/fantasy-life-trailer-matthew-shear-amanda-peet-1235180393/</link>
+    <description>The 'While We're Young' and 'Mistress America' star steps behind the camera, blending personal experience with classic NYC indie spirit. Amanda Peet co-stars in what looks like a Baumbach-adjacent gem.</description>
+    <category>Bianca</category>
+    <pubDate>Sun, 22 Feb 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://www.indiewire.com/news/trailers/fantasy-life-trailer-matthew-shear-amanda-peet-1235180393/</guid>
+  </item>
   <item>
     <title>[Shinola] Ollama v0.17.0-rc1 released</title>
     <link>https://github.com/ollama/ollama/releases/tag/v0.17.0-rc1</link>
