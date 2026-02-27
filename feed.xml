@@ -4,8 +4,152 @@
   <title>Joe's Daily Curated Feed</title>
   <link>http://localhost:8484/feed.xml</link>
   <description>Daily news curated by Giselle, Oz, Shinola &amp; Deangelo</description>
-  <lastBuildDate>Thu, 26 Feb 2026 12:45:04 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 27 Feb 2026 12:45:06 GMT</lastBuildDate>
   <atom:link href="http://localhost:8484/feed.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>[Shinola] obra/superpowers - Agentic Skills Framework</title>
+    <link>https://github.com/obra/superpowers</link>
+    <description>An agentic skills framework &amp; software development methodology that works. 1,549 stars today - massive traction for this Shell-based approach to agent orchestration.</description>
+    <category>Shinola</category>
+    <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://github.com/obra/superpowers</guid>
+  </item>
+  <item>
+    <title>[Shinola] GitNexus: Zero-Server Code Intelligence Engine</title>
+    <link>https://github.com/abhigyanpatwari/GitNexus</link>
+    <description>Client-side knowledge graph creator that runs entirely in the browser. Drop a GitHub repo or ZIP file and get an interactive knowledge graph with built-in Graph RAG Agent.</description>
+    <category>Shinola</category>
+    <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://github.com/abhigyanpatwari/GitNexus</guid>
+  </item>
+  <item>
+    <title>[Shinola] moonshine-ai/moonshine - Fast ASR for Edge</title>
+    <link>https://github.com/moonshine-ai/moonshine</link>
+    <description>Fast and accurate automatic speech recognition for edge devices, written in C. 587 stars today. Great for self-hosted voice AI projects.</description>
+    <category>Shinola</category>
+    <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://github.com/moonshine-ai/moonshine</guid>
+  </item>
+  <item>
+    <title>[Shinola] deer-flow - ByteDance's SuperAgent Harness</title>
+    <link>https://github.com/bytedance/deer-flow</link>
+    <description>Open-source SuperAgent that researches, codes, and creates. Uses sandboxes, memories, tools, skills and subagents. 692 stars today.</description>
+    <category>Shinola</category>
+    <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://github.com/bytedance/deer-flow</guid>
+  </item>
+  <item>
+    <title>[Shinola] Statement from Dario Amodei on Department of War discussions</title>
+    <link>https://www.anthropic.com/news/statement-department-of-war</link>
+    <description>Anthropic's CEO addresses discussions with the Pentagon - significant AI policy news affecting the industry.</description>
+    <category>Shinola</category>
+    <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://www.anthropic.com/news/statement-department-of-war</guid>
+  </item>
+  <item>
+    <title>[Shinola] What Claude Code chooses - Analysis</title>
+    <link>https://amplifying.ai/research/claude-code-picks</link>
+    <description>Interesting research on what Claude Code actually picks when given choices - 455 points on Hacker News. Practical insights into agent decision-making.</description>
+    <category>Shinola</category>
+    <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://amplifying.ai/research/claude-code-picks</guid>
+  </item>
+  <item>
+    <title>[Giselle] Obsidian 1.12.4 Released with iOS Shortcuts Integration</title>
+    <link>https://obsidian.md/changelog</link>
+    <description>Obsidian adds native iOS share sheet support and a new Bookmark Link Shortcut action, plus various CLI improvements and bug fixes.</description>
+    <category>Giselle</category>
+    <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://obsidian.md/changelog</guid>
+  </item>
+  <item>
+    <title>[Giselle] 15 Practical AI Agent Examples to Scale Your Business in 2026</title>
+    <link>https://blog.n8n.io/ai-agents-examples/</link>
+    <description>Comprehensive guide covering 5 types of AI agents with practical examples across finance, healthcare, customer support, and manufacturing.</description>
+    <category>Giselle</category>
+    <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://blog.n8n.io/ai-agents-examples/</guid>
+  </item>
+  <item>
+    <title>[Giselle] n8n AI Agent Workflow Templates</title>
+    <link>https://n8n.io/workflows/</link>
+    <description>New workflow templates for building AI agents that can chat with databases, create company knowledge bases, and automate customer support.</description>
+    <category>Giselle</category>
+    <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://n8n.io/workflows/</guid>
+  </item>
+  <item>
+    <title>[Giselle] Obsidian CLI Improvements: New Commands for Automation</title>
+    <link>https://help.obsidian.md/cli</link>
+    <description>Obsidian CLI gets major upgrades including daily:path, rename, search:context, and better scripting capabilities.</description>
+    <category>Giselle</category>
+    <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://help.obsidian.md/cli</guid>
+  </item>
+  <item>
+    <title>[Giselle] Raycast Notes: Fast Frictionless Note-Taking</title>
+    <link>https://www.raycast.com/blog/raycast-notes</link>
+    <description>Raycast native note-taking experience highlighted as lightweight alternative for quick capture, integrated with their productivity ecosystem.</description>
+    <category>Giselle</category>
+    <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://www.raycast.com/blog/raycast-notes</guid>
+  </item>
+  <item>
+    <title>[Giselle] AI Customer Support Assistant Workflow (WhatsApp Ready)</title>
+    <link>https://n8n.io/workflows/3859-ai-customer-support-assistant-whatsapp-ready-works-for-any-business/</link>
+    <description>New n8n template enables AI support assistants with vector stores that can process refunds and check order status automatically.</description>
+    <category>Giselle</category>
+    <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://n8n.io/workflows/3859-ai-customer-support-assistant-whatsapp-ready-works-for-any-business/</guid>
+  </item>
+  <item>
+    <title>[Deangelo] Anthropic Raises $30 Billion in Series G Funding at $380 Billion Valuation</title>
+    <link>https://www.anthropic.com/news</link>
+    <description>Anthropic secured $30B in Series G funding led by GIC and Coatue, valuing the company at $380B post-money. The AI leader now has $14B run-rate revenue growing 10x annually.</description>
+    <category>Deangelo</category>
+    <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://www.anthropic.com/news</guid>
+  </item>
+  <item>
+    <title>[Deangelo] Microsoft Sovereign Cloud Adds Disconnected Operations for AI</title>
+    <link>https://www.microsoft.com/en-us/microsoft-365/blog/</link>
+    <description>Microsoft Sovereign Cloud expands with Azure Local disconnected operations, Microsoft 365 Local, and large model support—even when completely offline.</description>
+    <category>Deangelo</category>
+    <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://www.microsoft.com/en-us/microsoft-365/blog/</guid>
+  </item>
+  <item>
+    <title>[Deangelo] The 6 Pillars That Will Define Agent Readiness in 2026</title>
+    <link>https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/the-6-pillars-that-will-define-agent-readiness-in-2026/</link>
+    <description>Microsoft outlines six practical ways to build and scale agents with Copilot Studio while supporting enterprise adoption and governance.</description>
+    <category>Deangelo</category>
+    <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/the-6-pillars-that-will-define-agent-readiness-in-2026/</guid>
+  </item>
+  <item>
+    <title>[Deangelo] GPT-4 Is Better Than Humans at Financial Forecasting</title>
+    <link>https://www.entrepreneur.com/business-news/gpt-4-is-better-than-humans-at-financial-forecasting-report/474832</link>
+    <description>New study shows GPT-4 outperforms humans at financial forecasting, potentially upending the financial services industry.</description>
+    <category>Deangelo</category>
+    <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://www.entrepreneur.com/business-news/gpt-4-is-better-than-humans-at-financial-forecasting-report/474832</guid>
+  </item>
+  <item>
+    <title>[Deangelo] Amazon Now Offers Startups Free Credits to Use AI Models</title>
+    <link>https://www.entrepreneur.com/business-news/amazon-now-offers-startups-free-credits-to-use-ai/472062</link>
+    <description>Amazon's startup program now covers AI model usage credits, even for competitor models like Meta's. Over $6B in credits offered in the past decade.</description>
+    <category>Deangelo</category>
+    <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://www.entrepreneur.com/business-news/amazon-now-offers-startups-free-credits-to-use-ai/472062</guid>
+  </item>
+  <item>
+    <title>[Deangelo] AI and Cybersecurity Lead Unicorn Growth in 2026</title>
+    <link>https://www.entrepreneur.com/business-news/want-to-start-a-billion-dollar-business-look-to-these-two/470089</link>
+    <description>Despite a tough fundraising year, cybersecurity and AI unicorns saw double-digit growth—these two industries have the most unicorn potential.</description>
+    <category>Deangelo</category>
+    <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://www.entrepreneur.com/business-news/want-to-start-a-billion-dollar-business-look-to-these-two/470089</guid>
+  </item>
   <item>
     <title>[Shinola] Pentagon Hits Claude With Scary AI Ultimatum</title>
     <link>https://www.therundown.ai/p/pentagon-hits-claude-with-scary-ai-ultimatum</link>
@@ -533,150 +677,6 @@
     <category>Ozmataz</category>
     <pubDate>Sun, 22 Feb 2026 00:00:00 GMT</pubDate>
     <guid isPermaLink="true">https://thelocalstack.eu/posts/linkedin-identity-verification-privacy/</guid>
-  </item>
-  <item>
-    <title>[Giselle] Obsidian 1.12.2: CLI Overhaul, Bases Drag-and-Drop, and Native iOS Share Sheet</title>
-    <link>https://obsidian.md/changelog/</link>
-    <description>Obsidian's latest desktop and mobile releases bring a major CLI revamp (rename command, daily note path lookup, silent defaults), drag-and-drop file import into Bases, native iOS share sheet support, and a new Shortcuts action for bookmarking URLs.</description>
-    <category>Giselle</category>
-    <pubDate>Sun, 22 Feb 2026 00:00:00 GMT</pubDate>
-    <guid isPermaLink="true">https://obsidian.md/changelog/</guid>
-  </item>
-  <item>
-    <title>[Giselle] Obsidian 1.11.7 Mobile: Full Customization Controls for the New Interface</title>
-    <link>https://obsidian.md/changelog/2026-02-05-mobile-v1.11.7/</link>
-    <description>After community pushback on the 1.11 mobile redesign, Obsidian shipped toggles for full-screen mode, floating vs anchored navigation, and sliding vs floating sidebars — restoring user choice while keeping accessibility gains.</description>
-    <category>Giselle</category>
-    <pubDate>Sun, 22 Feb 2026 00:00:00 GMT</pubDate>
-    <guid isPermaLink="true">https://obsidian.md/changelog/2026-02-05-mobile-v1.11.7/</guid>
-  </item>
-  <item>
-    <title>[Giselle] Are We Over-Optimizing Organization and Under-Optimizing Capture?</title>
-    <link>https://www.reddit.com/r/PKMS/comments/1rbjsq0/are_we_overoptimizing_organization_and/</link>
-    <description>A thought-provoking r/PKMS discussion argues that the PKM community obsesses over structure, linking, and tagging while neglecting frictionless capture — proposing that organization should always happen later, not at the moment of intake.</description>
-    <category>Giselle</category>
-    <pubDate>Sun, 22 Feb 2026 00:00:00 GMT</pubDate>
-    <guid isPermaLink="true">https://www.reddit.com/r/PKMS/comments/1rbjsq0/are_we_overoptimizing_organization_and/</guid>
-  </item>
-  <item>
-    <title>[Giselle] How I Use Claude Code: Separation of Planning and Execution</title>
-    <link>https://boristane.com/blog/how-i-use-claude-code/</link>
-    <description>A viral Hacker News post (600+ points) details a productivity workflow separating AI-assisted planning from execution phases — relevant to anyone using LLM coding agents as part of their personal productivity stack.</description>
-    <category>Giselle</category>
-    <pubDate>Sun, 22 Feb 2026 00:00:00 GMT</pubDate>
-    <guid isPermaLink="true">https://boristane.com/blog/how-i-use-claude-code/</guid>
-  </item>
-  <item>
-    <title>[Giselle] Elecxzy: A Lightweight Emacs-Like Editor Built on Electron</title>
-    <link>https://github.com/kurouna/elecxzy</link>
-    <description>Show HN project offering a Lisp-free, Emacs-inspired text editor built on Electron — interesting for note-takers who want modal editing and extensibility without the Emacs learning cliff.</description>
-    <category>Giselle</category>
-    <pubDate>Sun, 22 Feb 2026 00:00:00 GMT</pubDate>
-    <guid isPermaLink="true">https://github.com/kurouna/elecxzy</guid>
-  </item>
-  <item>
-    <title>[Giselle] r/productivity Mods Sound Alarm on AI-Generated Slop Flooding the Sub</title>
-    <link>https://www.reddit.com/r/productivity/comments/1r4r2bm/rproductivity_is_being_hit_hard_by_ai_generated/</link>
-    <description>The r/productivity mod team is asking users to actively report AI-generated content and advertising spam that's drowning out genuine productivity discussions — a sign of the growing signal-to-noise problem in productivity communities.</description>
-    <category>Giselle</category>
-    <pubDate>Sun, 22 Feb 2026 00:00:00 GMT</pubDate>
-    <guid isPermaLink="true">https://www.reddit.com/r/productivity/comments/1r4r2bm/rproductivity_is_being_hit_hard_by_ai_generated/</guid>
-  </item>
-  <item>
-    <title>[Deangelo] Google Launches Gemini 3.1 Pro with Advanced Reasoning</title>
-    <link>https://blog.google/technology/google-deepmind/gemini-model-3-1-pro/</link>
-    <description>Google released Gemini 3.1 Pro, rolling out in the Gemini app and NotebookLM, touting a major step forward in core reasoning for complex tasks like data synthesis and creative projects.</description>
-    <category>Deangelo</category>
-    <pubDate>Sun, 22 Feb 2026 00:00:00 GMT</pubDate>
-    <guid isPermaLink="true">https://blog.google/technology/google-deepmind/gemini-model-3-1-pro/</guid>
-  </item>
-  <item>
-    <title>[Deangelo] xAI Models Now Available in Microsoft Copilot</title>
-    <link>https://www.theverge.com/ai-artificial-intelligence</link>
-    <description>Microsoft is integrating xAI's models into its Copilot platform, expanding the range of AI engines available to enterprise users and signaling a more open, multi-model strategy.</description>
-    <category>Deangelo</category>
-    <pubDate>Sun, 22 Feb 2026 00:00:00 GMT</pubDate>
-    <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence</guid>
-  </item>
-  <item>
-    <title>[Deangelo] First Ads Appear in ChatGPT — Best Buy, Expedia, Qualcomm Among Early Brands</title>
-    <link>https://www.adweek.com/media/first-ads-on-chat-gpt-best-buy-expedia-qualcomm/</link>
-    <description>OpenAI has begun running ads inside ChatGPT responses from brands including Best Buy, Expedia, and Qualcomm, with a $200K minimum buy — a pivotal moment for AI monetization and the future of search advertising.</description>
-    <category>Deangelo</category>
-    <pubDate>Sun, 22 Feb 2026 00:00:00 GMT</pubDate>
-    <guid isPermaLink="true">https://www.adweek.com/media/first-ads-on-chat-gpt-best-buy-expedia-qualcomm/</guid>
-  </item>
-  <item>
-    <title>[Deangelo] AI Is Moving Faster Than Agency Contracts</title>
-    <link>https://www.adweek.com/agencies/ai-is-moving-faster-than-agency-contracts/</link>
-    <description>Nearly two-thirds of ad agency professionals say AI significantly impacts their daily work, yet 39% of agency contracts don't address AI usage at all — a growing gap between workflow adoption and business model evolution.</description>
-    <category>Deangelo</category>
-    <pubDate>Sun, 22 Feb 2026 00:00:00 GMT</pubDate>
-    <guid isPermaLink="true">https://www.adweek.com/agencies/ai-is-moving-faster-than-agency-contracts/</guid>
-  </item>
-  <item>
-    <title>[Deangelo] Microsoft Gaming Gets New AI-Experienced CEO as Phil Spencer Retires</title>
-    <link>https://www.theverge.com/games/882326/read-microsoft-gaming-ceo-asha-sharma-first-memo</link>
-    <description>Asha Sharma, formerly head of Microsoft's AI enterprise teams and ex-COO of Instacart, replaces Phil Spencer as CEO of Microsoft Gaming, pledging to reject 'soulless AI slop' while leveraging AI and expanding Xbox across PC, mobile, and cloud.</description>
-    <category>Deangelo</category>
-    <pubDate>Sun, 22 Feb 2026 00:00:00 GMT</pubDate>
-    <guid isPermaLink="true">https://www.theverge.com/games/882326/read-microsoft-gaming-ceo-asha-sharma-first-memo</guid>
-  </item>
-  <item>
-    <title>[Deangelo] Nvidia and OpenAI Nearing Major New Investment Deal</title>
-    <link>https://www.theverge.com/ai-artificial-intelligence</link>
-    <description>Reports indicate Nvidia and OpenAI are close to finalizing a significant new investment partnership, further deepening the hardware-software alliance at the center of the AI infrastructure buildout.</description>
-    <category>Deangelo</category>
-    <pubDate>Sun, 22 Feb 2026 00:00:00 GMT</pubDate>
-    <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence</guid>
-  </item>
-  <item>
-    <title>[Bianca] A$AP Rocky Debuts AWGE Fall 2026 Collection at New York Fashion Week</title>
-    <link>https://www.gq.com/story/asap-rocky-awge-fall-2026</link>
-    <description>Rocky brought his AWGE passion project to NYFW Friday night, calling the process 'like putting out an album.' The show signals his continued evolution from rapper-who-wears-clothes to legitimate design voice.</description>
-    <category>Bianca</category>
-    <pubDate>Sun, 22 Feb 2026 00:00:00 GMT</pubDate>
-    <guid isPermaLink="true">https://www.gq.com/story/asap-rocky-awge-fall-2026</guid>
-  </item>
-  <item>
-    <title>[Bianca] eBay Acquires Depop from Etsy for $1.2 Billion</title>
-    <link>https://hypebeast.com/2026/2/ebay-depop-sale-1-billion-acquisition-resale-secondhand-apparel-market-info</link>
-    <description>eBay's mega-acquisition of Depop — nearly matching what Prada paid for Versace — confirms resale is no longer alternative shopping. The secondhand market is consolidating fast under megaplatforms.</description>
-    <category>Bianca</category>
-    <pubDate>Sun, 22 Feb 2026 00:00:00 GMT</pubDate>
-    <guid isPermaLink="true">https://hypebeast.com/2026/2/ebay-depop-sale-1-billion-acquisition-resale-secondhand-apparel-market-info</guid>
-  </item>
-  <item>
-    <title>[Bianca] Berlinale 2026 Winners Dominated by Political Acceptance Speeches</title>
-    <link>https://www.indiewire.com/news/festivals/berlinale-tried-to-avoid-politics-winners-made-impossible-1235180866/</link>
-    <description>Berlin Film Festival tried to sidestep politics this year, but winners made that impossible with speeches condemning Israel and supporting Palestine. The cultural moment the festival couldn't contain.</description>
-    <category>Bianca</category>
-    <pubDate>Sun, 22 Feb 2026 00:00:00 GMT</pubDate>
-    <guid isPermaLink="true">https://www.indiewire.com/news/festivals/berlinale-tried-to-avoid-politics-winners-made-impossible-1235180866/</guid>
-  </item>
-  <item>
-    <title>[Bianca] 'Normal' Trailer: Bob Odenkirk in Ben Wheatley's Neo-Western</title>
-    <link>https://www.indiewire.com/news/trailers/normal-trailer-bob-odenkirk-1235180496/</link>
-    <description>Ben Wheatley directs Odenkirk as a small-town interim sheriff drawn into chaos in this kinetic neo-Western. Post-'Nobody' Odenkirk in a Wheatley film is exactly the prestige-action crossover worth tracking.</description>
-    <category>Bianca</category>
-    <pubDate>Sun, 22 Feb 2026 00:00:00 GMT</pubDate>
-    <guid isPermaLink="true">https://www.indiewire.com/news/trailers/normal-trailer-bob-odenkirk-1235180496/</guid>
-  </item>
-  <item>
-    <title>[Bianca] BEAMS x NEEDLES SS26 Tracksuit in Cobalt-Brown</title>
-    <link>https://hypebeast.com/2026/2/beams-needles-ss26-tracksuit-collaboration-release-info</link>
-    <description>The signature NEEDLES tracksuit gets a BEAMS refresh with a new polo-collar pullover and cobalt-brown colorway. The collab keeps elevating loungewear into intentional streetwear territory.</description>
-    <category>Bianca</category>
-    <pubDate>Sun, 22 Feb 2026 00:00:00 GMT</pubDate>
-    <guid isPermaLink="true">https://hypebeast.com/2026/2/beams-needles-ss26-tracksuit-collaboration-release-info</guid>
-  </item>
-  <item>
-    <title>[Bianca] 'Fantasy Life' Trailer: Matthew Shear's NYC Indie Directorial Debut</title>
-    <link>https://www.indiewire.com/news/trailers/fantasy-life-trailer-matthew-shear-amanda-peet-1235180393/</link>
-    <description>The 'While We're Young' and 'Mistress America' star steps behind the camera, blending personal experience with classic NYC indie spirit. Amanda Peet co-stars in what looks like a Baumbach-adjacent gem.</description>
-    <category>Bianca</category>
-    <pubDate>Sun, 22 Feb 2026 00:00:00 GMT</pubDate>
-    <guid isPermaLink="true">https://www.indiewire.com/news/trailers/fantasy-life-trailer-matthew-shear-amanda-peet-1235180393/</guid>
   </item>
 </channel>
 </rss>
