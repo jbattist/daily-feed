@@ -4,8 +4,104 @@
   <title>Joe's Daily Curated Feed</title>
   <link>http://localhost:8484/feed.xml</link>
   <description>Daily news curated by Giselle, Oz, Shinola &amp; Deangelo</description>
-  <lastBuildDate>Fri, 27 Feb 2026 12:45:06 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 28 Feb 2026 12:45:03 GMT</lastBuildDate>
   <atom:link href="http://localhost:8484/feed.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>[Shinola] superpowers - An agentic skills framework that actually works</title>
+    <link>https://github.com/obra/superpowers</link>
+    <description>Open source agentic skills framework &amp; software development methodology that's gained serious traction with 1,546 stars today. Claims to be a methodology that works for building agentic systems.</description>
+    <category>Shinola</category>
+    <pubDate>Sat, 28 Feb 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://github.com/obra/superpowers</guid>
+  </item>
+  <item>
+    <title>[Shinola] ruflo - Leading agent orchestration platform for Claude</title>
+    <link>https://github.com/ruvnet/ruflo</link>
+    <description>Multi-agent swarm deployment platform for Claude with enterprise-grade architecture, distributed swarm intelligence, and native Claude Code/Codex integration. 531 stars today.</description>
+    <category>Shinola</category>
+    <pubDate>Sat, 28 Feb 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://github.com/ruvnet/ruflo</guid>
+  </item>
+  <item>
+    <title>[Shinola] Moonshine - Fast edge ASR for local speech recognition</title>
+    <link>https://github.com/moonshine-ai/moonshine</link>
+    <description>Fast and accurate automatic speech recognition model designed specifically for edge devices. 593 stars today, great for local AI voice projects.</description>
+    <category>Shinola</category>
+    <pubDate>Sat, 28 Feb 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://github.com/moonshine-ai/moonshine</guid>
+  </item>
+  <item>
+    <title>[Shinola] OpenAI raises $110B in massive funding round</title>
+    <link>https://techcrunch.com/2026/02/27/openai-raises-110b-in-one-of-the-largest-private-funding-rounds-in-history/</link>
+    <description>OpenAI secures $110B on $730B pre-money valuation in one of the largest private funding rounds in history - signaling continued massive AI investment.</description>
+    <category>Shinola</category>
+    <pubDate>Sat, 28 Feb 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://techcrunch.com/2026/02/27/openai-raises-110b-in-one-of-the-largest-private-funding-rounds-in-history/</guid>
+  </item>
+  <item>
+    <title>[Shinola] AIRI - Self-hosted AI companion with real-time voice &amp; gaming</title>
+    <link>https://github.com/moeru-ai/airi</link>
+    <description>Self-hosted Grok-powered AI companion with real-time voice chat, Minecraft and Factorio playing capabilities. Web/macOS/Windows supported. 199 stars today.</description>
+    <category>Shinola</category>
+    <pubDate>Sat, 28 Feb 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://github.com/moeru-ai/airi</guid>
+  </item>
+  <item>
+    <title>[Shinola] Unsloth Dynamic 2.0 GGUFs released</title>
+    <link>https://unsloth.ai/docs/basics/unsloth-dynamic-2.0-ggufs</link>
+    <description>Unsloth releases Dynamic 2.0 GGUFs with improved quantization for fine-tuned models. Makes local LLM deployment more accessible with better performance.</description>
+    <category>Shinola</category>
+    <pubDate>Sat, 28 Feb 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://unsloth.ai/docs/basics/unsloth-dynamic-2.0-ggufs</guid>
+  </item>
+  <item>
+    <title>[Giselle] Obsidian CLI Brings Command Line Power to Your Vault</title>
+    <link>https://help.obsidian.md/cli</link>
+    <description>Obsidian launches new CLI for terminal-based control, enabling scripting, automation, and external tool integration.</description>
+    <category>Giselle</category>
+    <pubDate>Sat, 28 Feb 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://help.obsidian.md/cli</guid>
+  </item>
+  <item>
+    <title>[Giselle] Obsidian Adds Drag-to-Resize Images in Live Preview</title>
+    <link>https://obsidian.md/changelog</link>
+    <description>Images in Live Preview can now be resized by dragging from the corner; double-click resets size.</description>
+    <category>Giselle</category>
+    <pubDate>Sat, 28 Feb 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://obsidian.md/changelog</guid>
+  </item>
+  <item>
+    <title>[Giselle] Obsidian Introduces Smart Attachment Cleanup</title>
+    <link>https://obsidian.md/changelog</link>
+    <description>New setting prompts to delete attachments when deleting files; configurable to Always/Ask/Never.</description>
+    <category>Giselle</category>
+    <pubDate>Sat, 28 Feb 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://obsidian.md/changelog</guid>
+  </item>
+  <item>
+    <title>[Giselle] n8n: 15 Practical AI Agent Examples to Scale Your Business</title>
+    <link>https://blog.n8n.io/ai-agents-examples/</link>
+    <description>Comprehensive guide covering 5 types of AI agents and 15 real-world examples across finance, healthcare, manufacturing, and more.</description>
+    <category>Giselle</category>
+    <pubDate>Sat, 28 Feb 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://blog.n8n.io/ai-agents-examples/</guid>
+  </item>
+  <item>
+    <title>[Giselle] Notion Launches Custom Agents for Business Workflows</title>
+    <link>https://www.notion.com/blog/introducing-custom-agents</link>
+    <description>Autonomous AI teammates now available that handle recurring work across Notion, Slack, Mail, Calendar, Figma, and Linear.</description>
+    <category>Giselle</category>
+    <pubDate>Sat, 28 Feb 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://www.notion.com/blog/introducing-custom-agents</guid>
+  </item>
+  <item>
+    <title>[Giselle] Notion Open Sources Spot Balancer for Spark Cost Reduction</title>
+    <link>https://www.notion.com/blog/balancing-cost-and-reliability-for-spark-on-kubernetes</link>
+    <description>Notion releases tool that reduced Spark compute costs by up to 90% while maintaining reliability, built with AWS.</description>
+    <category>Giselle</category>
+    <pubDate>Sat, 28 Feb 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://www.notion.com/blog/balancing-cost-and-reliability-for-spark-on-kubernetes</guid>
+  </item>
   <item>
     <title>[Shinola] obra/superpowers - Agentic Skills Framework</title>
     <link>https://github.com/obra/superpowers</link>
@@ -581,102 +677,6 @@
     <category>Bianca</category>
     <pubDate>Mon, 23 Feb 2026 00:00:00 GMT</pubDate>
     <guid isPermaLink="true">https://www.indiewire.com/news/trailers/fantasy-life-trailer-matthew-shear-amanda-peet-1235180393/</guid>
-  </item>
-  <item>
-    <title>[Shinola] NTransformer: Run Llama 70B on a Single RTX 3090 via NVMe-to-GPU Bypass</title>
-    <link>https://github.com/xaskasdf/ntransformer</link>
-    <description>A new C++/CUDA inference engine streams model layers through GPU memory via PCIe with optional NVMe direct I/O, achieving 83x speedup over mmap for 70B models on consumer hardware. Zero external dependencies beyond CUDA Toolkit.</description>
-    <category>Shinola</category>
-    <pubDate>Sun, 22 Feb 2026 00:00:00 GMT</pubDate>
-    <guid isPermaLink="true">https://github.com/xaskasdf/ntransformer</guid>
-  </item>
-  <item>
-    <title>[Shinola] How Taalas &quot;Prints&quot; an LLM onto a Chip — 17,000 Tokens/Second</title>
-    <link>https://www.anuragk.com/blog/posts/Taalas.html</link>
-    <description>Taalas released a fixed-function ASIC that hardwires Llama 3.1 8B weights directly onto silicon, achieving 17K tok/s — 10x faster, 10x cheaper, and 10x more power-efficient than GPU inference. Great explainer of the memory bandwidth bottleneck ASICs solve.</description>
-    <category>Shinola</category>
-    <pubDate>Sun, 22 Feb 2026 00:00:00 GMT</pubDate>
-    <guid isPermaLink="true">https://www.anuragk.com/blog/posts/Taalas.html</guid>
-  </item>
-  <item>
-    <title>[Shinola] How I Use Claude Code: Separation of Planning and Execution</title>
-    <link>https://boristane.com/blog/how-i-use-claude-code/</link>
-    <description>A detailed workflow for AI-assisted coding that enforces research → plan → annotate → implement phases, preventing the most expensive failure mode: implementations that work in isolation but break surrounding systems. Hit #1 on HN with 600+ points.</description>
-    <category>Shinola</category>
-    <pubDate>Sun, 22 Feb 2026 00:00:00 GMT</pubDate>
-    <guid isPermaLink="true">https://boristane.com/blog/how-i-use-claude-code/</guid>
-  </item>
-  <item>
-    <title>[Shinola] StepFun AI AMA — Step 3.5 Flash &amp; Step-3-VL-10B</title>
-    <link>https://www.reddit.com/r/LocalLLaMA/</link>
-    <description>StepFun hosted an AMA on r/LocalLLaMA featuring their CEO, CTO, and Chief Scientist discussing the Step 3.5 Flash and Step-3-VL-10B vision-language models. Interesting insights into Chinese AI lab training approaches and open model releases.</description>
-    <category>Shinola</category>
-    <pubDate>Sun, 22 Feb 2026 00:00:00 GMT</pubDate>
-    <guid isPermaLink="true">https://www.reddit.com/r/LocalLLaMA/</guid>
-  </item>
-  <item>
-    <title>[Shinola] Elecxzy: A Lightweight, Lisp-Free Emacs-Like Editor in Electron</title>
-    <link>https://github.com/kurouna/elecxzy</link>
-    <description>Show HN project reimagining Emacs without Lisp, built on Electron. Polarizing but interesting take on whether you can capture Emacs's extensibility with a modern JS runtime instead of Elisp.</description>
-    <category>Shinola</category>
-    <pubDate>Sun, 22 Feb 2026 00:00:00 GMT</pubDate>
-    <guid isPermaLink="true">https://github.com/kurouna/elecxzy</guid>
-  </item>
-  <item>
-    <title>[Shinola] Two Bits Are Better Than One: Making Bloom Filters 2x More Accurate</title>
-    <link>https://floedb.ai/blog/two-bits-are-better-than-one-making-bloom-filters-2x-more-accurate</link>
-    <description>FloeDB introduces a simple modification to standard Bloom filters using two bits per slot instead of one, halving false positive rates with minimal overhead. Elegant data structure improvement with broad applicability.</description>
-    <category>Shinola</category>
-    <pubDate>Sun, 22 Feb 2026 00:00:00 GMT</pubDate>
-    <guid isPermaLink="true">https://floedb.ai/blog/two-bits-are-better-than-one-making-bloom-filters-2x-more-accurate</guid>
-  </item>
-  <item>
-    <title>[Ozmataz] What's Up Docker 8.2 Enables Digest Watching by Default</title>
-    <link>https://linuxiac.com/whats-up-docker-8-2-enables-digest-watching-by-default/</link>
-    <description>WUD 8.2 now enables digest-based container image watching by default and adds support for TrueForge and Codeberg registries. Great for homelabbers who want automatic update notifications for their Docker stack.</description>
-    <category>Ozmataz</category>
-    <pubDate>Sun, 22 Feb 2026 00:00:00 GMT</pubDate>
-    <guid isPermaLink="true">https://linuxiac.com/whats-up-docker-8-2-enables-digest-watching-by-default/</guid>
-  </item>
-  <item>
-    <title>[Ozmataz] Open-Source Community Launches MinIO Fork</title>
-    <link>https://linuxiac.com/open-source-community-launches-minio-fork/</link>
-    <description>After MinIO's repository went dark, the open-source community has launched a fork to keep the S3-compatible object storage project alive. Major implications for self-hosters relying on MinIO for local S3 storage.</description>
-    <category>Ozmataz</category>
-    <pubDate>Sun, 22 Feb 2026 00:00:00 GMT</pubDate>
-    <guid isPermaLink="true">https://linuxiac.com/open-source-community-launches-minio-fork/</guid>
-  </item>
-  <item>
-    <title>[Ozmataz] Olla v0.0.24 — Anthropic API Pass-through for Local LLM Backends</title>
-    <link>https://github.com/thushan/olla</link>
-    <description>Olla, a lightweight Go proxy/load balancer for local LLM infrastructure, now supports Anthropic Messages API pass-through. Route Claude-compatible tools to Ollama, vLLM, llama.cpp, LM Studio, and more from a single ~50MB binary.</description>
-    <category>Ozmataz</category>
-    <pubDate>Sun, 22 Feb 2026 00:00:00 GMT</pubDate>
-    <guid isPermaLink="true">https://github.com/thushan/olla</guid>
-  </item>
-  <item>
-    <title>[Ozmataz] r/selfhosted Introduces 'Vibe Code Friday' to Curb AI-Generated Project Spam</title>
-    <link>https://www.reddit.com/r/selfhosted/comments/1qfp2t0/mod_announcement_introducing_vibe_code_friday/</link>
-    <description>The r/selfhosted mod team is restricting AI-assisted and vibe-coded project posts to Fridays only, aiming to restore focus on mature self-hosted services and reduce the flood of weekend AI projects.</description>
-    <category>Ozmataz</category>
-    <pubDate>Sun, 22 Feb 2026 00:00:00 GMT</pubDate>
-    <guid isPermaLink="true">https://www.reddit.com/r/selfhosted/comments/1qfp2t0/mod_announcement_introducing_vibe_code_friday/</guid>
-  </item>
-  <item>
-    <title>[Ozmataz] Self-Host Weekly Newsletter (Feb 20, 2026)</title>
-    <link>https://selfh.st/weekly/2026-02-20/</link>
-    <description>Latest selfh.st roundup covers Peek-aboo, the debate around AGENTS.md usefulness, and Windows Phone finally getting some self-hosted love. Solid curated alternative to doomscrolling Reddit.</description>
-    <category>Ozmataz</category>
-    <pubDate>Sun, 22 Feb 2026 00:00:00 GMT</pubDate>
-    <guid isPermaLink="true">https://selfh.st/weekly/2026-02-20/</guid>
-  </item>
-  <item>
-    <title>[Ozmataz] I Verified My LinkedIn Identity — Here's What I Handed Over</title>
-    <link>https://thelocalstack.eu/posts/linkedin-identity-verification-privacy/</link>
-    <description>A deep dive into the surprising amount of personal data LinkedIn's identity verification collects. Hit #1 on HN with 1300+ points — relevant reminder for anyone thinking about privacy and self-hosting their own identity.</description>
-    <category>Ozmataz</category>
-    <pubDate>Sun, 22 Feb 2026 00:00:00 GMT</pubDate>
-    <guid isPermaLink="true">https://thelocalstack.eu/posts/linkedin-identity-verification-privacy/</guid>
   </item>
 </channel>
 </rss>
