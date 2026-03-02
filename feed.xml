@@ -4,8 +4,152 @@
   <title>Joe's Daily Curated Feed</title>
   <link>http://localhost:8484/feed.xml</link>
   <description>Daily news curated by Giselle, Oz, Shinola &amp; Deangelo</description>
-  <lastBuildDate>Sun, 01 Mar 2026 12:45:04 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 02 Mar 2026 12:45:02 GMT</lastBuildDate>
   <atom:link href="http://localhost:8484/feed.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>[Shinola] WebMCP: Chrome's New Model Context Protocol for Early Preview</title>
+    <link>https://developer.chrome.com/blog/webmcp-epp</link>
+    <description>Chrome releases WebMCP for early preview - a new protocol enabling AI models to interact with web content directly. 314 points on HN. Major step for browser-agent integration.</description>
+    <category>Shinola</category>
+    <pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://developer.chrome.com/blog/webmcp-epp</guid>
+  </item>
+  <item>
+    <title>[Shinola] Ghostty: New Terminal Emulator from Zig Creator</title>
+    <link>https://ghostty.org/docs</link>
+    <description>Ghostty is a new terminal emulator built by Andrew Kelly (creator of Zig). Features native rendering, GPU acceleration, and cross-platform support. 762 points on HN.</description>
+    <category>Shinola</category>
+    <pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://ghostty.org/docs</guid>
+  </item>
+  <item>
+    <title>[Shinola] Timber: Ollama for Classical ML, 336x Faster Than Python</title>
+    <link>https://github.com/kossisoroyce/timber</link>
+    <description>Timber brings the Ollama experience to classical ML models - 336x faster than Python. Supports scikit-learn, XGBoost, LightGBM models with local inference. 137 points on HN.</description>
+    <category>Shinola</category>
+    <pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://github.com/kossisoroyce/timber</guid>
+  </item>
+  <item>
+    <title>[Shinola] LLMFit: Right-Size LLMs to Your System's RAM, CPU, and GPU</title>
+    <link>https://github.com/AlexsJones/llmfit</link>
+    <description>Tool that automatically fits LLMs to your hardware constraints. Analyzes RAM, CPU, GPU and suggests optimal model configurations. 173 points on HN.</description>
+    <category>Shinola</category>
+    <pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://github.com/AlexsJones/llmfit</guid>
+  </item>
+  <item>
+    <title>[Shinola] Anthropic's Interactive Prompt Engineering Tutorial</title>
+    <link>https://github.com/anthropics/prompt-eng-interactive-tutorial</link>
+    <description>Anthropic releases an interactive tutorial for prompt engineering. 31K stars, 60 stars today. Learn to craft better prompts for Claude and other models.</description>
+    <category>Shinola</category>
+    <pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://github.com/anthropics/prompt-eng-interactive-tutorial</guid>
+  </item>
+  <item>
+    <title>[Shinola] WiFi DensePose: Human Pose Estimation from WiFi Signals</title>
+    <link>https://github.com/ruvnet/wifi-densepose</link>
+    <description>Turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection - no cameras needed. Trending on GitHub today.</description>
+    <category>Shinola</category>
+    <pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://github.com/ruvnet/wifi-densepose</guid>
+  </item>
+  <item>
+    <title>[Giselle] Obsidian CLI Brings Terminal Control to Your Vault</title>
+    <link>https://help.obsidian.md/cli</link>
+    <description>Obsidian now ships with a command line interface for scripting, automation, and external tool integration. Control your vault directly from the terminal.</description>
+    <category>Giselle</category>
+    <pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://help.obsidian.md/cli</guid>
+  </item>
+  <item>
+    <title>[Giselle] 20 Best MCP Servers for Developers: Building Autonomous Agentic Workflows</title>
+    <link>https://blog.n8n.io/best-mcp-servers/</link>
+    <description>A comprehensive guide to the top 20 MCP servers for developers, showing how to orchestrate them with n8n to build reliable autonomous agentic workflows.</description>
+    <category>Giselle</category>
+    <pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://blog.n8n.io/best-mcp-servers/</guid>
+  </item>
+  <item>
+    <title>[Giselle] Garmin to Notion Auto-Sync: Never Log Workouts Manually Again</title>
+    <link>https://www.reddit.com/r/Notion/comments/1riblk6/i_got_tired_of_logging_workouts_manually_so_i/</link>
+    <description>A Reddit user open-sourced a solution that automatically pulls workout data, sleep metrics, steps, and personal records from Garmin into Notion databases via GitHub Actions.</description>
+    <category>Giselle</category>
+    <pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://www.reddit.com/r/Notion/comments/1riblk6/i_got_tired_of_logging_workouts_manually_so_i/</guid>
+  </item>
+  <item>
+    <title>[Giselle] The Hidden Problem with Note Titles as Links (And How to Fix It)</title>
+    <link>https://zettelkasten.de/posts/the-hidden-problem-with-note-titles-as-links-and-how-to-fix-it/</link>
+    <description>Using note titles for links creates friction that can be avoided. Learn the proper way to link notes in your Zettelkasten for cleaner connections.</description>
+    <category>Giselle</category>
+    <pubDate>Sat, 28 Feb 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://zettelkasten.de/posts/the-hidden-problem-with-note-titles-as-links-and-how-to-fix-it/</guid>
+  </item>
+  <item>
+    <title>[Giselle] Stop Caring About Your Inbox (Zettelkasten Edition)</title>
+    <link>https://zettelkasten.de/posts/stop-caring-about-your-inbox/</link>
+    <description>The inbox problem for Zettelkasten users is fundamentally different from task management - your PKM thrives on abundance and rational exclusion, not empty inboxes.</description>
+    <category>Giselle</category>
+    <pubDate>Wed, 25 Feb 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://zettelkasten.de/posts/stop-caring-about-your-inbox/</guid>
+  </item>
+  <item>
+    <title>[Giselle] Obsidian Adds Automatic Attachment Cleanup</title>
+    <link>https://obsidian.md/changelog</link>
+    <description>When deleting a file in Obsidian, you can now choose to automatically delete its attachments. Configure in Files &amp; Links settings: Always, Ask, or Never.</description>
+    <category>Giselle</category>
+    <pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://obsidian.md/changelog</guid>
+  </item>
+  <item>
+    <title>[Deangelo] US Used Anthropic AI for Iran Strikes Hours After Trump Announced Ban</title>
+    <link>https://www.theverge.com/ai-artificial-intelligence/883456/anthropic-pentagon-department-of-defense-negotiations</link>
+    <description>Despite President Trump announcing a ban on federal use of Anthropic's Claude, the US military used Anthropic AI for intelligence assessments and target identification in Saturday's strikes against Iran. Anthropic plans to challenge the designation in court.</description>
+    <category>Deangelo</category>
+    <pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/883456/anthropic-pentagon-department-of-defense-negotiations</guid>
+  </item>
+  <item>
+    <title>[Deangelo] OpenAI Reaches New Pentagon Agreement for Classified Military Deployment</title>
+    <link>https://www.theverge.com/ai-artificial-intelligence/885963/anthropic-dod-pentagon-tech-workers-ai-labs-react</link>
+    <description>OpenAI reached a new agreement allowing the US military to deploy its models on classified networks. CEO Sam Altman said the agreement reflects OpenAI's stance on prohibitions for domestic mass surveillance and human responsibility for autonomous weapons.</description>
+    <category>Deangelo</category>
+    <pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/885963/anthropic-dod-pentagon-tech-workers-ai-labs-react</guid>
+  </item>
+  <item>
+    <title>[Deangelo] Ilya Sutskever Praises Anthropic and OpenAI for Standing Firm on Military AI</title>
+    <link>https://www.theverge.com/ai-artificial-intelligence/883456/anthropic-pentagon-department-of-defense-negotiations</link>
+    <description>OpenAI co-founder Ilya Sutskever weighed in on the Anthropic-Pentagon situation, saying it's 'extremely good that Anthropic has not backed down' and significant that OpenAI took a similar stance.</description>
+    <category>Deangelo</category>
+    <pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/883456/anthropic-pentagon-department-of-defense-negotiations</guid>
+  </item>
+  <item>
+    <title>[Deangelo] Google Translate Now Uses Gemini AI for Context-Aware Translations</title>
+    <link>https://www.theverge.com/ai-artificial-intelligence/883707/anthropic-claude-cowork-updates</link>
+    <description>Google Translate is now using Gemini AI to offer alternative translations based on context. Users can ask the AI for more context with new 'Understand' and 'Ask' buttons.</description>
+    <category>Deangelo</category>
+    <pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/883707/anthropic-claude-cowork-updates</guid>
+  </item>
+  <item>
+    <title>[Deangelo] Perplexity Launches 'Computer' Platform with Multi-Agent AI System</title>
+    <link>https://www.theverge.com/ai-artificial-intelligence/883707/anthropic-claude-cowork-updates</link>
+    <description>Perplexity launched a new 'Computer' platform featuring AI agents that reason, delegate, search, build, remember, code, and deliver across sub-AI agents, creating what it calls a 'general-purpose digital worker.'</description>
+    <category>Deangelo</category>
+    <pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/883707/anthropic-claude-cowork-updates</guid>
+  </item>
+  <item>
+    <title>[Deangelo] YouTube Algorithm Serving 40% AI-Generated Content to Children</title>
+    <link>https://www.theverge.com/ai-artificial-intelligence/882956/ai-deepfake-detection-labels-c2pa-instagram-youtube</link>
+    <description>The New York Times found that more than 40% of YouTube Shorts recommended to children after watching popular kids' channels appear to contain AI-generated visuals. YouTube doesn't require animated AI videos for children to be labeled.</description>
+    <category>Deangelo</category>
+    <pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/882956/ai-deepfake-detection-labels-c2pa-instagram-youtube</guid>
+  </item>
   <item>
     <title>[Shinola] MicroGPT: Tiny Language Models for Real-World Tasks</title>
     <link>https://karpathy.github.io/2026/02/12/microgpt/</link>
@@ -533,150 +677,6 @@
     <category>Ozmataz</category>
     <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
     <guid isPermaLink="true">https://www.phoronix.com/news/Mesa-26.0.1-Released</guid>
-  </item>
-  <item>
-    <title>[Giselle] Obsidian 1.12.4 Releases iOS Share Sheet, CLI Improvements, and New Developer APIs</title>
-    <link>https://obsidian.md/changelog</link>
-    <description>Obsidian rolls out iOS native share sheet support, new Shortcut action for bookmarking links, CLI enhancements including daily:path command, and improved developer APIs with appendBinary method.</description>
-    <category>Giselle</category>
-    <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
-    <guid isPermaLink="true">https://obsidian.md/changelog</guid>
-  </item>
-  <item>
-    <title>[Giselle] Obsidian Copilot Plugin Updated - AI Assistant for Your Vault</title>
-    <link>https://github.com/logancyang/obsidian-copilot</link>
-    <description>The Copilot plugin for Obsidian receives an update, bringing enhanced AI assistance directly into your note-taking workflow.</description>
-    <category>Giselle</category>
-    <pubDate>Wed, 25 Feb 2026 00:00:00 GMT</pubDate>
-    <guid isPermaLink="true">https://github.com/logancyang/obsidian-copilot</guid>
-  </item>
-  <item>
-    <title>[Giselle] Obsidian Smart Connections Adds Support for 100+ AI Models</title>
-    <link>https://github.com/brianpetro/obsidian-smart-connections</link>
-    <description>Chat with your notes using AI embeddings now supports local models plus 100+ via APIs including Claude, Gemini, ChatGPT and Llama 3.</description>
-    <category>Giselle</category>
-    <pubDate>Tue, 24 Feb 2026 00:00:00 GMT</pubDate>
-    <guid isPermaLink="true">https://github.com/brianpetro/obsidian-smart-connections</guid>
-  </item>
-  <item>
-    <title>[Giselle] Raycast Adds Auto Transcribe with Granola and Chat Branching</title>
-    <link>https://www.raycast.com/changelog</link>
-    <description>Raycast introduces Auto Transcribe powered by Granola for meeting notes, experimental Chat Branching for conversation paths, and OpenRouter support for flexible AI model choices.</description>
-    <category>Giselle</category>
-    <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
-    <guid isPermaLink="true">https://www.raycast.com/changelog</guid>
-  </item>
-  <item>
-    <title>[Giselle] Obsidian Tasks Plugin Updated with Enhanced Task Management</title>
-    <link>https://github.com/obsidian-tasks-group/obsidian-tasks</link>
-    <description>The popular task management plugin for Obsidian receives improvements for better todo tracking and organization within your vault.</description>
-    <category>Giselle</category>
-    <pubDate>Mon, 23 Feb 2026 00:00:00 GMT</pubDate>
-    <guid isPermaLink="true">https://github.com/obsidian-tasks-group/obsidian-tasks</guid>
-  </item>
-  <item>
-    <title>[Giselle] QuickAdd Plugin Updated - Fast Note Capture for Obsidian</title>
-    <link>https://github.com/chhoumann/quickadd</link>
-    <description>QuickAdd receives another update, continuing to provide rapid note capture and organization capabilities for Obsidian power users.</description>
-    <category>Giselle</category>
-    <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
-    <guid isPermaLink="true">https://github.com/chhoumann/quickadd</guid>
-  </item>
-  <item>
-    <title>[Deangelo] Nvidia Q4 revenue hits record $68.1B, up 73% YoY</title>
-    <link>https://arstechnica.com/gadgets/2026/02/nvidia-q4-2026-earnings/</link>
-    <description>Nvidia reported record Q4 2026 revenue of $68.1B, up 73% from $39.3B last year, with $62.3B from data center business alone. Supply constraints continue as AI remains the focus.</description>
-    <category>Deangelo</category>
-    <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
-    <guid isPermaLink="true">https://arstechnica.com/gadgets/2026/02/nvidia-q4-2026-earnings/</guid>
-  </item>
-  <item>
-    <title>[Deangelo] Perplexity launches 'Computer' - a general-purpose digital worker with AI agents</title>
-    <link>https://www.perplexity.ai/hub/blog/introducing-perplexity-computer</link>
-    <description>Perplexity's new platform 'reasons, delegates, searches, builds, remembers, codes, and delivers' across sub-AI agents, creating what they call a general-purpose digital worker between OpenClaw and Claude Cowork.</description>
-    <category>Deangelo</category>
-    <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
-    <guid isPermaLink="true">https://www.perplexity.ai/hub/blog/introducing-perplexity-computer</guid>
-  </item>
-  <item>
-    <title>[Deangelo] David Luan departs Amazon's AGI lab to work on 'something new'</title>
-    <link>https://www.theverge.com/tech/884372/amazon-agi-lab-leader-david-luan-departure</link>
-    <description>David Luan, head of Amazon's San Francisco AGI lab, is leaving to work on something new - newer than AGI, which remains nonexistent.</description>
-    <category>Deangelo</category>
-    <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
-    <guid isPermaLink="true">https://www.theverge.com/tech/884372/amazon-agi-lab-leader-david-luan-departure</guid>
-  </item>
-  <item>
-    <title>[Deangelo] Google Flow expands: brings Whisk and ImageFX into unified AI workspace</title>
-    <link>https://blog.google/innovation-and-ai/models-and-research/google-labs/flow-updates-february-2026/</link>
-    <description>Google expands Flow AI video tool to integrate Whisk and ImageFX AI image generators, letting users generate, edit and animate everything in one unified workspace.</description>
-    <category>Deangelo</category>
-    <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
-    <guid isPermaLink="true">https://blog.google/innovation-and-ai/models-and-research/google-labs/flow-updates-february-2026/</guid>
-  </item>
-  <item>
-    <title>[Deangelo] Ben Evans: How will OpenAI compete?</title>
-    <link>https://www.ben-evans.com/benedictevans/2026/2/19/how-will-openai-compete-nkg2x</link>
-    <description>Analysis of OpenAI's competitive position as the AI landscape evolves with new players, shifting market dynamics, and questions about sustainable differentiation.</description>
-    <category>Deangelo</category>
-    <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
-    <guid isPermaLink="true">https://www.ben-evans.com/benedictevans/2026/2/19/how-will-openai-compete-nkg2x</guid>
-  </item>
-  <item>
-    <title>[Deangelo] RAM now 35% of bill of materials for HP PCs - supply chain shift</title>
-    <link>https://arstechnica.com/gadgets/2026/02/ram-now-represents-35-percent-of-bill-of-materials-for-hp-pcs/</link>
-    <description>RAM now represents 35% of HP's PC bill of materials, highlighting the growing cost pressure from memory in the AI era as hardware requirements scale.</description>
-    <category>Deangelo</category>
-    <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
-    <guid isPermaLink="true">https://arstechnica.com/gadgets/2026/02/ram-now-represents-35-percent-of-bill-of-materials-for-hp-pcs/</guid>
-  </item>
-  <item>
-    <title>[Shinola] Llama 3.1 70B on a single RTX 3090 via NVMe-to-GPU bypassing the CPU</title>
-    <link>https://github.com/xaskasdf/ntransformer</link>
-    <description>New project enables running Llama 3.1 70B on a single RTX 3090 by streaming weights directly from NVMe to GPU, completely bypassing CPU memory. A game-changer for self-hosted large model inference on consumer hardware.</description>
-    <category>Shinola</category>
-    <pubDate>Mon, 23 Feb 2026 00:00:00 GMT</pubDate>
-    <guid isPermaLink="true">https://github.com/xaskasdf/ntransformer</guid>
-  </item>
-  <item>
-    <title>[Shinola] How I use Claude Code: Separation of planning and execution</title>
-    <link>https://boristane.com/blog/how-i-use-claude-code/</link>
-    <description>Practical workflow guide for Claude Code that separates planning from execution phases, garnering 900+ upvotes on HN. A must-read for anyone using agentic coding tools.</description>
-    <category>Shinola</category>
-    <pubDate>Mon, 23 Feb 2026 00:00:00 GMT</pubDate>
-    <guid isPermaLink="true">https://boristane.com/blog/how-i-use-claude-code/</guid>
-  </item>
-  <item>
-    <title>[Shinola] GitNexus: Zero-Server Code Intelligence Engine with Graph RAG</title>
-    <link>https://github.com/abhigyanpatwari/GitNexus</link>
-    <description>Client-side knowledge graph creator that runs entirely in the browser — drop in a GitHub repo or ZIP and get an interactive knowledge graph with a built-in Graph RAG agent. Trending #1 on GitHub with 424 stars/day.</description>
-    <category>Shinola</category>
-    <pubDate>Mon, 23 Feb 2026 00:00:00 GMT</pubDate>
-    <guid isPermaLink="true">https://github.com/abhigyanpatwari/GitNexus</guid>
-  </item>
-  <item>
-    <title>[Shinola] Google restricting AI Pro/Ultra subscribers for using OpenClaw</title>
-    <link>https://discuss.ai.google.dev/t/account-restricted-without-warning-google-ai-ultra-oauth-via-openclaw/122778</link>
-    <description>Google is reportedly restricting accounts of paying AI Ultra subscribers who access the API through OpenClaw's OAuth integration. 657 points on HN with heated discussion about API access rights.</description>
-    <category>Shinola</category>
-    <pubDate>Mon, 23 Feb 2026 00:00:00 GMT</pubDate>
-    <guid isPermaLink="true">https://discuss.ai.google.dev/t/account-restricted-without-warning-google-ai-ultra-oauth-via-openclaw/122778</guid>
-  </item>
-  <item>
-    <title>[Shinola] How Taalas 'prints' LLMs onto a chip</title>
-    <link>https://www.anuragk.com/blog/posts/Taalas.html</link>
-    <description>Deep dive into Taalas's approach to baking LLM weights directly into silicon, promising massive efficiency gains for inference. 405 points on HN — the ASIC-for-LLMs trend is heating up.</description>
-    <category>Shinola</category>
-    <pubDate>Mon, 23 Feb 2026 00:00:00 GMT</pubDate>
-    <guid isPermaLink="true">https://www.anuragk.com/blog/posts/Taalas.html</guid>
-  </item>
-  <item>
-    <title>[Shinola] Agent Skills for Context Engineering (GitHub Trending)</title>
-    <link>https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering</link>
-    <description>Comprehensive collection of agent skills for context engineering, multi-agent architectures, and production agent systems. Trending on GitHub — useful reference for anyone building agent orchestration.</description>
-    <category>Shinola</category>
-    <pubDate>Mon, 23 Feb 2026 00:00:00 GMT</pubDate>
-    <guid isPermaLink="true">https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering</guid>
   </item>
 </channel>
 </rss>
