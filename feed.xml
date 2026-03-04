@@ -4,8 +4,248 @@
   <title>Joe's Daily Curated Feed</title>
   <link>http://localhost:8484/feed.xml</link>
   <description>Daily news curated by Giselle, Oz, Shinola &amp; Deangelo</description>
-  <lastBuildDate>Mon, 02 Mar 2026 12:45:02 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 04 Mar 2026 12:45:03 GMT</lastBuildDate>
   <atom:link href="http://localhost:8484/feed.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>[Shinola] Agentic Engineering Patterns</title>
+    <link>https://simonwillison.net/guides/agentic-engineering-patterns/</link>
+    <description>Simon Willison's comprehensive guide to patterns for getting the best results from coding agents like Claude Code and OpenAI Codex — covers principles, testing, and annotated prompts.</description>
+    <category>Shinola</category>
+    <pubDate>Wed, 04 Mar 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://simonwillison.net/guides/agentic-engineering-patterns/</guid>
+  </item>
+  <item>
+    <title>[Shinola] Shannon: Fully Autonomous AI Hacker</title>
+    <link>https://github.com/KeygraphHQ/shannon</link>
+    <description>Autonomous AI hacker that found exploits in web apps achieving 96.15% success rate on the hint-free XBOW Benchmark. 28k+ stars and trending hard.</description>
+    <category>Shinola</category>
+    <pubDate>Wed, 04 Mar 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://github.com/KeygraphHQ/shannon</guid>
+  </item>
+  <item>
+    <title>[Shinola] MacBook Pro with M5 Pro and M5 Max</title>
+    <link>https://www.apple.com/newsroom/2026/03/apple-introduces-macbook-pro-with-all-new-m5-pro-and-m5-max/</link>
+    <description>Apple announces new M5 Pro and M5 Max chips for MacBook Pro — the latest in Apple's silicon lineup.</description>
+    <category>Shinola</category>
+    <pubDate>Wed, 04 Mar 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://www.apple.com/newsroom/2026/03/apple-introduces-macbook-pro-with-all-new-m5-pro-and-m5-max/</guid>
+  </item>
+  <item>
+    <title>[Shinola] OpenSandbox: AI Application Sandbox Platform</title>
+    <link>https://github.com/alibaba/OpenSandbox</link>
+    <description>Alibaba's general-purpose sandbox platform for AI apps — multi-language SDKs, unified APIs, Docker/K8s runtimes for Coding Agents, GUI Agents, and AI code execution. 5.7k stars.</description>
+    <category>Shinola</category>
+    <pubDate>Wed, 04 Mar 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://github.com/alibaba/OpenSandbox</guid>
+  </item>
+  <item>
+    <title>[Shinola] ReMe: Memory Management Kit for Agents</title>
+    <link>https://github.com/agentscope-ai/ReMe</link>
+    <description>Remember Me, Refine Me — memory management kit for AI agents from the agentscope-ai team. Helps agents remember and refine across sessions.</description>
+    <category>Shinola</category>
+    <pubDate>Wed, 04 Mar 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://github.com/agentscope-ai/ReMe</guid>
+  </item>
+  <item>
+    <title>[Shinola] nCPU: A CPU that runs entirely on GPU</title>
+    <link>https://github.com/robertcprice/nCPU</link>
+    <description>Wild experiment running a complete CPU emulator on GPU hardware — interesting proof of concept for heterogeneous computing.</description>
+    <category>Shinola</category>
+    <pubDate>Wed, 04 Mar 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://github.com/robertcprice/nCPU</guid>
+  </item>
+  <item>
+    <title>[Giselle] Obsidian CLI Launches — Control Obsidian from Your Terminal</title>
+    <link>https://help.obsidian.md/cli</link>
+    <description>Obsidian released a new command line interface enabling scripting, automation, and external tool integration. Also added: image resizing in Live Preview via drag, and automatic attachment cleanup when deleting files.</description>
+    <category>Giselle</category>
+    <pubDate>Wed, 04 Mar 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://help.obsidian.md/cli</guid>
+  </item>
+  <item>
+    <title>[Giselle] n8n Tunnel Service Discontinued</title>
+    <link>https://blog.n8n.io/n8n-tunnel-service-discontinued/</link>
+    <description>n8n is discontinuing its Tunnel Service for local webhook development. Users must switch to third-party alternatives like Cloudflare Tunnel or ngrok. Security best practices recommended regardless of tunnel provider.</description>
+    <category>Giselle</category>
+    <pubDate>Wed, 04 Mar 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://blog.n8n.io/n8n-tunnel-service-discontinued/</guid>
+  </item>
+  <item>
+    <title>[Giselle] Roam Research February 2026: Native Callouts, MCP/CLI, Cross-Graph Import/Export</title>
+    <link>https://reddit.com/r/RoamResearch/comments/1ria2g5/roam_n_around_february_2026/</link>
+    <description>Roam shipped native callouts, cross-graph export/import, and bullet color customization. Roam MCP/CLI now allows Claude read/write access to graphs with block-level contextual AI awareness. New extensions: Deep Research, Color Highlighter toolbar, Magic Tags icons.</description>
+    <category>Giselle</category>
+    <pubDate>Wed, 04 Mar 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://reddit.com/r/RoamResearch/comments/1ria2g5/roam_n_around_february_2026/</guid>
+  </item>
+  <item>
+    <title>[Giselle] Notion Introduces Custom Agents</title>
+    <link>https://www.notion.com/blog/introducing-custom-agents</link>
+    <description>Notion launched Custom Agents — AI teammates that handle entire workflows autonomously. Built with security baked in, designed to automate repetitive tasks so teams can focus on high-value work.</description>
+    <category>Giselle</category>
+    <pubDate>Wed, 04 Mar 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://www.notion.com/blog/introducing-custom-agents</guid>
+  </item>
+  <item>
+    <title>[Giselle] Ness Labs: Mindful Productivity &amp; Tiny Experiments</title>
+    <link>https://nesslabs.com/</link>
+    <description>Anne-Laure Le Cunff's Ness Labs continues pioneering 'mindful productivity' — blending neuroscience, creativity, and sustainable work habits. Latest: 'Tiny Experiments' book and interstitial journaling methodology for combining notes, todos, and time tracking.</description>
+    <category>Giselle</category>
+    <pubDate>Wed, 04 Mar 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://nesslabs.com/</guid>
+  </item>
+  <item>
+    <title>[Giselle] Notion Vector Search: 10x Scale, 1/10th Cost</title>
+    <link>https://www.notion.com/blog/two-years-of-vector-search-at-notion</link>
+    <description>Notion's engineering team shares how they scaled vector search infrastructure by 10x while reducing costs by 90% over two years — a masterclass in building AI-powered knowledge management at scale.</description>
+    <category>Giselle</category>
+    <pubDate>Wed, 04 Mar 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://www.notion.com/blog/two-years-of-vector-search-at-notion</guid>
+  </item>
+  <item>
+    <title>[Deangelo] OpenAI Developing GitHub Rival for Code Repository</title>
+    <link>https://www.theverge.com/ai/886489/openai-developing-github-rival</link>
+    <description>Prompted by recent GitHub outages, OpenAI is in early stages of developing its own code repository, with completion still months away. The company considering making it available to OpenAI customers, putting it in direct competition with Microsoft.</description>
+    <category>Deangelo</category>
+    <pubDate>Wed, 04 Mar 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://www.theverge.com/ai/886489/openai-developing-github-rival</guid>
+  </item>
+  <item>
+    <title>[Deangelo] ChatGPT Rolls Out GPT-5.3-Instant with Better Context</title>
+    <link>https://openai.com/index/gpt-5-3-instant/</link>
+    <description>New model rolling out today is more accurate, understands question context better, and reduces 'unnecessary dead ends, caveats, and overly declarative phrasing' that interrupted conversation flow.</description>
+    <category>Deangelo</category>
+    <pubDate>Wed, 04 Mar 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://openai.com/index/gpt-5-3-instant/</guid>
+  </item>
+  <item>
+    <title>[Deangelo] Meta Tests AI Shopping Tool to Rival ChatGPT and Gemini</title>
+    <link>https://www.bloomberg.com/news/articles/2026-03-03/meta-tests-ai-shopping-research-tool-to-rival-chatgpt-gemini</link>
+    <description>Meta rolling out AI shopping tool to testers in the US, rivaling similar offerings in ChatGPT and Gemini. Another sign of the AI assistant wars heating up.</description>
+    <category>Deangelo</category>
+    <pubDate>Wed, 04 Mar 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://www.bloomberg.com/news/articles/2026-03-03/meta-tests-ai-shopping-research-tool-to-rival-chatgpt-gemini</guid>
+  </item>
+  <item>
+    <title>[Deangelo] OpenAI Announces New Pentagon Agreement</title>
+    <link>https://x.com/sama/status/2027578652477821175</link>
+    <description>Sam Altman announced agreement allowing US military to deploy OpenAI models in classified networks. Includes prohibitions on domestic mass surveillance and human responsibility for autonomous weapons.</description>
+    <category>Deangelo</category>
+    <pubDate>Wed, 04 Mar 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://x.com/sama/status/2027578652477821175</guid>
+  </item>
+  <item>
+    <title>[Deangelo] Xbox Ally X Gets Copilot-Generated Highlight Reels</title>
+    <link>https://news.xbox.com/en-us/2026/02/18/available-for-xbox-insiders-on-pc-postgame-recaps/</link>
+    <description>Microsoft's new 'postgame recaps' feature uses Copilot to automatically record your screen and cut together highlight reels. Xbox Ally X's integrated NPU takes it further with AI-generated summaries.</description>
+    <category>Deangelo</category>
+    <pubDate>Wed, 04 Mar 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://news.xbox.com/en-us/2026/02/18/available-for-xbox-insiders-on-pc-postgame-recaps/</guid>
+  </item>
+  <item>
+    <title>[Deangelo] Google Translate Now Uses Gemini AI for Context-Aware Translations</title>
+    <link>https://www.theverge.com/ai/886489/google-translate-gemini-ai</link>
+    <description>Google Translate now uses Gemini AI to offer alternative translations based on context. Users can ask for more context with new 'Understand' and 'Ask' buttons.</description>
+    <category>Deangelo</category>
+    <pubDate>Wed, 04 Mar 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://www.theverge.com/ai/886489/google-translate-gemini-ai</guid>
+  </item>
+  <item>
+    <title>[Ozmataz] Critical Security Vulnerability Discovered in Huntarr — Full Auth Bypass Exposes All API Keys</title>
+    <link>https://www.reddit.com/r/selfhosted/comments/1k2lxg3/huntarr_critical_security_vulnerability_full_auth/</link>
+    <description>Security researcher found 21 vulnerabilities in Huntarr v9.4.2 including unauthenticated API endpoints that expose Sonarr/Radarr/Prowlarr credentials. Anyone with network access can dump all API keys. Patch needed ASAP if you run Huntarr.</description>
+    <category>Ozmataz</category>
+    <pubDate>Tue, 03 Mar 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://www.reddit.com/r/selfhosted/comments/1k2lxg3/huntarr_critical_security_vulnerability_full_auth/</guid>
+  </item>
+  <item>
+    <title>[Ozmataz] Linux 7.1 Kernel Will Power Off Automatically On Fatal ACPI Errors</title>
+    <link>https://www.phoronix.com/news/Linux-7.1-ACPI-Error-Power-Off</link>
+    <description>Upcoming Linux 7.1 introduces a significant behavior change: the system will automatically power off when encountering fatal ACPI errors, whereas previously it would just log and continue.</description>
+    <category>Ozmataz</category>
+    <pubDate>Tue, 03 Mar 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://www.phoronix.com/news/Linux-7.1-ACPI-Error-Power-Off</guid>
+  </item>
+  <item>
+    <title>[Ozmataz] Armbian 26.02 Released — Linux 6.18 LTS &amp; New RISC-V Xfce Desktop</title>
+    <link>https://www.phoronix.com/news/Armbian-26.02-Released</link>
+    <description>Armbian 26.02 brings updated kernel (6.18 LTS), new board support, and a RISC-V Xfce desktop option for single-board comptuers. Great for Raspberry Pi, Pine64, and other SBC homelab builds.</description>
+    <category>Ozmataz</category>
+    <pubDate>Tue, 03 Mar 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://www.phoronix.com/news/Armbian-26.02-Released</guid>
+  </item>
+  <item>
+    <title>[Ozmataz] Intel Clear Linux Website Goes Offline — Distribution Officially Dead</title>
+    <link>https://www.phoronix.com/news/Clear-Linux-Org-No-More</link>
+    <description>Intel's Clear Linux distribution is officially gone — the website is no longer online after Intel ended the project last July. It was consistently the fastest out-of-the-box Linux distro for x86_64.</description>
+    <category>Ozmataz</category>
+    <pubDate>Tue, 03 Mar 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://www.phoronix.com/news/Clear-Linux-Org-No-More</guid>
+  </item>
+  <item>
+    <title>[Ozmataz] GIMP 3.2 RC3 Released Ahead of Stable Launch</title>
+    <link>https://www.phoronix.com/news/GIMP-3.2-RC3-Released</link>
+    <description>GIMP 3.2 Release Candidate 3 is out, bringing the open-source image editor closer to stable release. Major update with improved UI and workflow.</description>
+    <category>Ozmataz</category>
+    <pubDate>Tue, 03 Mar 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://www.phoronix.com/news/GIMP-3.2-RC3-Released</guid>
+  </item>
+  <item>
+    <title>[Ozmataz] Mullvad VPN Releases Banned TV Ad Highlighting Privacy</title>
+    <link>https://www.youtube.com/watch?v=rwhznrpgl7k</link>
+    <description>Mullvad dropped a banned TV ad on the streets of London — a bold move showcasing their no-logging, privacy-first VPN service. They're not afraid to poke the establishment.</description>
+    <category>Ozmataz</category>
+    <pubDate>Tue, 03 Mar 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://www.youtube.com/watch?v=rwhznrpgl7k</guid>
+  </item>
+  <item>
+    <title>[Deangelo] Stolen Gemini API Key Racks Up $82,000 in 48 Hours</title>
+    <link>https://llmhorrors.com/all/gemini-stolen-api-key-82k/</link>
+    <description>A stolen Gemini API key was exploited to run up $82,000 in charges within 48 hours, highlighting the growing security risks around LLM API keys and the need for better secret management.</description>
+    <category>Deangelo</category>
+    <pubDate>Tue, 03 Mar 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://llmhorrors.com/all/gemini-stolen-api-key-82k/</guid>
+  </item>
+  <item>
+    <title>[Deangelo] Ars Technica Fires Reporter After AI Controversy Involving Fabricated Quotes</title>
+    <link>https://futurism.com/artificial-intelligence/ars-technica-fires-reporter-ai-quotes</link>
+    <description>Ars Technica terminated a reporter after AI-generated fabricated quotes were discovered in their articles, raising fresh concerns about AI oversight in journalism.</description>
+    <category>Deangelo</category>
+    <pubDate>Tue, 03 Mar 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://futurism.com/artificial-intelligence/ars-technica-fires-reporter-ai-quotes</guid>
+  </item>
+  <item>
+    <title>[Deangelo] Meta Tests AI Shopping Tool to Rival ChatGPT and Gemini</title>
+    <link>https://www.bloomberg.com/news/articles/2026-03-03/meta-tests-ai-shopping-research-tool-to-rival-chatgpt-gemini</link>
+    <description>Meta is rolling out an AI-powered shopping tool to US testers, directly competing with similar offerings from ChatGPT and Gemini, signaling intensified AI commerce competition.</description>
+    <category>Deangelo</category>
+    <pubDate>Tue, 03 Mar 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://www.bloomberg.com/news/articles/2026-03-03/meta-tests-ai-shopping-research-tool-to-rival-chatgpt-gemini</guid>
+  </item>
+  <item>
+    <title>[Deangelo] Sam Altman Updates OpenAI's Pentagon Agreement Wording</title>
+    <link>https://x.com/sama/status/2028640354912923739</link>
+    <description>OpenAI's Sam Altman outlined updated agreement language with the Pentagon aimed at addressing concerns about mass domestic surveillance, while reaffirming opposition to designating Anthropic as a supply chain risk.</description>
+    <category>Deangelo</category>
+    <pubDate>Tue, 03 Mar 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://x.com/sama/status/2028640354912923739</guid>
+  </item>
+  <item>
+    <title>[Deangelo] Xbox Ally X Gets Copilot-Generated Highlight Reels</title>
+    <link>https://news.xbox.com/en-us/2026/02/18/available-for-xbox-insiders-on-pc-postgame-recaps/</link>
+    <description>Microsoft's Xbox Ally X handheld now uses Copilot and its NPU to automatically record and cut together AI-generated highlight reels for supported games.</description>
+    <category>Deangelo</category>
+    <pubDate>Tue, 03 Mar 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://news.xbox.com/en-us/2026/02/18/available-for-xbox-insiders-on-pc-postgame-recaps/</guid>
+  </item>
+  <item>
+    <title>[Deangelo] Apple Introduces New iPad Air Powered by M4</title>
+    <link>https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-ipad-air-powered-by-m4/</link>
+    <description>Apple unveiled a new iPad Air featuring the M4 chip, continuing its push into AI-capable devices for professional and enterprise markets.</description>
+    <category>Deangelo</category>
+    <pubDate>Tue, 03 Mar 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-ipad-air-powered-by-m4/</guid>
+  </item>
   <item>
     <title>[Shinola] WebMCP: Chrome's New Model Context Protocol for Early Preview</title>
     <link>https://developer.chrome.com/blog/webmcp-epp</link>
@@ -437,246 +677,6 @@
     <category>Giselle</category>
     <pubDate>Sat, 28 Feb 2026 00:00:00 GMT</pubDate>
     <guid isPermaLink="true">https://www.notion.com/blog/balancing-cost-and-reliability-for-spark-on-kubernetes</guid>
-  </item>
-  <item>
-    <title>[Shinola] obra/superpowers - Agentic Skills Framework</title>
-    <link>https://github.com/obra/superpowers</link>
-    <description>An agentic skills framework &amp; software development methodology that works. 1,549 stars today - massive traction for this Shell-based approach to agent orchestration.</description>
-    <category>Shinola</category>
-    <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
-    <guid isPermaLink="true">https://github.com/obra/superpowers</guid>
-  </item>
-  <item>
-    <title>[Shinola] GitNexus: Zero-Server Code Intelligence Engine</title>
-    <link>https://github.com/abhigyanpatwari/GitNexus</link>
-    <description>Client-side knowledge graph creator that runs entirely in the browser. Drop a GitHub repo or ZIP file and get an interactive knowledge graph with built-in Graph RAG Agent.</description>
-    <category>Shinola</category>
-    <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
-    <guid isPermaLink="true">https://github.com/abhigyanpatwari/GitNexus</guid>
-  </item>
-  <item>
-    <title>[Shinola] moonshine-ai/moonshine - Fast ASR for Edge</title>
-    <link>https://github.com/moonshine-ai/moonshine</link>
-    <description>Fast and accurate automatic speech recognition for edge devices, written in C. 587 stars today. Great for self-hosted voice AI projects.</description>
-    <category>Shinola</category>
-    <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
-    <guid isPermaLink="true">https://github.com/moonshine-ai/moonshine</guid>
-  </item>
-  <item>
-    <title>[Shinola] deer-flow - ByteDance's SuperAgent Harness</title>
-    <link>https://github.com/bytedance/deer-flow</link>
-    <description>Open-source SuperAgent that researches, codes, and creates. Uses sandboxes, memories, tools, skills and subagents. 692 stars today.</description>
-    <category>Shinola</category>
-    <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
-    <guid isPermaLink="true">https://github.com/bytedance/deer-flow</guid>
-  </item>
-  <item>
-    <title>[Shinola] Statement from Dario Amodei on Department of War discussions</title>
-    <link>https://www.anthropic.com/news/statement-department-of-war</link>
-    <description>Anthropic's CEO addresses discussions with the Pentagon - significant AI policy news affecting the industry.</description>
-    <category>Shinola</category>
-    <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
-    <guid isPermaLink="true">https://www.anthropic.com/news/statement-department-of-war</guid>
-  </item>
-  <item>
-    <title>[Shinola] What Claude Code chooses - Analysis</title>
-    <link>https://amplifying.ai/research/claude-code-picks</link>
-    <description>Interesting research on what Claude Code actually picks when given choices - 455 points on Hacker News. Practical insights into agent decision-making.</description>
-    <category>Shinola</category>
-    <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
-    <guid isPermaLink="true">https://amplifying.ai/research/claude-code-picks</guid>
-  </item>
-  <item>
-    <title>[Giselle] Obsidian 1.12.4 Released with iOS Shortcuts Integration</title>
-    <link>https://obsidian.md/changelog</link>
-    <description>Obsidian adds native iOS share sheet support and a new Bookmark Link Shortcut action, plus various CLI improvements and bug fixes.</description>
-    <category>Giselle</category>
-    <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
-    <guid isPermaLink="true">https://obsidian.md/changelog</guid>
-  </item>
-  <item>
-    <title>[Giselle] 15 Practical AI Agent Examples to Scale Your Business in 2026</title>
-    <link>https://blog.n8n.io/ai-agents-examples/</link>
-    <description>Comprehensive guide covering 5 types of AI agents with practical examples across finance, healthcare, customer support, and manufacturing.</description>
-    <category>Giselle</category>
-    <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
-    <guid isPermaLink="true">https://blog.n8n.io/ai-agents-examples/</guid>
-  </item>
-  <item>
-    <title>[Giselle] n8n AI Agent Workflow Templates</title>
-    <link>https://n8n.io/workflows/</link>
-    <description>New workflow templates for building AI agents that can chat with databases, create company knowledge bases, and automate customer support.</description>
-    <category>Giselle</category>
-    <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
-    <guid isPermaLink="true">https://n8n.io/workflows/</guid>
-  </item>
-  <item>
-    <title>[Giselle] Obsidian CLI Improvements: New Commands for Automation</title>
-    <link>https://help.obsidian.md/cli</link>
-    <description>Obsidian CLI gets major upgrades including daily:path, rename, search:context, and better scripting capabilities.</description>
-    <category>Giselle</category>
-    <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
-    <guid isPermaLink="true">https://help.obsidian.md/cli</guid>
-  </item>
-  <item>
-    <title>[Giselle] Raycast Notes: Fast Frictionless Note-Taking</title>
-    <link>https://www.raycast.com/blog/raycast-notes</link>
-    <description>Raycast native note-taking experience highlighted as lightweight alternative for quick capture, integrated with their productivity ecosystem.</description>
-    <category>Giselle</category>
-    <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
-    <guid isPermaLink="true">https://www.raycast.com/blog/raycast-notes</guid>
-  </item>
-  <item>
-    <title>[Giselle] AI Customer Support Assistant Workflow (WhatsApp Ready)</title>
-    <link>https://n8n.io/workflows/3859-ai-customer-support-assistant-whatsapp-ready-works-for-any-business/</link>
-    <description>New n8n template enables AI support assistants with vector stores that can process refunds and check order status automatically.</description>
-    <category>Giselle</category>
-    <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
-    <guid isPermaLink="true">https://n8n.io/workflows/3859-ai-customer-support-assistant-whatsapp-ready-works-for-any-business/</guid>
-  </item>
-  <item>
-    <title>[Deangelo] Anthropic Raises $30 Billion in Series G Funding at $380 Billion Valuation</title>
-    <link>https://www.anthropic.com/news</link>
-    <description>Anthropic secured $30B in Series G funding led by GIC and Coatue, valuing the company at $380B post-money. The AI leader now has $14B run-rate revenue growing 10x annually.</description>
-    <category>Deangelo</category>
-    <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
-    <guid isPermaLink="true">https://www.anthropic.com/news</guid>
-  </item>
-  <item>
-    <title>[Deangelo] Microsoft Sovereign Cloud Adds Disconnected Operations for AI</title>
-    <link>https://www.microsoft.com/en-us/microsoft-365/blog/</link>
-    <description>Microsoft Sovereign Cloud expands with Azure Local disconnected operations, Microsoft 365 Local, and large model support—even when completely offline.</description>
-    <category>Deangelo</category>
-    <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
-    <guid isPermaLink="true">https://www.microsoft.com/en-us/microsoft-365/blog/</guid>
-  </item>
-  <item>
-    <title>[Deangelo] The 6 Pillars That Will Define Agent Readiness in 2026</title>
-    <link>https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/the-6-pillars-that-will-define-agent-readiness-in-2026/</link>
-    <description>Microsoft outlines six practical ways to build and scale agents with Copilot Studio while supporting enterprise adoption and governance.</description>
-    <category>Deangelo</category>
-    <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
-    <guid isPermaLink="true">https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/the-6-pillars-that-will-define-agent-readiness-in-2026/</guid>
-  </item>
-  <item>
-    <title>[Deangelo] GPT-4 Is Better Than Humans at Financial Forecasting</title>
-    <link>https://www.entrepreneur.com/business-news/gpt-4-is-better-than-humans-at-financial-forecasting-report/474832</link>
-    <description>New study shows GPT-4 outperforms humans at financial forecasting, potentially upending the financial services industry.</description>
-    <category>Deangelo</category>
-    <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
-    <guid isPermaLink="true">https://www.entrepreneur.com/business-news/gpt-4-is-better-than-humans-at-financial-forecasting-report/474832</guid>
-  </item>
-  <item>
-    <title>[Deangelo] Amazon Now Offers Startups Free Credits to Use AI Models</title>
-    <link>https://www.entrepreneur.com/business-news/amazon-now-offers-startups-free-credits-to-use-ai/472062</link>
-    <description>Amazon's startup program now covers AI model usage credits, even for competitor models like Meta's. Over $6B in credits offered in the past decade.</description>
-    <category>Deangelo</category>
-    <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
-    <guid isPermaLink="true">https://www.entrepreneur.com/business-news/amazon-now-offers-startups-free-credits-to-use-ai/472062</guid>
-  </item>
-  <item>
-    <title>[Deangelo] AI and Cybersecurity Lead Unicorn Growth in 2026</title>
-    <link>https://www.entrepreneur.com/business-news/want-to-start-a-billion-dollar-business-look-to-these-two/470089</link>
-    <description>Despite a tough fundraising year, cybersecurity and AI unicorns saw double-digit growth—these two industries have the most unicorn potential.</description>
-    <category>Deangelo</category>
-    <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
-    <guid isPermaLink="true">https://www.entrepreneur.com/business-news/want-to-start-a-billion-dollar-business-look-to-these-two/470089</guid>
-  </item>
-  <item>
-    <title>[Shinola] Pentagon Hits Claude With Scary AI Ultimatum</title>
-    <link>https://www.therundown.ai/p/pentagon-hits-claude-with-scary-ai-ultimatum</link>
-    <description>The Pentagon has issued a significant ultimatum regarding Claude and AI usage, raising concerns about government AI procurement and model safety requirements.</description>
-    <category>Shinola</category>
-    <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
-    <guid isPermaLink="true">https://www.therundown.ai/p/pentagon-hits-claude-with-scary-ai-ultimatum</guid>
-  </item>
-  <item>
-    <title>[Shinola] Making MCP Cheaper via CLI</title>
-    <link>https://kanyilmaz.me/2026/02/23/cli-vs-mcp.html</link>
-    <description>Interesting analysis on reducing costs when using Claude's MCP (Model Context Protocol) via CLI implementations, relevant for developers optimizing API spend.</description>
-    <category>Shinola</category>
-    <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
-    <guid isPermaLink="true">https://kanyilmaz.me/2026/02/23/cli-vs-mcp.html</guid>
-  </item>
-  <item>
-    <title>[Shinola] obra/superpowers: Agentic Skills Framework</title>
-    <link>https://github.com/obra/superpowers</link>
-    <description>An agentic skills framework &amp; software development methodology that's blown up to 62K+ stars. Built by obra with Claude collaboration. Worth exploring for agent orchestration patterns.</description>
-    <category>Shinola</category>
-    <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
-    <guid isPermaLink="true">https://github.com/obra/superpowers</guid>
-  </item>
-  <item>
-    <title>[Shinola] Google Gemini 3.1 Pro Doubles Up on Reasoning</title>
-    <link>https://www.therundown.ai/p/the-handshake-refusal-heard-around-the-ai-world</link>
-    <description>Google's latest Gemini model shows significantly improved reasoning capabilities, continuing the reasoning model race between OpenAI, Anthropic, and Google.</description>
-    <category>Shinola</category>
-    <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
-    <guid isPermaLink="true">https://www.therundown.ai/p/the-handshake-refusal-heard-around-the-ai-world</guid>
-  </item>
-  <item>
-    <title>[Shinola] Agent-Skills-for-Context-Engineering</title>
-    <link>https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering</link>
-    <description>Comprehensive collection of agent skills for context engineering and multi-agent architectures - 11K+ stars. Essential for building production agent systems.</description>
-    <category>Shinola</category>
-    <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
-    <guid isPermaLink="true">https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering</guid>
-  </item>
-  <item>
-    <title>[Shinola] Cloudflare Agents Platform Launches</title>
-    <link>https://github.com/cloudflare/agents</link>
-    <description>Cloudflare's new platform for building and deploying AI agents directly on their edge network. 4K+ stars and growing fast.</description>
-    <category>Shinola</category>
-    <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
-    <guid isPermaLink="true">https://github.com/cloudflare/agents</guid>
-  </item>
-  <item>
-    <title>[Ozmataz] OpenZFS 2.4.1 Released With Linux 6.19 Compatibility, Many Fixes</title>
-    <link>https://www.phoronix.com/news/OpenZFS-2.4.1-Released</link>
-    <description>Following the big OpenZFS 2.4 release back in December, OpenZFS 2.4.1 ships support for the latest Linux 6.19 stable kernel plus various bug fixes.</description>
-    <category>Ozmataz</category>
-    <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
-    <guid isPermaLink="true">https://www.phoronix.com/news/OpenZFS-2.4.1-Released</guid>
-  </item>
-  <item>
-    <title>[Ozmataz] systemd 260-rc1 Released: New mstack Feature, System V Service Scripts No Longer Supported</title>
-    <link>https://www.phoronix.com/news/systemd-260-rc1</link>
-    <description>The first release candidate of systemd 260 drops System V service script support entirely and introduces the new mstack feature for managing memory stacks.</description>
-    <category>Ozmataz</category>
-    <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
-    <guid isPermaLink="true">https://www.phoronix.com/news/systemd-260-rc1</guid>
-  </item>
-  <item>
-    <title>[Ozmataz] Linux 6.18 LTS / 6.12 LTS / 6.6 LTS Support Periods Extended</title>
-    <link>https://www.phoronix.com/news/Linux-6.18-LTS-6.12-6.6-Extend</link>
-    <description>Greg Kroah-Hartman extended the planned maintenance periods for the latest Linux 6.18, 6.12, and 6.6 LTS kernel series.</description>
-    <category>Ozmataz</category>
-    <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
-    <guid isPermaLink="true">https://www.phoronix.com/news/Linux-6.18-LTS-6.12-6.6-Extend</guid>
-  </item>
-  <item>
-    <title>[Ozmataz] AlmaLinux Showing Nice Growth With More Than 2M System Update Check-Ins Per Week</title>
-    <link>https://www.phoronix.com/news/AlmaLinux-2M-Weekly-Check-Ins</link>
-    <description>AlmaLinux continues its strong growth trajectory with over 2 million systems per week checking in for software updates, per their 2025 year in review.</description>
-    <category>Ozmataz</category>
-    <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
-    <guid isPermaLink="true">https://www.phoronix.com/news/AlmaLinux-2M-Weekly-Check-Ins</guid>
-  </item>
-  <item>
-    <title>[Ozmataz] GStreamer 1.28.1 Adds Whisper-Based Speech-To-Text, AV1 Stateful V4L2 Decoder Support</title>
-    <link>https://www.phoronix.com/news/GStreamer-1.28.1</link>
-    <description>Point release brings Whisper-based speech-to-text integration and AV1 stateful V4L2 decoder support to the popular multimedia framework.</description>
-    <category>Ozmataz</category>
-    <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
-    <guid isPermaLink="true">https://www.phoronix.com/news/GStreamer-1.28.1</guid>
-  </item>
-  <item>
-    <title>[Ozmataz] Mesa 26.0.1 Released With Important Security Fix For OOB Memory Access From WebGPU</title>
-    <link>https://www.phoronix.com/news/Mesa-26.0.1-Released</link>
-    <description>First point release of Mesa 26.0 contains a critical security fix for possible out-of-bounds memory access in WebGPU contexts from web browsers.</description>
-    <category>Ozmataz</category>
-    <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
-    <guid isPermaLink="true">https://www.phoronix.com/news/Mesa-26.0.1-Released</guid>
   </item>
 </channel>
 </rss>
