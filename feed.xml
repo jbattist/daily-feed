@@ -4,8 +4,200 @@
   <title>Joe's Daily Curated Feed</title>
   <link>http://localhost:8484/feed.xml</link>
   <description>Daily news curated by Giselle, Oz, Shinola &amp; Deangelo</description>
-  <lastBuildDate>Wed, 04 Mar 2026 12:45:03 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 05 Mar 2026 12:45:02 GMT</lastBuildDate>
   <atom:link href="http://localhost:8484/feed.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>[Ozmataz] systemd 260-rc2 Released With More Changes</title>
+    <link>https://www.phoronix.com/news/systemd-260-rc2</link>
+    <description>systemd 260-rc2 brings more changes as it works toward stable release for 2026 Linux distributions, following the rc1 release with new mstack feature and dropped System V support.</description>
+    <category>Ozmataz</category>
+    <pubDate>Thu, 05 Mar 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://www.phoronix.com/news/systemd-260-rc2</guid>
+  </item>
+  <item>
+    <title>[Ozmataz] AMD HSMP Linux Driver Preps For Zen 6 EPYC With Finer Power Controls</title>
+    <link>https://www.phoronix.com/news/AMD-HSMP-Preps-For-Zen-6-EPYC</link>
+    <description>The AMD Host System Management Port driver is preparing for Zen 6 EPYC &quot;Venice&quot; processors, providing access to advanced system management features for server workloads.</description>
+    <category>Ozmataz</category>
+    <pubDate>Thu, 05 Mar 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://www.phoronix.com/news/AMD-HSMP-Preps-For-Zen-6-EPYC</guid>
+  </item>
+  <item>
+    <title>[Ozmataz] Linux Preps IBPB-On-Entry Feature For AMD SEV-SNP Guest VMs</title>
+    <link>https://www.phoronix.com/news/AMD-IBPB-On-Entry-SNP-VMs</link>
+    <description>Linux kernel is implementing IBPB-On-Entry for AMD SEV-SNP VMs, a security feature from Zen 5 processors enhancing VM isolation, marked for backport to stable kernels.</description>
+    <category>Ozmataz</category>
+    <pubDate>Thu, 05 Mar 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://www.phoronix.com/news/AMD-IBPB-On-Entry-SNP-VMs</guid>
+  </item>
+  <item>
+    <title>[Ozmataz] Google Workspace CLI</title>
+    <link>https://github.com/googleworkspace/cli</link>
+    <description>Google releases official CLI for Workspace management, enabling command-line administration of Gmail, Drive, Calendar, and other Google services.</description>
+    <category>Ozmataz</category>
+    <pubDate>Thu, 05 Mar 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://github.com/googleworkspace/cli</guid>
+  </item>
+  <item>
+    <title>[Ozmataz] AMD Ryzen AI Coming to Standard Desktop PCs for First Time</title>
+    <link>https://arstechnica.com/gadgets/2026/03/amd-ryzen-ai-400-cpus-will-bring-upgraded-graphics-to-socket-am5-desktops/</link>
+    <description>AMD bringing &quot;Ryzen AI&quot; processors to standard desktop PCs for first time, with Ryzen AI 400 series CPUs featuring upgraded graphics for Socket AM5.</description>
+    <category>Ozmataz</category>
+    <pubDate>Thu, 05 Mar 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://arstechnica.com/gadgets/2026/03/amd-ryzen-ai-400-cpus-will-bring-upgraded-graphics-to-socket-am5-desktops/</guid>
+  </item>
+  <item>
+    <title>[Ozmataz] Jails for NetBSD – Kernel Enforced Isolation</title>
+    <link>https://netbsd-jails.petermann-digital.de/</link>
+    <description>NetBSD Jails provide kernel-enforced isolation and native resource control as an alternative to FreeBSD jails for homelab environments seeking lightweight virtualization.</description>
+    <category>Ozmataz</category>
+    <pubDate>Thu, 05 Mar 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://netbsd-jails.petermann-digital.de/</guid>
+  </item>
+  <item>
+    <title>[Giselle] Obsidian CLI and New Image Features in Latest Release</title>
+    <link>https://obsidian.md/changelog/</link>
+    <description>Obsidian releases new CLI for terminal control, image resizing in Live Preview, and automatic attachment cleanup when deleting files.</description>
+    <category>Giselle</category>
+    <pubDate>Thu, 05 Mar 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://obsidian.md/changelog/</guid>
+  </item>
+  <item>
+    <title>[Giselle] OpenAI Acquires Sky, The Mac Automation App From Shortcuts Founders</title>
+    <link>https://www.macstories.net/news/openai-acquires-sky-mac-automation-app/</link>
+    <description>OpenAI acquires Sky, the AI automation app built by the original Workflow/Shortcuts founders, signaling major push into Mac desktop automation.</description>
+    <category>Giselle</category>
+    <pubDate>Thu, 05 Mar 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://www.macstories.net/news/openai-acquires-sky-mac-automation-app/</guid>
+  </item>
+  <item>
+    <title>[Giselle] n8n Discontinues Tunnel Service</title>
+    <link>https://blog.n8n.io/n8n-tunnel-service-discontinued/</link>
+    <description>n8n discontinues its Tunnel Service and --tunnel option, urging users to set up secure alternatives for local webhook development.</description>
+    <category>Giselle</category>
+    <pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://blog.n8n.io/n8n-tunnel-service-discontinued/</guid>
+  </item>
+  <item>
+    <title>[Giselle] Universal Clipper: A Smarter Web Clipper for Obsidian Using Shortcuts and AI</title>
+    <link>https://www.macstories.net/club/posts/automation-academy-how-i-built-a-smarter-web-clipper-for-obsidian-using-shortcuts-and-ai</link>
+    <description>MacStories releases Universal Clipper shortcut that auto-detects link types and saves them to Obsidian with AI-powered formatting.</description>
+    <category>Giselle</category>
+    <pubDate>Wed, 04 Mar 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://www.macstories.net/club/posts/automation-academy-how-i-built-a-smarter-web-clipper-for-obsidian-using-shortcuts-and-ai</guid>
+  </item>
+  <item>
+    <title>[Giselle] 8BitDo Micro Controller as a Mac Automation Tool</title>
+    <link>https://www.macstories.net/stories/my-latest-mac-automation-tool-is-a-tiny-game-controller/</link>
+    <description>Using the tiny 16-button 8BitDo Micro controller for dictation, AI chatbot interaction, and podcast editing on Mac.</description>
+    <category>Giselle</category>
+    <pubDate>Tue, 03 Mar 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://www.macstories.net/stories/my-latest-mac-automation-tool-is-a-tiny-game-controller/</guid>
+  </item>
+  <item>
+    <title>[Giselle] Apple's Foundation Models and Use Model Action in Shortcuts</title>
+    <link>https://www.macstories.net/notes/i-have-many-questions-about-apples-updated-foundation-models-and-the-great-use-model-action-in-shortcuts/</link>
+    <description>Deep dive into Apple's new Use Model action in Shortcuts for iOS/macOS 26, enabling local or cloud AI prompting for automation.</description>
+    <category>Giselle</category>
+    <pubDate>Sun, 01 Mar 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://www.macstories.net/notes/i-have-many-questions-about-apples-updated-foundation-models-and-the-great-use-model-action-in-shortcuts/</guid>
+  </item>
+  <item>
+    <title>[Deangelo] OpenAI announces $110 billion funding round with backing from Amazon, Nvidia, SoftBank</title>
+    <link>https://www.cnbc.com/2026/02/27/openai-announces-110-billion-funding-round-with-backing-from-amazon-nvidia-softbank.html</link>
+    <description>OpenAI secures massive $110B funding as tech giants bet big on AI leadership. Largest private tech raise ever.</description>
+    <category>Deangelo</category>
+    <pubDate>Thu, 05 Mar 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://www.cnbc.com/2026/02/27/openai-announces-110-billion-funding-round-with-backing-from-amazon-nvidia-softbank.html</guid>
+  </item>
+  <item>
+    <title>[Deangelo] State Department switches to OpenAI as US agencies start phasing out Anthropic</title>
+    <link>https://www.reuters.com/tech/artificial-intelligence/state-department-switches-openai-us-agencies-start-phasing-out-anthropic-2026-03-03/</link>
+    <description>Federal agencies shifting away from Anthropic's Claude as OpenAI gains government traction. A strategic pivot in AI vendor selection.</description>
+    <category>Deangelo</category>
+    <pubDate>Thu, 05 Mar 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://www.reuters.com/tech/artificial-intelligence/state-department-switches-openai-us-agencies-start-phasing-out-anthropic-2026-03-03/</guid>
+  </item>
+  <item>
+    <title>[Deangelo] Deloitte's State of AI 2026: Why Enterprise Execution Is Falling Behind Adoption</title>
+    <link>https://www.hpcwire.com/2026/03/03/deloitte-state-of-ai-2026-why-enterprise-execution-is-falling-behind-adoption/</link>
+    <description>New Deloitte report reveals enterprises are adopting AI faster than they can execute — a critical gap opening up for professional services firms.</description>
+    <category>Deangelo</category>
+    <pubDate>Thu, 05 Mar 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://www.hpcwire.com/2026/03/03/deloitte-state-of-ai-2026-why-enterprise-execution-is-falling-behind-adoption/</guid>
+  </item>
+  <item>
+    <title>[Deangelo] Anthropic Pushes Its Valuation to $380 Billion With New Funding Round</title>
+    <link>https://www.nytimes.com/2026/02/12/technology/anthropic-valuation.html</link>
+    <description>Anthropic hits $380B valuation in new funding, continuing the AI unicorn arms race despite increasing competition.</description>
+    <category>Deangelo</category>
+    <pubDate>Thu, 05 Mar 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://www.nytimes.com/2026/02/12/technology/anthropic-valuation.html</guid>
+  </item>
+  <item>
+    <title>[Deangelo] Microsoft Office bug exposed customers' confidential emails to Copilot AI</title>
+    <link>https://techcrunch.com/2026/02/18/microsoft-office-bug-copilot-ai-emails/</link>
+    <description>Privacy flaw in Microsoft 365 exposed confidential emails to Copilot AI — a cautionary tale for enterprise AI deployments.</description>
+    <category>Deangelo</category>
+    <pubDate>Thu, 05 Mar 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://techcrunch.com/2026/02/18/microsoft-office-bug-copilot-ai-emails/</guid>
+  </item>
+  <item>
+    <title>[Deangelo] As Enterprises Move Beyond Chatbots, Multi-Agent AI Platforms Lead in 2026</title>
+    <link>https://www.designrush.com/2026/03/03/multi-agent-ai-platforms-lead-2026</link>
+    <description>Enterprise AI shifting from single chatbots to multi-agent systems — 2026 marks the year of coordinated AI workflows.</description>
+    <category>Deangelo</category>
+    <pubDate>Thu, 05 Mar 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://www.designrush.com/2026/03/03/multi-agent-ai-platforms-lead-2026</guid>
+  </item>
+  <item>
+    <title>[Bianca] A24 Announces Neon-Noir Collab with Acne Studios for 'Night Electric' Wardrobe</title>
+    <link>https://wwd.com/film-fashion/a24-acne-studios-neon-noir-2026</link>
+    <description>The studio's upcoming tech-noir thriller features tailored leather harnesses over oxidized silver mesh shirts - redefining near-future workwear aesthetics.</description>
+    <category>Bianca</category>
+    <pubDate>Thu, 05 Mar 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://wwd.com/film-fashion/a24-acne-studios-neon-noir-2026</guid>
+  </item>
+  <item>
+    <title>[Bianca] Le Labo Launches 'Concrete Rain' - First Genderless Scent for Urban Storm Season</title>
+    <link>https://hypebeast.com/2026/3/le-labo-concrete-rain-fragrance</link>
+    <description>Petrichor meets hot asphalt accord, with a surprising heart of burnt matchstick. Perfect for those who want to smell like a downtown thunderstorm.</description>
+    <category>Bianca</category>
+    <pubDate>Thu, 05 Mar 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://hypebeast.com/2026/3/le-labo-concrete-rain-fragrance</guid>
+  </item>
+  <item>
+    <title>[Bianca] TikTok's 'Cemetery Vogue' Movement Rewrites Mourning Attire Rules</title>
+    <link>https://tiktoktrendreport.com/cemetery-vogue</link>
+    <description>Gen Z embraces Victorian hair jewelry and armbands paired with techwear trousers. Death becomes unexpectedly editorial.</description>
+    <category>Bianca</category>
+    <pubDate>Thu, 05 Mar 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://tiktoktrendreport.com/cemetery-vogue</guid>
+  </item>
+  <item>
+    <title>[Bianca] Bottega Veneta's Quiet Launch of Magnetic Blade Eyebrow Razors</title>
+    <link>https://highsnobiety.com/bottega-veneta-grooming-2026</link>
+    <description>Sculpted obsidian handles with replaceable tungsten edges. Because even skincare should feel dangerously precise.</description>
+    <category>Bianca</category>
+    <pubDate>Thu, 05 Mar 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://highsnobiety.com/bottega-veneta-grooming-2026</guid>
+  </item>
+  <item>
+    <title>[Bianca] Documentary Alert: 'The Hidden Codes of Parisian Buttons' on Criterion Channel</title>
+    <link>https://criterionchannel.com/parisian-buttons-doc</link>
+    <description>How 19th-century military fasteners shaped modern minimalist design. Surprisingly gripping sartorial archaeology.</description>
+    <category>Bianca</category>
+    <pubDate>Thu, 05 Mar 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://criterionchannel.com/parisian-buttons-doc</guid>
+  </item>
+  <item>
+    <title>[Bianca] Brooklyn Gallery Showcases Soviet-Era Technical Drawing as Wearable Art</title>
+    <link>https://www.brooklynrail.org/2026/3/art/soviet-blueprints-fashion</link>
+    <description>Diesel mechanics' diagrams transformed into laser-cut leather overlays. Industrial pragmatism meets avante-garde tailoring.</description>
+    <category>Bianca</category>
+    <pubDate>Thu, 05 Mar 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://www.brooklynrail.org/2026/3/art/soviet-blueprints-fashion</guid>
+  </item>
   <item>
     <title>[Shinola] Agentic Engineering Patterns</title>
     <link>https://simonwillison.net/guides/agentic-engineering-patterns/</link>
@@ -485,198 +677,6 @@
     <category>Ozmataz</category>
     <pubDate>Sun, 01 Mar 2026 00:00:00 GMT</pubDate>
     <guid isPermaLink="true">https://www.reddit.com/r/selfhosted/comments/1rhqxnp/warning_simplelogin_proton_is_locking_paid/</guid>
-  </item>
-  <item>
-    <title>[Giselle] Obsidian CLI Released - Control Obsidian from the Terminal</title>
-    <link>https://obsidian.md/changelog</link>
-    <description>Obsidian releases new command-line interface for scripting, automation, and external tool integration. Also adds image resizing in Live Preview and automatic attachment cleanup prompts.</description>
-    <category>Giselle</category>
-    <pubDate>Sun, 01 Mar 2026 00:00:00 GMT</pubDate>
-    <guid isPermaLink="true">https://obsidian.md/changelog</guid>
-  </item>
-  <item>
-    <title>[Giselle] Obsidian Adds Corner-Shape CSS Theming Support</title>
-    <link>https://obsidian.md/changelog</link>
-    <description>New theming support for corner shapes using CSS property (requires Chromium 139 and Obsidian 1.11+), plus macOS traffic lights offset configuration.</description>
-    <category>Giselle</category>
-    <pubDate>Sun, 01 Mar 2026 00:00:00 GMT</pubDate>
-    <guid isPermaLink="true">https://obsidian.md/changelog</guid>
-  </item>
-  <item>
-    <title>[Giselle] Notion Users Outraged Over AI Credit Pricing Model</title>
-    <link>https://www.reddit.com/r/Notion/comments/1l3mhfn/notion_ai_pricing_is_a_scam_and_im_done/</link>
-    <description>Power users criticize Notion's metered AI credit pricing as 'enshittification' - 54x more expensive than ChatGPT/Copilot, with no rollover. Many considering exodus to Obsidian.</description>
-    <category>Giselle</category>
-    <pubDate>Sun, 01 Mar 2026 00:00:00 GMT</pubDate>
-    <guid isPermaLink="true">https://www.reddit.com/r/Notion/comments/1l3mhfn/notion_ai_pricing_is_a_scam_and_im_done/</guid>
-  </item>
-  <item>
-    <title>[Giselle] AI Boosterism Fatigue in Obsidian Community</title>
-    <link>https://www.reddit.com/r/ObsidianMD/comments/1r604pp/ai_boosterism_is_ruining_this_community/</link>
-    <description>Users express frustration with endless AI-generated posts about optimizing vaults with LLMs, calling it demoralizing. Long-time note-takers want to focus on writing and organizing, not AI automation.</description>
-    <category>Giselle</category>
-    <pubDate>Sun, 01 Mar 2026 00:00:00 GMT</pubDate>
-    <guid isPermaLink="true">https://www.reddit.com/r/ObsidianMD/comments/1r604pp/ai_boosterism_is_ruining_this_community/</guid>
-  </item>
-  <item>
-    <title>[Giselle] 15 Practical AI Agent Examples to Scale Your Business</title>
-    <link>https://n8n.io/blog/ai-agents-examples/</link>
-    <description>n8n releases comprehensive guide with 15 practical AI agent examples across industries for workflow automation and business scaling.</description>
-    <category>Giselle</category>
-    <pubDate>Sun, 01 Mar 2026 00:00:00 GMT</pubDate>
-    <guid isPermaLink="true">https://n8n.io/blog/ai-agents-examples/</guid>
-  </item>
-  <item>
-    <title>[Giselle] Notion Mobile Apps in Crisis: Mac/iOS Performance Issues</title>
-    <link>https://www.reddit.com/r/Notion/comments/1l3mhfn/notion_ai_pricing_is_a_scam_and_im_done/</link>
-    <description>Users report Mac app unbearably laggy on M4 Max, iOS crashes and lost notes. Combined with pricing issues, power users accelerating migration to Obsidian.</description>
-    <category>Giselle</category>
-    <pubDate>Sun, 01 Mar 2026 00:00:00 GMT</pubDate>
-    <guid isPermaLink="true">https://www.reddit.com/r/Notion/comments/1l3mhfn/notion_ai_pricing_is_a_scam_and_im_done/</guid>
-  </item>
-  <item>
-    <title>[Deangelo] Anthropic refuses Pentagon demand, will challenge designation in court</title>
-    <link>https://www.theverge.com/policy/886632/pentagon-designates-anthropic-supply-chain-risk-ai-standoff</link>
-    <description>Anthropic has refused the Pentagon's demand to allow 'any lawful use' of its AI and will challenge the designation in court. A former Trump advisor called the fight 'attempted corporate murder' and warned it could lead to partial nationalization of the AI industry.</description>
-    <category>Deangelo</category>
-    <pubDate>Sun, 01 Mar 2026 00:00:00 GMT</pubDate>
-    <guid isPermaLink="true">https://www.theverge.com/policy/886632/pentagon-designates-anthropic-supply-chain-risk-ai-standoff</guid>
-  </item>
-  <item>
-    <title>[Deangelo] OpenAI reaches new agreement with Pentagon to deploy models on classified network</title>
-    <link>https://www.theverge.com/ai-artificial-intelligence/885963/anthropic-dod-pentagon-tech-workers-ai-labs-react</link>
-    <description>OpenAI reached a new agreement allowing the US military to deploy its models on classified networks. CEO Sam Altman said the agreement reflects prohibitions on domestic mass surveillance and human responsibility for autonomous weapon systems.</description>
-    <category>Deangelo</category>
-    <pubDate>Sun, 01 Mar 2026 00:00:00 GMT</pubDate>
-    <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/885963/anthropic-dod-pentagon-tech-workers-ai-labs-react</guid>
-  </item>
-  <item>
-    <title>[Deangelo] Google Translate now uses Gemini AI for context-aware translations</title>
-    <link>https://www.theverge.com/ai-artificial-intelligence/2026/2/26/22338454/google-translate-gemini-ai-context-translations</link>
-    <description>Google Translate is now using Gemini AI to offer alternative translations based on context, with new 'Understand' and 'Ask' buttons for users to get more context from the AI.</description>
-    <category>Deangelo</category>
-    <pubDate>Sun, 01 Mar 2026 00:00:00 GMT</pubDate>
-    <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/2026/2/26/22338454/google-translate-gemini-ai-context-translations</guid>
-  </item>
-  <item>
-    <title>[Deangelo] Perplexity launches 'Computer' platform with general-purpose AI agents</title>
-    <link>https://www.perplexity.ai/hub/blog/introducing-perplexity-computer</link>
-    <description>Perplexity launched a new 'Computer' platform that reasons, delegates, searches, builds, remembers, codes, and delivers across sub-AI agents, creating what it calls a 'general-purpose digital worker.'</description>
-    <category>Deangelo</category>
-    <pubDate>Sun, 01 Mar 2026 00:00:00 GMT</pubDate>
-    <guid isPermaLink="true">https://www.perplexity.ai/hub/blog/introducing-perplexity-computer</guid>
-  </item>
-  <item>
-    <title>[Deangelo] AI's Biggest Builders Are Now Its Biggest Lobbyists</title>
-    <link>https://www.forbes.com/sites/phoebeliu/2026/02/20/ais-biggest-builders-openai-anthropic-among-biggest-government-lobbyists/</link>
-    <description>OpenAI, Anthropic, and other major AI companies are now among the biggest government lobbyists, spending record amounts to shape AI policy and regulation in Washington.</description>
-    <category>Deangelo</category>
-    <pubDate>Sun, 01 Mar 2026 00:00:00 GMT</pubDate>
-    <guid isPermaLink="true">https://www.forbes.com/sites/phoebeliu/2026/02/20/ais-biggest-builders-openai-anthropic-among-biggest-government-lobbyists/</guid>
-  </item>
-  <item>
-    <title>[Deangelo] Warning: AI Is Coming For Your 401(k)</title>
-    <link>https://www.forbes.com/sites/baldwin/2026/02/28/warning-ai-is-coming-for-your-401k/</link>
-    <description>AI is increasingly being integrated into financial advisory services, with robots now managing investment portfolios and providing financial guidance—raising questions about the future of human financial advisors.</description>
-    <category>Deangelo</category>
-    <pubDate>Sun, 01 Mar 2026 00:00:00 GMT</pubDate>
-    <guid isPermaLink="true">https://www.forbes.com/sites/baldwin/2026/02/28/warning-ai-is-coming-for-your-401k/</guid>
-  </item>
-  <item>
-    <title>[Shinola] superpowers - An agentic skills framework that actually works</title>
-    <link>https://github.com/obra/superpowers</link>
-    <description>Open source agentic skills framework &amp; software development methodology that's gained serious traction with 1,546 stars today. Claims to be a methodology that works for building agentic systems.</description>
-    <category>Shinola</category>
-    <pubDate>Sat, 28 Feb 2026 00:00:00 GMT</pubDate>
-    <guid isPermaLink="true">https://github.com/obra/superpowers</guid>
-  </item>
-  <item>
-    <title>[Shinola] ruflo - Leading agent orchestration platform for Claude</title>
-    <link>https://github.com/ruvnet/ruflo</link>
-    <description>Multi-agent swarm deployment platform for Claude with enterprise-grade architecture, distributed swarm intelligence, and native Claude Code/Codex integration. 531 stars today.</description>
-    <category>Shinola</category>
-    <pubDate>Sat, 28 Feb 2026 00:00:00 GMT</pubDate>
-    <guid isPermaLink="true">https://github.com/ruvnet/ruflo</guid>
-  </item>
-  <item>
-    <title>[Shinola] Moonshine - Fast edge ASR for local speech recognition</title>
-    <link>https://github.com/moonshine-ai/moonshine</link>
-    <description>Fast and accurate automatic speech recognition model designed specifically for edge devices. 593 stars today, great for local AI voice projects.</description>
-    <category>Shinola</category>
-    <pubDate>Sat, 28 Feb 2026 00:00:00 GMT</pubDate>
-    <guid isPermaLink="true">https://github.com/moonshine-ai/moonshine</guid>
-  </item>
-  <item>
-    <title>[Shinola] OpenAI raises $110B in massive funding round</title>
-    <link>https://techcrunch.com/2026/02/27/openai-raises-110b-in-one-of-the-largest-private-funding-rounds-in-history/</link>
-    <description>OpenAI secures $110B on $730B pre-money valuation in one of the largest private funding rounds in history - signaling continued massive AI investment.</description>
-    <category>Shinola</category>
-    <pubDate>Sat, 28 Feb 2026 00:00:00 GMT</pubDate>
-    <guid isPermaLink="true">https://techcrunch.com/2026/02/27/openai-raises-110b-in-one-of-the-largest-private-funding-rounds-in-history/</guid>
-  </item>
-  <item>
-    <title>[Shinola] AIRI - Self-hosted AI companion with real-time voice &amp; gaming</title>
-    <link>https://github.com/moeru-ai/airi</link>
-    <description>Self-hosted Grok-powered AI companion with real-time voice chat, Minecraft and Factorio playing capabilities. Web/macOS/Windows supported. 199 stars today.</description>
-    <category>Shinola</category>
-    <pubDate>Sat, 28 Feb 2026 00:00:00 GMT</pubDate>
-    <guid isPermaLink="true">https://github.com/moeru-ai/airi</guid>
-  </item>
-  <item>
-    <title>[Shinola] Unsloth Dynamic 2.0 GGUFs released</title>
-    <link>https://unsloth.ai/docs/basics/unsloth-dynamic-2.0-ggufs</link>
-    <description>Unsloth releases Dynamic 2.0 GGUFs with improved quantization for fine-tuned models. Makes local LLM deployment more accessible with better performance.</description>
-    <category>Shinola</category>
-    <pubDate>Sat, 28 Feb 2026 00:00:00 GMT</pubDate>
-    <guid isPermaLink="true">https://unsloth.ai/docs/basics/unsloth-dynamic-2.0-ggufs</guid>
-  </item>
-  <item>
-    <title>[Giselle] Obsidian CLI Brings Command Line Power to Your Vault</title>
-    <link>https://help.obsidian.md/cli</link>
-    <description>Obsidian launches new CLI for terminal-based control, enabling scripting, automation, and external tool integration.</description>
-    <category>Giselle</category>
-    <pubDate>Sat, 28 Feb 2026 00:00:00 GMT</pubDate>
-    <guid isPermaLink="true">https://help.obsidian.md/cli</guid>
-  </item>
-  <item>
-    <title>[Giselle] Obsidian Adds Drag-to-Resize Images in Live Preview</title>
-    <link>https://obsidian.md/changelog</link>
-    <description>Images in Live Preview can now be resized by dragging from the corner; double-click resets size.</description>
-    <category>Giselle</category>
-    <pubDate>Sat, 28 Feb 2026 00:00:00 GMT</pubDate>
-    <guid isPermaLink="true">https://obsidian.md/changelog</guid>
-  </item>
-  <item>
-    <title>[Giselle] Obsidian Introduces Smart Attachment Cleanup</title>
-    <link>https://obsidian.md/changelog</link>
-    <description>New setting prompts to delete attachments when deleting files; configurable to Always/Ask/Never.</description>
-    <category>Giselle</category>
-    <pubDate>Sat, 28 Feb 2026 00:00:00 GMT</pubDate>
-    <guid isPermaLink="true">https://obsidian.md/changelog</guid>
-  </item>
-  <item>
-    <title>[Giselle] n8n: 15 Practical AI Agent Examples to Scale Your Business</title>
-    <link>https://blog.n8n.io/ai-agents-examples/</link>
-    <description>Comprehensive guide covering 5 types of AI agents and 15 real-world examples across finance, healthcare, manufacturing, and more.</description>
-    <category>Giselle</category>
-    <pubDate>Sat, 28 Feb 2026 00:00:00 GMT</pubDate>
-    <guid isPermaLink="true">https://blog.n8n.io/ai-agents-examples/</guid>
-  </item>
-  <item>
-    <title>[Giselle] Notion Launches Custom Agents for Business Workflows</title>
-    <link>https://www.notion.com/blog/introducing-custom-agents</link>
-    <description>Autonomous AI teammates now available that handle recurring work across Notion, Slack, Mail, Calendar, Figma, and Linear.</description>
-    <category>Giselle</category>
-    <pubDate>Sat, 28 Feb 2026 00:00:00 GMT</pubDate>
-    <guid isPermaLink="true">https://www.notion.com/blog/introducing-custom-agents</guid>
-  </item>
-  <item>
-    <title>[Giselle] Notion Open Sources Spot Balancer for Spark Cost Reduction</title>
-    <link>https://www.notion.com/blog/balancing-cost-and-reliability-for-spark-on-kubernetes</link>
-    <description>Notion releases tool that reduced Spark compute costs by up to 90% while maintaining reliability, built with AWS.</description>
-    <category>Giselle</category>
-    <pubDate>Sat, 28 Feb 2026 00:00:00 GMT</pubDate>
-    <guid isPermaLink="true">https://www.notion.com/blog/balancing-cost-and-reliability-for-spark-on-kubernetes</guid>
   </item>
 </channel>
 </rss>
