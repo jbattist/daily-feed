@@ -4,8 +4,152 @@
   <title>Joe's Daily Curated Feed</title>
   <link>http://localhost:8484/feed.xml</link>
   <description>Daily news curated by Giselle, Oz, Shinola &amp; Deangelo</description>
-  <lastBuildDate>Fri, 06 Mar 2026 12:45:16 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 07 Mar 2026 12:45:05 GMT</lastBuildDate>
   <atom:link href="http://localhost:8484/feed.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>[Ozmataz] Linux 7.0 Slab Allocator Fix Incoming for Severe Performance Regression</title>
+    <link>https://www.phoronix.com/news/Linux-7.0-Slab-Severe-Perf-Fix</link>
+    <description>A critical slab allocator fix is headed to Linux 7.0 after developers discovered a ~64% performance regression in late February. If you're running bleeding-edge kernels, this one's worth watching.</description>
+    <category>Ozmataz</category>
+    <pubDate>Sat, 07 Mar 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://www.phoronix.com/news/Linux-7.0-Slab-Severe-Perf-Fix</guid>
+  </item>
+  <item>
+    <title>[Ozmataz] ZimaBoard 2 Review: Intel N150 Mini Server for Homelab</title>
+    <link>https://www.phoronix.com/review/zimaboard2</link>
+    <description>Passively-cooled SOHO server with Intel N150 quad-core, dual 2.5GbE, PCIe 3.0 x4 expansion, SATA ports, and 16GB LPDDR5. Preloaded with ZimaOS for easy personal cloud setup. Solid option for compact NAS or lightweight homelab builds.</description>
+    <category>Ozmataz</category>
+    <pubDate>Sat, 07 Mar 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://www.phoronix.com/review/zimaboard2</guid>
+  </item>
+  <item>
+    <title>[Ozmataz] AMD CPPC Performance Priority Patches Prep for Zen 6</title>
+    <link>https://www.phoronix.com/news/AMD-CPPC-Performance-Priority</link>
+    <description>New kernel patches add AMD CPPC Performance Priority support, a hardware feature coming to future AMD processors (almost certainly Zen 6). Finer-grained power and performance controls on the horizon for EPYC and Ryzen.</description>
+    <category>Ozmataz</category>
+    <pubDate>Sat, 07 Mar 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://www.phoronix.com/news/AMD-CPPC-Performance-Priority</guid>
+  </item>
+  <item>
+    <title>[Ozmataz] Kula: Lightweight Self-Contained Linux Server Monitoring Tool</title>
+    <link>https://github.com/c0m4r/kula</link>
+    <description>New open-source monitoring tool designed for minimal footprint and easy deployment. Self-contained binary, no heavy dependencies. Perfect for homelab setups where Prometheus/Grafana feel like overkill.</description>
+    <category>Ozmataz</category>
+    <pubDate>Sat, 07 Mar 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://github.com/c0m4r/kula</guid>
+  </item>
+  <item>
+    <title>[Ozmataz] Plasma Bigscreen: 10-Foot Interface for KDE Plasma</title>
+    <link>https://plasma-bigscreen.org</link>
+    <description>KDE's TV-friendly interface for couch/remote control use. Built on Plasma and Qt, targets media center PCs and smart TV setups. Alternative to Kodi/LibreELEC with full Plasma desktop underneath.</description>
+    <category>Ozmataz</category>
+    <pubDate>Sat, 07 Mar 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://plasma-bigscreen.org</guid>
+  </item>
+  <item>
+    <title>[Ozmataz] Modernizing Swapping: Virtual Swap Spaces</title>
+    <link>https://lwn.net/Articles/1059201/</link>
+    <description>LWN deep-dive into proposed Linux memory management improvements. Virtual swap spaces could change how systems handle memory pressure and overcommit. Worth understanding for anyone managing memory-constrained servers.</description>
+    <category>Ozmataz</category>
+    <pubDate>Sat, 07 Mar 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://lwn.net/Articles/1059201/</guid>
+  </item>
+  <item>
+    <title>[Giselle] What and Where is a Link Context? Explained Using Citation Conventions</title>
+    <link>https://zettelkasten.de/posts/what-and-where-is-a-link-context-explained-using-citation-conventions/</link>
+    <description>A practical guide to citation conventions and how they apply to Zettelkasten linking. Covers word-level, sentence, and block-level contexts to help you write links that clearly communicate what you'll find on the other side.</description>
+    <category>Giselle</category>
+    <pubDate>Sat, 07 Mar 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://zettelkasten.de/posts/what-and-where-is-a-link-context-explained-using-citation-conventions/</guid>
+  </item>
+  <item>
+    <title>[Giselle] The Hidden Problem with Note Titles as Links (And How to Fix It)</title>
+    <link>https://zettelkasten.de/posts/the-hidden-problem-with-note-titles-as-links-and-how-to-fix-it/</link>
+    <description>When note titles serve as IDs, it creates friction—the link meaning should change based on context. Solution: separate ID from title using link aliases in Obsidian or link-as-search in The Archive.</description>
+    <category>Giselle</category>
+    <pubDate>Sat, 07 Mar 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://zettelkasten.de/posts/the-hidden-problem-with-note-titles-as-links-and-how-to-fix-it/</guid>
+  </item>
+  <item>
+    <title>[Giselle] Stop Caring About Your Inbox</title>
+    <link>https://zettelkasten.de/posts/stop-caring-about-your-inbox/</link>
+    <description>The inbox problem in knowledge work is fundamentally different from task management. While tasks demand empty inboxes for trust, PKM thrives on abundance and rational exclusion. Focus on deep engagement with ideas that matter.</description>
+    <category>Giselle</category>
+    <pubDate>Sat, 07 Mar 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://zettelkasten.de/posts/stop-caring-about-your-inbox/</guid>
+  </item>
+  <item>
+    <title>[Giselle] Understand Thinking Notes to Clear Up Your Workflow</title>
+    <link>https://zettelkasten.de/posts/about-thinking-notes/</link>
+    <description>Not all notes are created equal. Engagement notes help you process input, thinking notes extend your mind during understanding, and atomic notes are the building blocks. Knowing the difference clears up workflow confusion.</description>
+    <category>Giselle</category>
+    <pubDate>Sat, 07 Mar 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://zettelkasten.de/posts/about-thinking-notes/</guid>
+  </item>
+  <item>
+    <title>[Giselle] Should You Have a Note Goal Per Day?</title>
+    <link>https://zettelkasten.de/posts/should-you-have-a-note-goal-per-day/</link>
+    <description>Daily note counts can work if built on three pillars: never treat count as an end in itself, allocate resources first then measure, and never sacrifice quality for quantity. The note count is a thermometer, not a target.</description>
+    <category>Giselle</category>
+    <pubDate>Sat, 07 Mar 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://zettelkasten.de/posts/should-you-have-a-note-goal-per-day/</guid>
+  </item>
+  <item>
+    <title>[Giselle] n8n Tunnel Service Discontinued</title>
+    <link>https://blog.n8n.io/n8n-tunnel-service-discontinued/</link>
+    <description>n8n's built-in tunnel service is being discontinued. For local webhook development, switch to alternatives like Cloudflare Tunnel or ngrok—and always treat local endpoints with production-level security.</description>
+    <category>Giselle</category>
+    <pubDate>Sat, 07 Mar 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://blog.n8n.io/n8n-tunnel-service-discontinued/</guid>
+  </item>
+  <item>
+    <title>[Deangelo] OpenAI Launches GPT-5.4 with Native Computer Use Mode, Financial Plugins for Excel and Sheets</title>
+    <link>https://venturebeat.com/ai/openai-launches-gpt-5-4-with-native-computer-use-mode-financial-plugins-for-microsoft-excel-google-sheets/</link>
+    <description>OpenAI's latest model release introduces native computer use capabilities and direct integrations with Microsoft Excel and Google Sheets, marking a major push into enterprise productivity workflows.</description>
+    <category>Deangelo</category>
+    <pubDate>Sat, 07 Mar 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://venturebeat.com/ai/openai-launches-gpt-5-4-with-native-computer-use-mode-financial-plugins-for-microsoft-excel-google-sheets/</guid>
+  </item>
+  <item>
+    <title>[Deangelo] Deloitte's State of AI 2026: Why Enterprise Execution Is Falling Behind Adoption</title>
+    <link>https://www.hpcwire.com/2026/03/04/deloittes-state-of-ai-2026-why-enterprise-execution-is-falling-behind-adoption/</link>
+    <description>New Deloitte report reveals a widening gap between AI adoption rates and actual execution success in enterprises, highlighting strategy and governance as key bottlenecks for 2026.</description>
+    <category>Deangelo</category>
+    <pubDate>Sat, 07 Mar 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://www.hpcwire.com/2026/03/04/deloittes-state-of-ai-2026-why-enterprise-execution-is-falling-behind-adoption/</guid>
+  </item>
+  <item>
+    <title>[Deangelo] State Department Switches to OpenAI as US Agencies Start Phasing Out Anthropic</title>
+    <link>https://www.reuters.com/technology/state-department-switches-openai-us-agencies-start-phasing-out-anthropic-2026-03-03/</link>
+    <description>Major government AI procurement shift as the State Department moves from Anthropic to OpenAI, signaling evolving federal AI strategy and vendor preferences.</description>
+    <category>Deangelo</category>
+    <pubDate>Sat, 07 Mar 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://www.reuters.com/technology/state-department-switches-openai-us-agencies-start-phasing-out-anthropic-2026-03-03/</guid>
+  </item>
+  <item>
+    <title>[Deangelo] 4 Obstacles Impeding Paid Microsoft 365 Copilot Adoption</title>
+    <link>https://www.nojitter.com/microsoft-teams/4-obstacles-impede-paid-microsoft-365-copilot-adoption</link>
+    <description>New analysis identifies pricing concerns, unclear ROI, change management challenges, and feature gaps as the primary barriers slowing enterprise Copilot adoption.</description>
+    <category>Deangelo</category>
+    <pubDate>Sat, 07 Mar 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://www.nojitter.com/microsoft-teams/4-obstacles-impede-paid-microsoft-365-copilot-adoption</guid>
+  </item>
+  <item>
+    <title>[Deangelo] Microsoft Drops Copilot's 'Real Talk' Mode After Learning Users Want More Than AI Validation</title>
+    <link>https://www.windowslatest.com/microsoft-drops-copilots-real-talk-after-learning-people-dont-just-want-ai-validation/</link>
+    <description>Microsoft pulls back on Copilot's personality mode after feedback revealed users prefer substantive assistance over casual conversation with their AI tools.</description>
+    <category>Deangelo</category>
+    <pubDate>Sat, 07 Mar 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://www.windowslatest.com/microsoft-drops-copilots-real-talk-after-learning-people-dont-just-want-ai-validation/</guid>
+  </item>
+  <item>
+    <title>[Deangelo] AI Agents and Enterprise Transformation: Turning Hype Into Measurable Value in 2026</title>
+    <link>https://www.itbrief.uk/ai-agents-and-enterprise-transformation-turning-hype-into-measurable-value-in-2026/</link>
+    <description>Practical framework for enterprises looking to move beyond AI agent experimentation to production-scale deployments with measurable business outcomes.</description>
+    <category>Deangelo</category>
+    <pubDate>Sat, 07 Mar 2026 00:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://www.itbrief.uk/ai-agents-and-enterprise-transformation-turning-hype-into-measurable-value-in-2026/</guid>
+  </item>
   <item>
     <title>[Ozmataz] systemd 260-rc2 Released With More Changes</title>
     <link>https://www.phoronix.com/news/systemd-260-rc2</link>
@@ -533,150 +677,6 @@
     <category>Giselle</category>
     <pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
     <guid isPermaLink="true">https://obsidian.md/changelog</guid>
-  </item>
-  <item>
-    <title>[Deangelo] US Used Anthropic AI for Iran Strikes Hours After Trump Announced Ban</title>
-    <link>https://www.theverge.com/ai-artificial-intelligence/883456/anthropic-pentagon-department-of-defense-negotiations</link>
-    <description>Despite President Trump announcing a ban on federal use of Anthropic's Claude, the US military used Anthropic AI for intelligence assessments and target identification in Saturday's strikes against Iran. Anthropic plans to challenge the designation in court.</description>
-    <category>Deangelo</category>
-    <pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
-    <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/883456/anthropic-pentagon-department-of-defense-negotiations</guid>
-  </item>
-  <item>
-    <title>[Deangelo] OpenAI Reaches New Pentagon Agreement for Classified Military Deployment</title>
-    <link>https://www.theverge.com/ai-artificial-intelligence/885963/anthropic-dod-pentagon-tech-workers-ai-labs-react</link>
-    <description>OpenAI reached a new agreement allowing the US military to deploy its models on classified networks. CEO Sam Altman said the agreement reflects OpenAI's stance on prohibitions for domestic mass surveillance and human responsibility for autonomous weapons.</description>
-    <category>Deangelo</category>
-    <pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
-    <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/885963/anthropic-dod-pentagon-tech-workers-ai-labs-react</guid>
-  </item>
-  <item>
-    <title>[Deangelo] Ilya Sutskever Praises Anthropic and OpenAI for Standing Firm on Military AI</title>
-    <link>https://www.theverge.com/ai-artificial-intelligence/883456/anthropic-pentagon-department-of-defense-negotiations</link>
-    <description>OpenAI co-founder Ilya Sutskever weighed in on the Anthropic-Pentagon situation, saying it's 'extremely good that Anthropic has not backed down' and significant that OpenAI took a similar stance.</description>
-    <category>Deangelo</category>
-    <pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
-    <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/883456/anthropic-pentagon-department-of-defense-negotiations</guid>
-  </item>
-  <item>
-    <title>[Deangelo] Google Translate Now Uses Gemini AI for Context-Aware Translations</title>
-    <link>https://www.theverge.com/ai-artificial-intelligence/883707/anthropic-claude-cowork-updates</link>
-    <description>Google Translate is now using Gemini AI to offer alternative translations based on context. Users can ask the AI for more context with new 'Understand' and 'Ask' buttons.</description>
-    <category>Deangelo</category>
-    <pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
-    <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/883707/anthropic-claude-cowork-updates</guid>
-  </item>
-  <item>
-    <title>[Deangelo] Perplexity Launches 'Computer' Platform with Multi-Agent AI System</title>
-    <link>https://www.theverge.com/ai-artificial-intelligence/883707/anthropic-claude-cowork-updates</link>
-    <description>Perplexity launched a new 'Computer' platform featuring AI agents that reason, delegate, search, build, remember, code, and deliver across sub-AI agents, creating what it calls a 'general-purpose digital worker.'</description>
-    <category>Deangelo</category>
-    <pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
-    <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/883707/anthropic-claude-cowork-updates</guid>
-  </item>
-  <item>
-    <title>[Deangelo] YouTube Algorithm Serving 40% AI-Generated Content to Children</title>
-    <link>https://www.theverge.com/ai-artificial-intelligence/882956/ai-deepfake-detection-labels-c2pa-instagram-youtube</link>
-    <description>The New York Times found that more than 40% of YouTube Shorts recommended to children after watching popular kids' channels appear to contain AI-generated visuals. YouTube doesn't require animated AI videos for children to be labeled.</description>
-    <category>Deangelo</category>
-    <pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
-    <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/882956/ai-deepfake-detection-labels-c2pa-instagram-youtube</guid>
-  </item>
-  <item>
-    <title>[Shinola] MicroGPT: Tiny Language Models for Real-World Tasks</title>
-    <link>https://karpathy.github.io/2026/02/12/microgpt/</link>
-    <description>Andrej Karpathy releases MicroGPT - minimal GPT architectures for real-world applications. Simple, interpretable, and highly efficient for edge deployment. 968 points on HN.</description>
-    <category>Shinola</category>
-    <pubDate>Sun, 01 Mar 2026 00:00:00 GMT</pubDate>
-    <guid isPermaLink="true">https://karpathy.github.io/2026/02/12/microgpt/</guid>
-  </item>
-  <item>
-    <title>[Shinola] AIRI: Self-Hosted Waifu AI Companion</title>
-    <link>https://github.com/moeru-ai/airi</link>
-    <description>AirI is a self-hosted AI companion with realtime voice chat, Minecraft and Factorio gameplay support. Built with Moeru-AI. 19,663 stars, trending hard.</description>
-    <category>Shinola</category>
-    <pubDate>Sun, 01 Mar 2026 00:00:00 GMT</pubDate>
-    <guid isPermaLink="true">https://github.com/moeru-ai/airi</guid>
-  </item>
-  <item>
-    <title>[Shinola] Ruflo: Agent Orchestration Platform for Claude</title>
-    <link>https://github.com/ruvnet/ruflo</link>
-    <description>Leading multi-agent orchestration platform for Claude. Deploy intelligent swarms, coordinate autonomous workflows, with enterprise-grade architecture and RAG integration. 16,896 stars.</description>
-    <category>Shinola</category>
-    <pubDate>Sun, 01 Mar 2026 00:00:00 GMT</pubDate>
-    <guid isPermaLink="true">https://github.com/ruvnet/ruflo</guid>
-  </item>
-  <item>
-    <title>[Shinola] MCP Server Reduces Claude Code Context by 98%</title>
-    <link>https://mksg.lu/blog/context-mode</link>
-    <description>New MCP server achieves 98% reduction in Claude Code context consumption through smart context management. A major efficiency breakthrough for agent workflows.</description>
-    <category>Shinola</category>
-    <pubDate>Sun, 01 Mar 2026 00:00:00 GMT</pubDate>
-    <guid isPermaLink="true">https://mksg.lu/blog/context-mode</guid>
-  </item>
-  <item>
-    <title>[Shinola] Deer-Flow: ByteDance's Open-Source SuperAgent</title>
-    <link>https://github.com/bytedance/deer-flow</link>
-    <description>ByteDance's open-source SuperAgent harness that researches, codes, and creates. Uses sandboxes, memories, tools, skills and subagents for complex multi-hour tasks.</description>
-    <category>Shinola</category>
-    <pubDate>Sun, 01 Mar 2026 00:00:00 GMT</pubDate>
-    <guid isPermaLink="true">https://github.com/bytedance/deer-flow</guid>
-  </item>
-  <item>
-    <title>[Shinola] Superset: IDE for the AI Agents Era</title>
-    <link>https://github.com/superset-sh/superset</link>
-    <description>Run an army of Claude Code, Codex and other agents locally. IDE for orchestrating multiple AI agents simultaneously. 2,620 stars and growing fast.</description>
-    <category>Shinola</category>
-    <pubDate>Sun, 01 Mar 2026 00:00:00 GMT</pubDate>
-    <guid isPermaLink="true">https://github.com/superset-sh/superset</guid>
-  </item>
-  <item>
-    <title>[Ozmataz] Linux 7.0 Development &amp; Intel Panther Lake Proved Most Popular In February</title>
-    <link>https://www.phoronix.com/news/February-2026-Recap</link>
-    <description>Phoronix's February 2026 recap highlights Linux 7.0 merge window developments and Intel Panther Lake Linux testing as the most popular topics. 289 original open-source news articles published.</description>
-    <category>Ozmataz</category>
-    <pubDate>Sun, 01 Mar 2026 00:00:00 GMT</pubDate>
-    <guid isPermaLink="true">https://www.phoronix.com/news/February-2026-Recap</guid>
-  </item>
-  <item>
-    <title>[Ozmataz] GNU Hurd On Guix Is Ready With 64-bit Support</title>
-    <link>https://www.phoronix.com/news/GNU-Hurd-64-bit-2026</link>
-    <description>GNU Hurd 64-bit support is now ready in Guix, though SMP multi-processor support is still in development. A major milestone for the long-running GNU Hurd project.</description>
-    <category>Ozmataz</category>
-    <pubDate>Sun, 01 Mar 2026 00:00:00 GMT</pubDate>
-    <guid isPermaLink="true">https://www.phoronix.com/news/GNU-Hurd-64-bit-2026</guid>
-  </item>
-  <item>
-    <title>[Ozmataz] LXD 6.7 Released With AMD GPU Passthrough Support</title>
-    <link>https://www.phoronix.com/news/LXD-6.7-Released</link>
-    <description>Canonical released LXD 6.7 with AMD GPU passthrough support, a key feature for homelabbers running GPU-accelerated containers and VMs.</description>
-    <category>Ozmataz</category>
-    <pubDate>Sun, 01 Mar 2026 00:00:00 GMT</pubDate>
-    <guid isPermaLink="true">https://www.phoronix.com/news/LXD-6.7-Released</guid>
-  </item>
-  <item>
-    <title>[Ozmataz] Hyprland 0.54 Released As A Massive Update</title>
-    <link>https://www.phoronix.com/news/Hyprland-0.54-Released</link>
-    <description>Hyprland 0.54 dropped as a major Wayland compositor update with significant changes. Great for tiling WM enthusiasts building terminal-centric setups.</description>
-    <category>Ozmataz</category>
-    <pubDate>Sun, 01 Mar 2026 00:00:00 GMT</pubDate>
-    <guid isPermaLink="true">https://www.phoronix.com/news/Hyprland-0.54-Released</guid>
-  </item>
-  <item>
-    <title>[Ozmataz] FreeBSD 14.4-RC1 Adds Emacs, Vim &amp; More To DVD Images</title>
-    <link>https://www.phoronix.com/news/FreeBSD-14.4-RC1-Released</link>
-    <description>FreeBSD 14.4-RC1 released with Emacs and Vim included in DVD images - useful for homelabbers who want a full-featured BSD alternative.</description>
-    <category>Ozmataz</category>
-    <pubDate>Sun, 01 Mar 2026 00:00:00 GMT</pubDate>
-    <guid isPermaLink="true">https://www.phoronix.com/news/FreeBSD-14.4-RC1-Released</guid>
-  </item>
-  <item>
-    <title>[Ozmataz] Warning: Proton/SimpleLogin Locking Paid Users Out</title>
-    <link>https://www.reddit.com/r/selfhosted/comments/1rhqxnp/warning_simplelogin_proton_is_locking_paid/</link>
-    <description>Proton's SimpleLogin is reportedly banning users with custom domain inboxes on niche providers, locking them out without recourse. Self-hosters beware.</description>
-    <category>Ozmataz</category>
-    <pubDate>Sun, 01 Mar 2026 00:00:00 GMT</pubDate>
-    <guid isPermaLink="true">https://www.reddit.com/r/selfhosted/comments/1rhqxnp/warning_simplelogin_proton_is_locking_paid/</guid>
   </item>
 </channel>
 </rss>
